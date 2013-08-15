@@ -1,0 +1,32 @@
+[
+  {
+    "value": "4",
+    "display_name": "Excellent (Both cannula and saturation artifact free for > 4 hrs.)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Good (Saturation artifact-free for >= 4 hrs; cannula artifact free for >= 3 and < 4hrs.)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Poor (Saturation artifact-free for >= 4 hrs; cannula artifact free for <2 hrs.)",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Short Airflow (Saturation artifact-free for ≥ 3.7 hrs; cannula artifact free for < 1 hr.)",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Short Study (Saturation artifact-free for < 3.7 hrs.)",
+    "description": ""
+  },
+  {
+    "value": "-1",
+    "display_name": "Not Scored (Saturation artifact-free for < 30 minutes)",
+    "description": ""
+  } 
+]

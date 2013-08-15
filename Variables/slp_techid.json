@@ -1,0 +1,6 @@
+{
+  "id": "slp_techid",
+  "display_name": "Technician ID",
+  "description": "",
+  "type": "string"
+}
