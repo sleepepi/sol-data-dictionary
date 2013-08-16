@@ -1,0 +1,6 @@
+{
+  "id": "slp_ahtime0pn",
+  "display_name": "Total Time spent in Apnea/Hypopnea event (all desats, non-supine) (seconds)",
+  "description": "Total Time spent in Apnea/Hypopnea event in non-supine body position, expressed in seconds",
+  "type": "numeric"
+}

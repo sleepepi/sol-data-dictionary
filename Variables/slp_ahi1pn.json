@@ -1,0 +1,6 @@
+{
+  "id": "slp_ahi1pn",
+  "display_name": "Apnea/Hypopnea Index (1% desat, non-supine)",
+  "description": "Number of Apnea and Hypopnea events associated with at least a 1% oxygen desaturation in non-supine body position per hour of sleep",
+  "type": "numeric"
+}

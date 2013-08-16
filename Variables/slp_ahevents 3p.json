@@ -1,0 +1,6 @@
+{
+  "id": "slp_ahevents3p",
+  "display_name": "Apnea/Hypopnea Index (3% desat)",
+  "description": "Number of Apnea and Hypopnea events associated with at least a 3% oxygen desaturation",
+  "type": "numeric"
+}

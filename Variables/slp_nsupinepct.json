@@ -1,0 +1,6 @@
+{
+  "id": "slp_nsupinepct",
+  "display_name": "Percent time in Non-Supine position",
+  "description": "Percent of total valid (non-artifact) time spent in non-supine body position",
+  "type": "numeric"
+}

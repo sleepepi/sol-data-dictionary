@@ -1,0 +1,6 @@
+{
+  "id": "slp_supinetime",
+  "display_name": "Valid Recording Time (Hours) - Supine",
+  "description": "Total valid (non-artifact) time spent in supine body position, expressed in hours",
+  "type": "numeric"
+}
