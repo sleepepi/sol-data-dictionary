@@ -1,0 +1,7 @@
+{
+  "id": "slp_hrgt150",
+  "display_name": "Urgent Referral - HR > 150",
+  "description": "Was Heart Rate > 150 bpm observed",
+  "type": "choices",
+  "domain": "noyes01"
+}

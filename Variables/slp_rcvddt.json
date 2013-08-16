@@ -1,0 +1,6 @@
+{
+  "id": "slp_rcvddt",
+  "display_name": "Date Received at Reading Center",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "slp_cannulahrs",
+  "display_name": "Hours of valid recording time - Cannula",
+  "description": "Total valid (non-artifact) time of airflow signal, expressed in hours",
+  "type": "numeric"
+}

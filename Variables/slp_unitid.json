@@ -1,0 +1,6 @@
+{
+  "id": "slp_unitid",
+  "display_name": "ARES Unicorder ID",
+  "description": "",
+  "type": "string"
+}

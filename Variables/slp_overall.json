@@ -1,0 +1,7 @@
+{
+  "id": "slp_overall",
+  "display_name": "Overall Study Quality",
+  "description": "Overall Study Quality grade as assigned by the scorer.  Assessment based on criteria for presence of valid (non-artifact) signal on each channel.",
+  "type": "choices",
+  "domain": "overall"
+}

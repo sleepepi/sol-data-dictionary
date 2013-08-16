@@ -1,0 +1,7 @@
+{
+  "id": "slp_basesatlt90",
+  "display_name": "Urgent referral - Baseline sat < 90",
+  "description": "Was baseline SaO2 < 90% observed",
+  "type": "choices",
+  "domain": "noyes01"
+}

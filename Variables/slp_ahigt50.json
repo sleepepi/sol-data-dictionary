@@ -1,0 +1,7 @@
+{
+  "id": "slp_ahigt50",
+  "display_name": "Urgent Referral - AHI > 50",
+  "description": "Was AHI 3% > 50 observed",
+  "type": "choices",
+  "domain": "noyes01"
+}

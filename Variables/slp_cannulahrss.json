@@ -1,0 +1,6 @@
+{
+  "id": "slp_cannulahrss",
+  "display_name": "Hours of valid recording time in supine position - Cannula",
+  "description": "Total valid (non-artifact) time of airflow signal while in supine position, expressed in hours",
+  "type": "numeric"
+}
