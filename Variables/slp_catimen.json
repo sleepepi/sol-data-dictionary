@@ -1,0 +1,6 @@
+{
+  "id": "slp_catimen",
+  "display_name": "Total Time spent in Central Apnea event (all desats, non-supine) (hours)",
+  "description": "Total Time spent in Central Apnea event in non-supine body position, expressed in seconds",
+  "type": "numeric"
+}

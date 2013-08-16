@@ -1,0 +1,6 @@
+{
+  "id": "slp_caevents",
+  "display_name": "Central Apnea Events (all desats)",
+  "description": "Number of Central Apnea events",
+  "type": "numeric"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "slp_caeventss",
+  "display_name": "Central Apnea Events (all desats, supine)",
+  "description": "Number of Central Apnea events in supine body position",
+  "type": "numeric"
+}

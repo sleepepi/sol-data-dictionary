@@ -1,0 +1,6 @@
+{
+  "id": "slp_ai",
+  "display_name": "Apnea Index (all desats)",
+  "description": "Number of Apnea events per hour of sleep",
+  "type": "numeric"
+}

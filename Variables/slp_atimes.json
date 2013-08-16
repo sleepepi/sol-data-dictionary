@@ -1,0 +1,6 @@
+{
+  "id": "slp_atimes",
+  "display_name": "Total Time spent in Apnea event (all desats, supine) (seconds)",
+  "description": "Total Time spent in Apnea event in supine body position, expressed in seconds",
+  "type": "numeric"
+}
