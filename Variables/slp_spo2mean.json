@@ -1,0 +1,6 @@
+{
+  "id": "slp_spo2mean",
+  "display_name": "Mean SpO2",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "slp_spo2artifactpct",
+  "display_name": "Percent of time with artifact SpO2",
+  "description": "",
+  "type": "numeric"
+}

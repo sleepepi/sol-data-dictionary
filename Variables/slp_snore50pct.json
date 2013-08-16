@@ -1,0 +1,6 @@
+{
+  "id": "slp_snore50pct",
+  "display_name": "Percent of time with Snoring level > 50 dB",
+  "description": "",
+  "type": "numeric"
+}

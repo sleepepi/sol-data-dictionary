@@ -1,0 +1,6 @@
+{
+  "id": "slp_snoretime",
+  "display_name": "Time spent in loud snoring",
+  "description": "",
+  "type": "numeric"
+}

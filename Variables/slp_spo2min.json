@@ -1,0 +1,6 @@
+{
+  "id": "slp_spo2min",
+  "display_name": "Minimum SpO2",
+  "description": "",
+  "type": "numeric"
+}

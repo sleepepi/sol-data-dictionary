@@ -1,0 +1,6 @@
+{
+  "id": "slp_hrmax",
+  "display_name": "Maximum Heart Rate",
+  "description": "",
+  "type": "numeric"
+}

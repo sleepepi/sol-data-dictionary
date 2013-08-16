@@ -1,0 +1,6 @@
+{
+  "id": "slp_hrmin",
+  "display_name": "Minimum Heart Rate",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "slp_desatmean",
+  "display_name": "Mean SpO2 Desaturation",
+  "description": "",
+  "type": "numeric"
+}
