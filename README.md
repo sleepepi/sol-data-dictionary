@@ -1,6 +1,6 @@
 SOL Data Dictionary
 ===================
 
-SOL Variables and Domains.
+[![Build Status](https://travis-ci.org/sleepepi/sol-data-dictionary.svg?branch=master)](https://travis-ci.org/sleepepi/sol-data-dictionary)
 
-[![Build Status](https://travis-ci.org/sleepepi/sol-data-dictionary.png?branch=master)](https://travis-ci.org/sleepepi/sol-data-dictionary)
+SOL Variables and Domains.
