@@ -1,5 +1,5 @@
 {
-  "id": "slp_averall_fail_code",
+  "id": "slp_overall_fail_code",
   "display_name": "Reasons for short studies",
   "description": "Will be missing if Overall > 1",
   "type": "choices",
