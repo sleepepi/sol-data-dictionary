@@ -1,7 +1,0 @@
-{
-  "id": "slp_hrlt30",
-  "display_name": "Urgent Referral - HR < 30",
-  "description": "Was Heart Rate < 30 bpm observed",
-  "type": "choices",
-  "domain": "noyes01"
-}

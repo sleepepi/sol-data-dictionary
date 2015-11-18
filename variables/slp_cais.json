@@ -1,6 +1,0 @@
-{
-  "id": "slp_cais",
-  "display_name": "Central Apnea Index (all desats, supine)",
-  "description": "Number of Central Apnea events in supine body position per hour of sleep",
-  "type": "numeric"
-}

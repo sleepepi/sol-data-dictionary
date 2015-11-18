@@ -1,6 +1,0 @@
-{
-  "id": "slp_cain",
-  "display_name": "Central Apnea Index (all desats, non-supine)",
-  "description": "Number of Central Apnea events in non-supine body position per hour of sleep",
-  "type": "numeric"
-}

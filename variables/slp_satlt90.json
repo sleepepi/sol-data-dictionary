@@ -1,7 +1,0 @@
-{
-  "id": "slp_satlt90",
-  "display_name": "Urgent referral - sat < 90 for 10% of recording",
-  "description": "Was SaO2 < 90% for at least 10% of recording observed",
-  "type": "choices",
-  "domain": "noyes01"
-}

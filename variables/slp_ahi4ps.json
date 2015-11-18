@@ -1,6 +1,0 @@
-{
-  "id": "slp_ahi4ps",
-  "display_name": "Apnea/Hypopnea Index (4% desat, supine)",
-  "description": "Number of Apnea and Hypopnea events associated with at least a 4% oxygen desaturation in supine body position per hour of sleep",
-  "type": "numeric"
-}

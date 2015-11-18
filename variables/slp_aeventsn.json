@@ -1,6 +1,0 @@
-{
-  "id": "slp_aeventsn",
-  "display_name": "Apnea Events (all desats, non-supine)",
-  "description": "Number of Apnea events in non-supine body position",
-  "type": "numeric"
-}

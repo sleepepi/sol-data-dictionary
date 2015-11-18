@@ -1,6 +1,0 @@
-{
-  "id": "slp_ahi4p",
-  "display_name": "Apnea/Hypopnea Index (4% desat)",
-  "description": "Number of Apnea and Hypopnea events associated with at least a 4% oxygen desaturation per hour of sleep",
-  "type": "numeric"
-}

@@ -1,6 +1,0 @@
-{
-  "id": "slp_sathrs",
-  "display_name": "Hours of valid recording time - SpO2",
-  "description": "Total valid (non-artifact) time of airflow signal, expressed in hours",
-  "type": "numeric"
-}

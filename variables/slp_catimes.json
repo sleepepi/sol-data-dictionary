@@ -1,6 +1,0 @@
-{
-  "id": "slp_catimes",
-  "display_name": "Total Time spent in Central Apnea event (all desats, supine) (hours)",
-  "description": "Total Time spent in Central Apnea event in supine body position, expressed in seconds",
-  "type": "numeric"
-}

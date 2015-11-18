@@ -1,6 +1,0 @@
-{
-  "id": "slp_ahevents0ps",
-  "display_name": "Apnea/Hypopnea Events (all desats, supine)",
-  "description": "Number of Apnea and Hypopnea events in supine body position",
-  "type": "numeric"
-}

@@ -1,6 +1,0 @@
-{
-  "id": "slp_ain",
-  "display_name": "Apnea Index (all desats, non-supine)",
-  "description": "Number of Apnea events in non-supine body position per hour of sleep",
-  "type": "numeric"
-}

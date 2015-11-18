@@ -1,6 +1,0 @@
-{
-  "id": "slp_cai",
-  "display_name": "Central Apnea Index (all desats)",
-  "description": "Number of Central Apnea events per hour of sleep",
-  "type": "numeric"
-}

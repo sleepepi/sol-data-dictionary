@@ -1,6 +1,0 @@
-{
-  "id": "slp_caeventsn",
-  "display_name": "Central Apnea Events (all desats, non-supine)",
-  "description": "Number of Central Apnea events in non-supine body position",
-  "type": "numeric"
-}

@@ -1,6 +1,0 @@
-{
-  "id": "slp_aevents",
-  "display_name": "Apnea Events (all desats)",
-  "description": "Number of Apnea events",
-  "type": "numeric"
-}

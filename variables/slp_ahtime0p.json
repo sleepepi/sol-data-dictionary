@@ -1,6 +1,0 @@
-{
-  "id": "slp_ahtime0p",
-  "display_name": "Total Time spent in Apnea/Hypopnea event (all desats) (hours)",
-  "description": "Total Time spent in Apnea/Hypopnea event, expressed in hours",
-  "type": "numeric"
-}

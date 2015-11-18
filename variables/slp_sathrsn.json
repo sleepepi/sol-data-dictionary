@@ -1,6 +1,0 @@
-{
-  "id": "slp_sathrsn",
-  "display_name": "Hours of valid recording time in non-supine position - SpO2",
-  "description": "Total valid (non-artifact) time of airflow signal in non-supine position, expressed in hours",
-  "type": "numeric"
-}

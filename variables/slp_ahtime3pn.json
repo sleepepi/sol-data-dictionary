@@ -1,6 +1,0 @@
-{
-  "id": "slp_ahtime3pn",
-  "display_name": "Total Time spent in Apnea/Hypopnea event (3% desat, non-supine) (hours)",
-  "description": "Total Time spent in Apnea or Hypopnea event associated with at least a 3% oxygen desaturation in non-supine body position, expressed in seconds",
-  "type": "numeric"
-}
