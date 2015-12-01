@@ -1,0 +1,6 @@
+{
+  "id": "alcohol_use",
+  "display_name": "Alcohol Use (1-Never,2=Former,3=Current)",
+  "description": "",
+  "type": "choices"
+}

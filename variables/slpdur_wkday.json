@@ -1,0 +1,7 @@
+{
+  "id": "slpdur_wkday",
+  "display_name": "Weekday sleep duration (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

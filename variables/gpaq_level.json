@@ -1,0 +1,6 @@
+{
+  "id": "gpaq_level",
+  "display_name": "Physical activity level (low, mod, high)",
+  "description": "",
+  "type": "choices"
+}

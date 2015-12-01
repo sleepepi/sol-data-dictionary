@@ -1,0 +1,7 @@
+{
+  "id": "cigarette_pack_years",
+  "display_name": "Cigarette Pack Years",
+  "description": "",
+  "type": "numeric",
+  "units": "packs"
+}

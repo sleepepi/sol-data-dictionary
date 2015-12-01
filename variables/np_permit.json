@@ -1,0 +1,6 @@
+{
+  "id": "np_permit",
+  "display_name": "Permission for non-profit use of data",
+  "description": "",
+  "type": "choices"
+}

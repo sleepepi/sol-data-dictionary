@@ -1,0 +1,6 @@
+{
+  "id": "gpaq_total_met",
+  "display_name": "Total physical activity (MET-min/day)",
+  "description": "",
+  "type": "numeric"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "dna_available",
+  "display_name": "DNA Available (1=Yes,0=No)",
+  "description": "",
+  "type": "choices"
+}

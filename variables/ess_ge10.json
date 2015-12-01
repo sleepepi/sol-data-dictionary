@@ -1,0 +1,6 @@
+{
+  "id": "ess_ge10",
+  "display_name": "Excessive sleepiness (ESS>=10)",
+  "description": "",
+  "type": "numeric"
+}

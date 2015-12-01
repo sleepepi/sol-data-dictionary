@@ -1,0 +1,6 @@
+{
+  "id": "pneumonia",
+  "display_name": "Pneumonia (0/1 only)",
+  "description": "",
+  "type": "choices"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "ahi_ge15",
+  "display_name": "Sleep Apnea defined as Apnea/Hypopnea Index (3% desat) >= 15",
+  "description": "",
+  "type": "choices"
+}

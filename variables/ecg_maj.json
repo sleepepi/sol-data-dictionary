@@ -1,0 +1,6 @@
+{
+  "id": "ecg_maj",
+  "display_name": "Major ECG Abnormalities",
+  "description": "",
+  "type": "choices"
+}

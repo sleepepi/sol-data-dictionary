@@ -1,0 +1,6 @@
+{
+  "id": "valid_spirometry_postbd_v2",
+  "display_name": "Valid post-spirometry (A-D grading) adjusted for unexpected BDs",
+  "description": "",
+  "type": "choices"
+}

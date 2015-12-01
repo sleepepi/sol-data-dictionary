@@ -1,0 +1,6 @@
+{
+  "id": "insulin_fast",
+  "display_name": "Insulin, fasting (calibrated, converted to mU/L)",
+  "description": "",
+  "type": "numeric"
+}

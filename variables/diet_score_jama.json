@@ -1,0 +1,6 @@
+{
+  "id": "diet_score_jama",
+  "display_name": "Diet Score from 1st JAMA paper",
+  "description": "",
+  "type": "numeric"
+}

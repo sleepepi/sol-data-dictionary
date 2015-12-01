@@ -1,0 +1,6 @@
+{
+  "id": "no_disability_6item",
+  "display_name": "No Diability on NEEA5-7 (1=Yes,0=No)",
+  "description": "",
+  "type": "choices"
+}

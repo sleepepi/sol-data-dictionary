@@ -1,0 +1,6 @@
+{
+  "id": "cardiac_risk_ratio",
+  "display_name": "Cardiac Risk Ratio (TC/HDL) - AHA",
+  "description": "",
+  "type": "numeric"
+}

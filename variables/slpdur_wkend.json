@@ -1,0 +1,7 @@
+{
+  "id": "slpdur_wkend",
+  "display_name": "Weekend sleep duration (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

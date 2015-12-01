@@ -1,0 +1,6 @@
+{
+  "id": "agg_ment",
+  "display_name": "Aggregate mental health score norm-based transformed",
+  "description": "",
+  "type": "numeric"
+}

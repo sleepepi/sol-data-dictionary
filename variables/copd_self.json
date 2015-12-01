@@ -1,0 +1,6 @@
+{
+  "id": "copd_self",
+  "display_name": "Self-report of ever had COPD/Emph",
+  "description": "",
+  "type": "choices"
+}

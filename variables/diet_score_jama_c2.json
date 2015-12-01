@@ -1,0 +1,6 @@
+{
+  "id": "diet_score_jama_c2",
+  "display_name": "Categorized Diet Score JAMA (1=Below,2=Above 60th %-tile)",
+  "description": "",
+  "type": "choices"
+}

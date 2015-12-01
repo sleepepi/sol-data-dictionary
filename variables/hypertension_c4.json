@@ -1,0 +1,6 @@
+{
+  "id": "hypertension_c4",
+  "display_name": "4-level grouped hypertension (none/pre/treated/untreated)",
+  "description": "",
+  "type": "choices"
+}

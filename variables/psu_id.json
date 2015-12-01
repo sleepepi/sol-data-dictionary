@@ -1,0 +1,6 @@
+{
+  "id": "psu_id",
+  "display_name": "Primary Sampling Unit ID",
+  "description": "",
+  "type": "numeric"
+}

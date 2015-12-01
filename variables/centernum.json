@@ -1,0 +1,6 @@
+{
+  "id": "centernum",
+  "display_name": "Participant's Field Center - numeric",
+  "description": "",
+  "type": "numeric"
+}

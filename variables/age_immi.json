@@ -1,0 +1,7 @@
+{
+  "id": "age_immi",
+  "display_name": "Age of immigration among participants who were not born in US mainland (50 US States + DC)",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

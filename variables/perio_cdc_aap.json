@@ -1,0 +1,6 @@
+{
+  "id": "perio_cdc_aap",
+  "display_name": "Periodontitis Severity using CDC/AAP Grades",
+  "description": "",
+  "type": "numeric"
+}

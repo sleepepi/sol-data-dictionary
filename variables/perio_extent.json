@@ -1,0 +1,6 @@
+{
+  "id": "perio_extent",
+  "display_name": "Percentage Interproximal Sites Positive for Periodontitis",
+  "description": "",
+  "type": "numeric"
+}

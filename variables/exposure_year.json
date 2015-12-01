@@ -1,0 +1,7 @@
+{
+  "id": "exposure_year",
+  "display_name": "Adjusted Years Smoked",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

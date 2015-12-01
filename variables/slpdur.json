@@ -1,0 +1,7 @@
+{
+  "id": "slpdur",
+  "display_name": "Average sleep duration (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

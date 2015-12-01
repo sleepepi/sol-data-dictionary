@@ -1,0 +1,7 @@
+{
+  "id": "cigarettes_year",
+  "display_name": "Adjusted Cigarettes per Year",
+  "description": "",
+  "type": "numeric",
+  "units": "cigarettes"
+}

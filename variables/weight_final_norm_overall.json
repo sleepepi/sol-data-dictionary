@@ -1,0 +1,6 @@
+{
+  "id": "weight_final_norm_overall",
+  "display_name": "Overall Sample Normalized Census 2010 Calibrated Trimmed NonResponse Adjusted Final Weights - Year 1-3 (frozen as of 10/27/2011)",
+  "description": "",
+  "type": "numeric"
+}

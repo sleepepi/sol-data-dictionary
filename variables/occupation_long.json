@@ -1,0 +1,6 @@
+{
+  "id": "occupation_long",
+  "display_name": "Longest Held Occupation (collapsed categories)",
+  "description": "",
+  "type": "choices"
+}

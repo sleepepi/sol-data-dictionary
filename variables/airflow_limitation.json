@@ -1,0 +1,6 @@
+{
+  "id": "airflow_limitation",
+  "display_name": "Airflow Limitation (pre FEV1/FVC<70 only)",
+  "description": "",
+  "type": "numeric"
+}

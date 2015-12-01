@@ -1,0 +1,6 @@
+{
+  "id": "copd_meds",
+  "display_name": "COPD Med Use - self/scanned (ever COPD by MD diag)",
+  "description": "",
+  "type": "choices"
+}

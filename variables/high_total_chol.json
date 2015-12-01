@@ -1,0 +1,6 @@
+{
+  "id": "high_total_chol",
+  "display_name": "Hypercholesterolemia (from LABA66,LABA68,LABA69,MED_LLD)",
+  "description": "",
+  "type": "numeric"
+}
