@@ -2,5 +2,9 @@
   "id": "bkgrd1",
   "display_name": "Background with Other reclassified",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "latino_background",
+  "other": {
+    "Variable Informat": null
+  }
 }

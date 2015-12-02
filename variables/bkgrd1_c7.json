@@ -2,5 +2,9 @@
   "id": "bkgrd1_c7",
   "display_name": "7-level re-classification of Hispanic/Latino Background",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "latino_background3",
+  "other": {
+    "Variable Informat": null
+  }
 }

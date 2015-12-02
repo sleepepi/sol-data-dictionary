@@ -2,5 +2,6 @@
   "id": "gpaq_work_vig",
   "display_name": "Work-related (vigorous) physical activity (min/day)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

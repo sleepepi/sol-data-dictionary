@@ -2,5 +2,6 @@
   "id": "chd_self",
   "display_name": "Self-reported CHD",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

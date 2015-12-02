@@ -2,5 +2,6 @@
   "id": "whiirs",
   "display_name": "Womens's Health Initiative Insomnia Rating Scale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

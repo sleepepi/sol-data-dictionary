@@ -2,5 +2,6 @@
   "id": "psu_cnt",
   "display_name": "BG-level Hispanic Household Frame Counts",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "employed",
   "display_name": "Employment Status (includes retirees)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "employment"
 }

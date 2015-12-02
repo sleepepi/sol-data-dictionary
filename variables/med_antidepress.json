@@ -2,5 +2,6 @@
   "id": "med_antidepress",
   "display_name": "Antidepressants",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

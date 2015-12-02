@@ -2,5 +2,6 @@
   "id": "totaldrinks_per_week",
   "display_name": "Total Weekly Alcohol Consumption",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "drinks"
 }

@@ -2,5 +2,9 @@
   "id": "frame_cvd_risk_10yr",
   "display_name": "Framingham CVD - 10 year risk (w/lab predictors)",
   "description": "",
-  "type": null
+  "type": "numeric",
+  "units": "",
+  "other": {
+    "Variable Informat": null
+  }
 }

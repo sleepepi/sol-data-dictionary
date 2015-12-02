@@ -2,5 +2,6 @@
   "id": "ecg_min",
   "display_name": "Minor ECG Abnormalities",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

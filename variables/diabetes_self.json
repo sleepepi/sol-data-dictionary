@@ -2,5 +2,6 @@
   "id": "diabetes_self",
   "display_name": "Diabetes - self report only",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

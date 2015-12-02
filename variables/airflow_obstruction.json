@@ -2,5 +2,6 @@
   "id": "airflow_obstruction",
   "display_name": "Obstructive Lung Disease suspect",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

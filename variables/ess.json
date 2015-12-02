@@ -2,5 +2,6 @@
   "id": "ess",
   "display_name": "Epworth Sleepiness Scale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

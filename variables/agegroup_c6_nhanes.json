@@ -2,5 +2,6 @@
   "id": "agegroup_c6_nhanes",
   "display_name": "6-Level Age Groups (NHANES standardization)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "age_c6_nhanes"
 }

@@ -2,5 +2,6 @@
   "id": "pred_veg_wopot",
   "display_name": "Vegetable without potatoes - NCI predicted intake, servings/d (VEG_ALL_WOPOTATO)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

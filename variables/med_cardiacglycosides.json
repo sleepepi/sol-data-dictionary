@@ -2,5 +2,6 @@
   "id": "med_cardiacglycosides",
   "display_name": "Cardiac Glycosides",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

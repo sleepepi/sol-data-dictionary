@@ -2,5 +2,9 @@
   "id": "diabetes2_indicator",
   "display_name": "Diabetes Indicator - ADA",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "Variable Informat": null
+  }
 }

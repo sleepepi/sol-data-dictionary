@@ -1,0 +1,22 @@
+[
+  {
+    "value": "B",
+    "display_name": "Bronx",
+    "description": ""
+  },
+  {
+    "value": "C",
+    "display_name": "Chicago",
+    "description": ""
+  },
+  {
+    "value": "M",
+    "display_name": "Miami",
+    "description": ""
+  },
+  {
+    "value": "S",
+    "display_name": "San Diego",
+    "description": ""
+  }
+]

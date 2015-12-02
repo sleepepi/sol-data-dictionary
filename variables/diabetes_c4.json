@@ -2,5 +2,6 @@
   "id": "diabetes_c4",
   "display_name": "4-level grouped diabetes (none/pre/treated/untreated)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "diabetes2"
 }

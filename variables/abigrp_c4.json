@@ -2,5 +2,6 @@
   "id": "abigrp_c4",
   "display_name": "4-level grouped Ankle Brachial Index (occ. failure incl.)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "abi"
 }

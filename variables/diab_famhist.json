@@ -2,5 +2,6 @@
   "id": "diab_famhist",
   "display_name": "Family History of Diabetes",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

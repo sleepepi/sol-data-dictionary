@@ -2,5 +2,6 @@
   "id": "ckd",
   "display_name": "Chronic Kidney Disease using eGFR only (NIDDK)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "normal_endstage"
 }

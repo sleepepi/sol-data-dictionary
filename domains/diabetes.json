@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Non-diabetic",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Pre-diabetic",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Diabetic",
+    "description": ""
+  }
+]

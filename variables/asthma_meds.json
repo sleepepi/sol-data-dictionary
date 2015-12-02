@@ -2,5 +2,6 @@
   "id": "asthma_meds",
   "display_name": "Asthma Med Use - self/scanned (curr asthma by MD diag)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "asthma_meds_noyes"
 }

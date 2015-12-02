@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Non-drinker",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Low risk drinker",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "At-risk drinker",
+    "description": ""
+  }
+]

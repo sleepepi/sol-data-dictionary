@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Low (PAD)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Borderline",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Normal",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "High",
+    "description": ""
+  }
+]

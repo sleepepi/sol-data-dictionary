@@ -2,5 +2,6 @@
   "id": "med_pulmonary",
   "display_name": "Pulmonary medication",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

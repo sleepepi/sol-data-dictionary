@@ -2,5 +2,6 @@
   "id": "med_antihypert",
   "display_name": "Antihypertensives",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

@@ -2,5 +2,6 @@
   "id": "med_serm",
   "display_name": "Selective Estrogen Receptor Modulators",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

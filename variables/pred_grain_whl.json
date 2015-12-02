@@ -2,5 +2,6 @@
   "id": "pred_grain_whl",
   "display_name": "Whole Grain - NCI predicted intake, servings/d (GRAIN_WHL)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

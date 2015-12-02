@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "No current asthma or no anti-asthmatic medication use",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Anti-asthmatic medication use",
+    "description": ""
+  }
+]

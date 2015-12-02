@@ -2,5 +2,6 @@
   "id": "gfrscys",
   "display_name": "eGFR based on serum cystatin C w/o demographics",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

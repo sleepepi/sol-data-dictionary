@@ -2,5 +2,6 @@
   "id": "doctor_visit",
   "display_name": "Doctor/HCP number of visits in past 12 months (1=0,2=once,3=2-3 times,4=more than 3 times)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "visit_range"
 }

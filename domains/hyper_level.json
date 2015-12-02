@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "No hypertension",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Pre-hypertension",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Treated hypertension",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Untreated hypertension",
+    "description": ""
+  }
+]

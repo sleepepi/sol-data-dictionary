@@ -2,5 +2,6 @@
   "id": "med_estrogen_combo",
   "display_name": "Estrogens - Combinations Only",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

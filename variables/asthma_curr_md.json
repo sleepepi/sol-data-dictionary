@@ -2,5 +2,6 @@
   "id": "asthma_curr_md",
   "display_name": "Currently have asthma with ever MD diagnosis",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

@@ -2,5 +2,9 @@
   "id": "list_cnt",
   "display_name": "Sampel List-level Hispanic Household Frame Counts",
   "description": "",
-  "type": null
+  "type": "numeric",
+  "units": "",
+  "other": {
+    "Variable Informat": null
+  }
 }

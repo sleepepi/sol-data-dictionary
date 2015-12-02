@@ -2,5 +2,6 @@
   "id": "hypert_control",
   "display_name": "Control of Hypertension - NHANES",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

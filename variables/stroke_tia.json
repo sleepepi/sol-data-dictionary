@@ -2,5 +2,6 @@
   "id": "stroke_tia",
   "display_name": "Prevalent Stroke or TIA, self report",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

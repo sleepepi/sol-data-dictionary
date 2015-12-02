@@ -2,5 +2,6 @@
   "id": "external_permit",
   "display_name": "Permission for investigators outside HCHS/SOL",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "use_permitted"
 }

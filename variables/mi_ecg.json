@@ -2,5 +2,6 @@
   "id": "mi_ecg",
   "display_name": "MI defined by ECG results",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

@@ -2,5 +2,6 @@
   "id": "ever_mi_relative",
   "display_name": "At least one relative had report of heart attack",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

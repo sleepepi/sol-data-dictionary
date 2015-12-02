@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Ages 18-29",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Ages 30-39",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Ages 40-49",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Ages 50-59",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Ages 60-69",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Ages 70-74",
+    "description": ""
+  }
+]

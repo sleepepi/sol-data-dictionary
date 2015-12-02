@@ -2,5 +2,9 @@
   "id": "claudication_int",
   "display_name": "Intermittent Claudication - either leg",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "noyesdk",
+  "other": {
+    "Variable Informat": null
+  }
 }

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Normal glucose regulation",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Impaired glucose tolerance",
+    "description": ""
+  },
+ {
+    "value": "3",
+    "display_name": "Diabetes",
+    "description": ""
+  }
+]

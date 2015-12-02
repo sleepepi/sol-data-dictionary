@@ -2,5 +2,6 @@
   "id": "sash_soc",
   "display_name": "SASH ethic social relations subscale",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

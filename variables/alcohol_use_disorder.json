@@ -2,5 +2,9 @@
   "id": "alcohol_use_disorder",
   "display_name": "Alcohol Use Disorder Risk",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "alcohol_risk",
+  "other": {
+    "Variable Informat": null
+  }
 }

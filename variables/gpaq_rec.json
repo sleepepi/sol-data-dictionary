@@ -2,5 +2,6 @@
   "id": "gpaq_rec",
   "display_name": "Recreational physical activity (min/day)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

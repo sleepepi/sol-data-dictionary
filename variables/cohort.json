@@ -2,5 +2,6 @@
   "id": "cohort",
   "display_name": "Cohort Year (from Household Address Wave Assignment)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

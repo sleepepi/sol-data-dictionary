@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "less than or equal to 15% improvement",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "greater than 15% improvement",
+    "description": ""
+  }
+]

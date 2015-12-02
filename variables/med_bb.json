@@ -2,5 +2,6 @@
   "id": "med_bb",
   "display_name": "Beta Blockers",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

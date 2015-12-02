@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "1st generation",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2nd generation",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3rd generation",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "4th generation or higher",
+    "description": ""
+  }
+]

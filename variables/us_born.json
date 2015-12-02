@@ -2,5 +2,6 @@
   "id": "us_born",
   "display_name": "Born in mainland US (50 States + DC)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

@@ -2,5 +2,6 @@
   "id": "gpaq_work_mod",
   "display_name": "Work-related (moderate) physical activity (min/day)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

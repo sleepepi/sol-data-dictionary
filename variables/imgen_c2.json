@@ -2,5 +2,9 @@
   "id": "imgen_c2",
   "display_name": "",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "generation2",
+  "other": {
+    "Variable Informat": null
+  }
 }

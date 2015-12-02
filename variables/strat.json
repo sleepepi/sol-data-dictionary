@@ -2,5 +2,6 @@
   "id": "strat",
   "display_name": "Stratification Variable ID",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

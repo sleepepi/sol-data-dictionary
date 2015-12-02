@@ -2,5 +2,6 @@
   "id": "postbd_prebd_diff",
   "display_name": "Post(FEV1%pred)-Pre(FEV1%pred)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -1,0 +1,82 @@
+[
+  {
+    "value": "1",
+    "display_name": "Dominicans - Bronx",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Central American - Bronx",
+    "description": ""
+  },
+ {
+    "value": "3",
+    "display_name": "Central American - Chicago",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Central American - Miami",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Cubans - Miami",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Mexicans - Chicago",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Mexicans - San Diego",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Puerto Ricans - Bronx",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Puerto Ricans - Chicago",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "South American - Bronx",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "South American - Chicago",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "South American - Miami",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "Other - Bronx",
+    "description": ""
+  },
+  {
+    "value": "14",
+    "display_name": "Other - Chicago",
+    "description": ""
+  },
+  {
+    "value": "15",
+    "display_name": "Other - Miami",
+    "description": ""
+  },
+  {
+    "value": "16",
+    "display_name": "Other - San Diego",
+    "description": ""
+  }
+]

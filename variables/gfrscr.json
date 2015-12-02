@@ -2,5 +2,6 @@
   "id": "gfrscr",
   "display_name": "eGFR based on serum creatinine, gender, age and race",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than $30,000",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "$30,000 or more",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Missing",
+    "description": ""
+  }
+]

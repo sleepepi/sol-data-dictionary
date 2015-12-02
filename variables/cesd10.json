@@ -2,5 +2,6 @@
   "id": "cesd10",
   "display_name": "CESD 10-item total summary score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

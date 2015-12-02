@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "Below 60th gender-specific percentile",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Above 60th gender-specific percentile",
+    "description": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Retired and not currently employed (or missing on employment)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Not reitred (or missing on retirement) and not currently employed",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Employed part-time (<35 hours/week)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Employed full-time (>35 hours/week)",
+    "description": ""
+  }
+]

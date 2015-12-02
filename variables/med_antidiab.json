@@ -2,5 +2,6 @@
   "id": "med_antidiab",
   "display_name": "Antidiabetics",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

@@ -2,5 +2,6 @@
   "id": "gfrscys_scr",
   "display_name": "eGFR based on serum cystatin C, serum creatinine, gender, age, and race",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

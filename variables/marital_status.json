@@ -2,5 +2,6 @@
   "id": "marital_status",
   "display_name": "Marital Status (collapsed categories)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "marital_status"
 }

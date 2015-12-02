@@ -2,5 +2,6 @@
   "id": "education_c2",
   "display_name": "Education Status (2 levels)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "education_level2"
 }

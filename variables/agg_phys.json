@@ -2,5 +2,6 @@
   "id": "agg_phys",
   "display_name": "Aggregate physical health score norm-based transformed",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

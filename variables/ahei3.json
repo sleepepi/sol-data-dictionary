@@ -2,5 +2,6 @@
   "id": "ahei3",
   "display_name": "Whole grains, score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

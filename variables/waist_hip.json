@@ -2,5 +2,6 @@
   "id": "waist_hip",
   "display_name": "Waist to Hip Ratio",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

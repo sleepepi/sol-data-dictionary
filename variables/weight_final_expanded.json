@@ -2,5 +2,6 @@
   "id": "weight_final_expanded",
   "display_name": "Expanded Census 2010 Final Calibrated Trimmed Nonresponse Adjusted Final Weights - Year 1-3 (frozen as of 10/27/2011)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

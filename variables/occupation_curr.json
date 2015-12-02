@@ -2,5 +2,6 @@
   "id": "occupation_curr",
   "display_name": "Current Occupation (collapsed categories)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "occupation"
 }

@@ -2,5 +2,6 @@
   "id": "valid_spirometry",
   "display_name": "Valid Spirometry Studies (Pre)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

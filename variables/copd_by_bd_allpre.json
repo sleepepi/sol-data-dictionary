@@ -2,5 +2,6 @@
   "id": "copd_by_bd_allpre",
   "display_name": "COPD by BD Test (for all valid PRE_BD)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

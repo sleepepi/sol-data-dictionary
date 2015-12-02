@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Underweight (BMI < 18.5)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Normal (18.5 < BMI <25)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Overweight (25 < BMI < 30)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Obese I (30 < BMI < 35)",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Obese II (35 < BMI < 40)",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Obese III",
+    "description": ""
+  }
+]

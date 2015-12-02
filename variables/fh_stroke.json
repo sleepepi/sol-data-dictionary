@@ -2,5 +2,6 @@
   "id": "fh_stroke",
   "display_name": "Family history of stroke",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

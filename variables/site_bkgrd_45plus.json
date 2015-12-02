@@ -2,5 +2,9 @@
   "id": "site_bkgrd_45plus",
   "display_name": "Cross-Classification of Center and Hispanic Latino Background, 45+ Years Only",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "site_background2",
+  "other": {
+    "Variable Informat": null
+  }
 }

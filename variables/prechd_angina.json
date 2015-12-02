@@ -2,5 +2,6 @@
   "id": "prechd_angina",
   "display_name": "Prevalent Coronary Heart Disease, including self-report",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

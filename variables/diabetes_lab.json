@@ -2,5 +2,9 @@
   "id": "diabetes_lab",
   "display_name": "3-level grouped Diabetes - Lab",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "diabetes3",
+  "other": {
+    "Variable Informat": null
+  }
 }

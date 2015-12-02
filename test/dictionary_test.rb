@@ -9,15 +9,16 @@ class DictionaryTest < Minitest::Test
   include Spout::Helpers::Iterators
 
   # Example 1: Create custom tests to show that `integer` and `numeric` variables have a valid unit type
-  # VALID_UNITS = ['minutes', 'hours'] # Add your own valid units to this array
-  # @variables.select{|v| v.type == 'numeric' or v.type == 'integer'}.each do |variable|
-  #   define_method("test_units: "+variable.path) do
-  #     message = "\"#{variable.units}\"".colorize( :red ) + " invalid units.\n" +
-  #               "             Valid types: " +
-  #               VALID_UNITS.sort.collect{|u| u.inspect.colorize( :white )}.join(', ')
-  #     assert VALID_UNITS.include?(variable.units), message
-  #   end
-  # end
+  VALID_UNITS = ["centimeters", "", "packs", "percent", "drinks", "cigarettes", "kilograms per meter squared","hours", "years"] # Add your own valid units to this array
+  @variables.select{|v| v.type == 'numeric' or v.type == 'integer'}.each do |variable|
+    define_method("test_units: "+variable.path) do
+      message = "\"#{variable.units}\"".colorize( :red ) + " invalid units.\n" +
+                "             Valid types: " +
+                VALID_UNITS.sort.collect{|u| u.inspect.colorize( :white )}.join(', ')
+      assert VALID_UNITS.include?(variable.units), message
+    end
+  end
+
 
   # Example 2: Create custom tests to show that variables have 2 or more labels.
   # @variables.select{|v| ['numeric','integer'].include?(v.type)}.each do |variable|

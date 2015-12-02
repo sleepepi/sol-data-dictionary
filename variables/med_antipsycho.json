@@ -2,5 +2,6 @@
   "id": "med_antipsycho",
   "display_name": "Antipsychotics",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

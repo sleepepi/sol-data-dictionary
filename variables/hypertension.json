@@ -2,5 +2,6 @@
   "id": "hypertension",
   "display_name": "Hypertension (BP>=140/90 and Med Use)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

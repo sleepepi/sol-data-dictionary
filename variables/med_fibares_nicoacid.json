@@ -2,5 +2,6 @@
   "id": "med_fibares_nicoacid",
   "display_name": "Fibric/Nicotinic Acids (trt of TG and HDL)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

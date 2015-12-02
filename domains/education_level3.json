@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "No high school diploma or GED",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "At most a High school diploma/GED",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Greater than high school (or GED) education",
+    "description": ""
+  }
+]

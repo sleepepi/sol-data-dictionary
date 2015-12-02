@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Normal",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Mild periodontitis",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Moderate periodontitis",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Severe periodontitis",
+    "description": ""
+  }
+]

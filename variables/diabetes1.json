@@ -2,5 +2,9 @@
   "id": "diabetes1",
   "display_name": "3-level grouped Diabetes ver.1",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "diabetes3",
+  "other": {
+    "Variable Informat": null
+  }
 }

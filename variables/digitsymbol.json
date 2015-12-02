@@ -2,5 +2,6 @@
   "id": "digitsymbol",
   "display_name": "Digit Symbo Substitution Score (NEEA14)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

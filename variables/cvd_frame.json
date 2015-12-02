@@ -2,5 +2,9 @@
   "id": "cvd_frame",
   "display_name": "Framingham CVD compostie criterion",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "noyes01",
+  "other": {
+    "Variable Informat": null
+  }
 }

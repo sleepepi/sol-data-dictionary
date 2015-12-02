@@ -2,5 +2,6 @@
   "id": "income",
   "display_name": "Yearly Household Income (ECEA3 and ECEA4)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "income"
 }

@@ -2,5 +2,6 @@
   "id": "mets_ncep2",
   "display_name": "Metabolic Syndrome w/Self-Reported Meds - NCEP ATP III",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

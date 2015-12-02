@@ -2,5 +2,6 @@
   "id": "hypert_treatment",
   "display_name": "Treatment of Hypertension - NHANES",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

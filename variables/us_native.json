@@ -2,5 +2,6 @@
   "id": "us_native",
   "display_name": "US Born (including territories)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

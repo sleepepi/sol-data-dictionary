@@ -2,5 +2,6 @@
   "id": "gendernum",
   "display_name": "Gender (0=Female, 1=Male)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "gender2"
 }

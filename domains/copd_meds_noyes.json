@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never had COPD/emphysema or no indication of COPD/anit-asthmatic medication use",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "COPD/anit-asthmatic medication use",
+    "description": ""
+  }
+]

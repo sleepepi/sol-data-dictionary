@@ -2,5 +2,6 @@
   "id": "med_lld",
   "display_name": "Lipid lowering drugs/Antihyperlipidemics (LLD)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

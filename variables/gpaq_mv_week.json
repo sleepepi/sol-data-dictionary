@@ -2,5 +2,6 @@
   "id": "gpaq_mv_week",
   "display_name": "GPAQ - Total physical activity (min/week)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

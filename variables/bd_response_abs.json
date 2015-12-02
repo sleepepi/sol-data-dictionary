@@ -2,5 +2,9 @@
   "id": "bd_response_abs",
   "display_name": "Bronchodilator Responsive by 15% change",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "bd_response",
+  "other": {
+    "Variable Informat": null
+  }
 }

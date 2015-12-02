@@ -2,5 +2,6 @@
   "id": "valid_spirometry_postbd",
   "display_name": "Valid Spirometry Studies (Post BD)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

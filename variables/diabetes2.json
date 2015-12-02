@@ -2,5 +2,9 @@
   "id": "diabetes2",
   "display_name": "3-level grouped Diabetes - ADA",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "diabetes3",
+  "other": {
+    "Variable Informat": null
+  }
 }

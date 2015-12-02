@@ -2,5 +2,6 @@
   "id": "consent",
   "display_name": "Consent to Participate in HCHS\\SOL Study",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

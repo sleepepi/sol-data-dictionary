@@ -2,5 +2,9 @@
   "id": "asthma_c4_md",
   "display_name": "4-level grouped Asthma Status - by MD diagnosis",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "never_current_dk",
+  "other": {
+    "Variable Informat": null
+  }
 }

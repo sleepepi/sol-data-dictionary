@@ -1,6 +1,7 @@
 {
   "id": "agegroup_c2",
-  "display_name": "1(18-44),2(45+)",
+  "display_name": "Age of the participant",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "age_c2"
 }

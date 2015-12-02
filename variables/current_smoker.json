@@ -2,5 +2,6 @@
   "id": "current_smoker",
   "display_name": "Current Smoker (from CIGARETTE_USE)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

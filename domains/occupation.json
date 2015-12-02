@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Non-skilled worker",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Service worker",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Skilled worker",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Professional/technical, administrative/executive, or office staff",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other occupation",
+    "description": ""
+  }
+]

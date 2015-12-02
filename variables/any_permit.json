@@ -2,5 +2,9 @@
   "id": "any_permit",
   "display_name": "Any permission for public use of data",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "use_permitted",
+  "other": {
+    "Variable Informat": null
+  }
 }

@@ -2,5 +2,6 @@
   "id": "wordfreq",
   "display_name": "Word Frequency (A+F) (NEEA12-13)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

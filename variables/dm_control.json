@@ -2,5 +2,9 @@
   "id": "dm_control",
   "display_name": "Diabetes controlled: DM Classified at Baseline and A1C < 7%",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "diabetes4",
+  "other": {
+    "Variable Informat": null
+  }
 }

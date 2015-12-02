@@ -2,5 +2,9 @@
   "id": "alcohol_use_level",
   "display_name": "Alcohol Use Drinking Level",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "alcohol_use",
+  "other": {
+    "Variable Informat": null
+  }
 }

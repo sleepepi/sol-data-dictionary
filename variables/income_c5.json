@@ -2,5 +2,6 @@
   "id": "income_c5",
   "display_name": "Yearly Household Income (collapsed categories)",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "income3"
 }

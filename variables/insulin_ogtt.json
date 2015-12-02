@@ -2,5 +2,6 @@
   "id": "insulin_ogtt",
   "display_name": "Insulin, post OGTT (calibrated, converted to mU/L)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

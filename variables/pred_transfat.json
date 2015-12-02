@@ -2,5 +2,6 @@
   "id": "pred_transfat",
   "display_name": "Trans Fat - NCI predicted intake, % Calories (PCTRANSFAT)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

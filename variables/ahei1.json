@@ -1,6 +1,7 @@
 {
   "id": "ahei1",
-  "display_name": "Veg without potato, score",
+  "display_name": "Vegetables without potato, score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

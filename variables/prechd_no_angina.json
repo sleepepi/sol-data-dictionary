@@ -2,5 +2,6 @@
   "id": "prechd_no_angina",
   "display_name": "Prevalent Coronary Heart Disease",
   "description": "",
-  "type": "choices"
+  "type": "choices",
+  "domain": "noyes01"
 }

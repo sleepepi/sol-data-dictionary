@@ -1,6 +1,7 @@
 {
   "id": "abi_overall",
-  "display_name": "Overall Ankle Branchial Index (occ. failure incl.)",
+  "display_name": "Overall Ankle Branchial Index (occlusion failure included)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

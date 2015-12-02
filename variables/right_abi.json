@@ -2,5 +2,9 @@
   "id": "right_abi",
   "display_name": "Right Ankle Branchial Index (occ. failure incl.)",
   "description": "",
-  "type": null
+  "type": "numeric",
+  "units": "",
+  "other": {
+    "Variable Informat": null
+  }
 }

@@ -2,5 +2,6 @@
   "id": "total_6item",
   "display_name": "Total Score on 6 Item Screener (with re-coding)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
