@@ -2,7 +2,7 @@
   "id": "pid",
   "display_name": "Random BioLINCC ID for LAD",
   "description": "",
-  "type": "numeric",
+  "type": "identifier",
   "units": "",
   "other": {
     "Variable Informat": null
