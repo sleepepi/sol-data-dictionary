@@ -38,5 +38,10 @@
     "value": "7",
     "display_name": "Other",
     "description": ""
+  },
+  {
+    "value": "Q",
+    "display_name": "Unknown",
+    "description": "Code is not specified in SOL data dictionary."
   }
 ]

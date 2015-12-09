@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes",
+    "description": ""
+  },
+  {
+    "value": "Q",
+    "display_name": "Unknown",
+    "description": "Code is not specified in SOL data dictionary."
+  }
+]

@@ -33,5 +33,10 @@
     "value": "6",
     "display_name": "More than one/Other heritage",
     "description": ""
+  },
+  {
+    "value": "Q",
+    "display_name": "Unknown",
+    "description": "Code is not specified in SOL data dictionary."
   }
 ]
