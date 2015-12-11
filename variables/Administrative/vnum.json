@@ -1,0 +1,7 @@
+{
+  "id": "vnum",
+  "display_name": "Visit Number",
+  "description": "",
+  "type": "choices",
+  "domain": "vnum"
+}

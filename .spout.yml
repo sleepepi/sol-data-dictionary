@@ -1,8 +1,11 @@
-visit: visit
-charts: []
-# - chart: age
-#   title: Age
-# - chart: gender
-#   title: Gender
-# - chart: race
-#   title: Race
+---
+slug: sol
+visit: vnum
+charts:
+- chart: gendernum
+  title: Gender
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://staging.partners.org/sleepdata.org
