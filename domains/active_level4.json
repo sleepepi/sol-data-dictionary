@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Inactive",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Low Activity",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Moderate Activity",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "High Activity",
+    "description": ""
+  }
+]
