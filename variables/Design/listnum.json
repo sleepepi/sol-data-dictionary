@@ -1,6 +1,6 @@
 {
   "id": "listnum",
-  "display_name": "List Address Record Assigned (1=Nn-Hispanic Surname List or 2=Hispanic Surname List)",
+  "display_name": "List Address Record Assigned",
   "description": "",
   "type": "choices",
   "domain":"hispanic_address"

@@ -1,22 +1,17 @@
 [
   {
     "value": "1",
-    "display_name": "Inactive",
+    "display_name": "Low",
     "description": ""
   },
   {
     "value": "2",
-    "display_name": "Low Activity",
+    "display_name": "Moderate",
     "description": ""
   },
   {
     "value": "3",
-    "display_name": "Medium Activity",
-    "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "High Activity",
+    "display_name": "High",
     "description": ""
   }
 ]

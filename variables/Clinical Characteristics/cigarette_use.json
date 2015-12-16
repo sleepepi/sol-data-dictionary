@@ -1,6 +1,6 @@
 {
   "id": "cigarette_use",
-  "display_name": "Cigarette Use (1-Never,2=Former,3=Current)",
+  "display_name": "Cigarette Use",
   "description": "",
   "type": "choices",
   "domain": "never_current"

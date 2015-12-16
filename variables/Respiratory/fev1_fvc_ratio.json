@@ -1,6 +1,6 @@
 {
   "id": "fev1_fvc_ratio",
-  "display_name": "Fev1_fvc (%)",
+  "display_name": "FEV1/FVC Ratio",
   "description": "",
   "type": "numeric",
   "units": ""

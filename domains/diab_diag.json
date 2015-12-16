@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Diagnosed diabetic before baseline",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Undiagnosed diabetic (or missing self-report data)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Non-diabetic",
+    "description": ""
+  }
+]

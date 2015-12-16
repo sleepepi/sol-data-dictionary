@@ -1,7 +1,7 @@
 {
   "id": "diab_diag",
-  "display_name": "Diabetes Diagnosis time",
+  "display_name": "Diabetes Diagnosis",
   "description": "",
-  "type": "time",
-  "units": ""
+  "type": "choices",
+  "domain": "diab_diag"
 }

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than 10 years",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "10 years or more",
+    "description": ""
+  }
+]

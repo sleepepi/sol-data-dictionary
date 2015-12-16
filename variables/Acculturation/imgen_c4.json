@@ -1,6 +1,6 @@
 {
   "id": "imgen_c4",
-  "display_name": "Immigrant Generation - 1-1st,2=2nd,3=3rd,4=4th",
+  "display_name": "Immigrant generation (4 categories)",
   "description": "",
   "type": "choices",
   "domain": "generation"

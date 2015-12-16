@@ -1,6 +1,6 @@
 {
   "id": "phlegm",
-  "display_name": "Phlegm day/night 3 months in a row (0/1 only)",
+  "display_name": "Phlegm day/night 3 months in a row",
   "description": "",
   "type": "choices",
   "domain": "noyes01"

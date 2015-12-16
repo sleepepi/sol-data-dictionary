@@ -1,6 +1,6 @@
 {
   "id": "lang_pref",
-  "display_name": "Language preference - (1=Span, 2=Eng)",
+  "display_name": "Language preference",
   "description": "",
   "type": "choices",
   "domain": "language"

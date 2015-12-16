@@ -1,6 +1,6 @@
 {
   "id": "gpaq_pag2008yn",
-  "display_name": "Meets 2008 activity level guidelines (1=Yes,0=No)",
+  "display_name": "Meets 2008 activity level guidelines",
   "description": "",
   "type": "choices",
   "domain": "noyes01"
