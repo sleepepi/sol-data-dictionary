@@ -1,7 +1,7 @@
 {
   "id": "education_c3",
   "display_name": "Education Status (3 levels)",
-  "description": "",
+  "description": "This variable is the educational status derived from variable groups of the attainment of a high school diploma or an equivalent degree, not having that degree, or attainment of education beyond a high school equivalent (i.e. college or vocational).",
   "type": "choices",
   "domain": "education_level3"
 }

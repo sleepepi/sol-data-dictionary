@@ -1,7 +1,7 @@
 {
   "id": "gpaq_pag2008yn",
   "display_name": "Meets 2008 activity level guidelines",
-  "description": "",
+  "description": "This variable determines whether or not high or medium activity level has been met based on variable gpaq_pag2008 (all counts).",
   "type": "choices",
   "domain": "noyes01"
 }

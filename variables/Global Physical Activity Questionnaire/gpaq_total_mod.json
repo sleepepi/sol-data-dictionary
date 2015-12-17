@@ -1,7 +1,7 @@
 {
   "id": "gpaq_total_mod",
   "display_name": "Total physical (moderate) activity (min/day)",
-  "description": "",
+  "description": "This variable finds the average amount of time spent per day doing moderate physical activity.",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "ckd",
   "display_name": "Chronic Kidney Disease using eGFR only (NIDDK)",
-  "description": "",
+  "description": "This variable estimated based on the estimated GFR value and is defined using NIDDK guidelines.",
   "type": "choices",
   "domain": "normal_endstage"
 }

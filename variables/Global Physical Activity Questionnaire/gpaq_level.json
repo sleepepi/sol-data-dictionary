@@ -1,7 +1,7 @@
 {
   "id": "gpaq_level",
   "display_name": "Physical activity level (low, mod, high)",
-  "description": "",
+  "description": "This variable assigns a value of 1 assigned to those with high total physical activity levels, a value of 2 to those with moderate total physical activity levels and a value of 3 to those with low total physical activity levels.",
   "type": "choices",
   "domain": "active_level"
 }

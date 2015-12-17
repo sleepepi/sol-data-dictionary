@@ -1,7 +1,7 @@
 {
   "id": "copd_meds",
   "display_name": "COPD Med Use - self/scanned (ever COPD by MD diag)",
-  "description": "",
+  "description": "This variable combines scanned/transcribed anti-asthmatic medication use with self-report COPD medication use.",
   "type": "choices",
   "domain": "copd_meds_noyes"
 }

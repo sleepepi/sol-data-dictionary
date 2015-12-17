@@ -1,7 +1,7 @@
 {
   "id": "asthma_meds",
   "display_name": "Asthma Med Use - self/scanned (curr asthma by MD diag)",
-  "description": "",
+  "description": "This variable combines scanned/transcribed anti-asthmatic medication use with self-report asthma medication use.",
   "type": "choices",
   "domain": "asthma_meds_noyes"
 }

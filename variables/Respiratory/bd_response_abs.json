@@ -1,7 +1,7 @@
 {
   "id": "bd_response_abs",
   "display_name": "Bronchodilator Responsive by 15% change",
-  "description": "",
+  "description": "This variable is based on the post-bronchodilator measurement of the FEV1. The airflow remains restricted after the administration of albuterol the person did not respond by greater than a 15% improvement over their first measurement. If PRBA29 is not missing and POBA29 is not missing and PRBA29 > 0 then.",
   "type": "choices",
   "domain": "bd_response",
   "other": {

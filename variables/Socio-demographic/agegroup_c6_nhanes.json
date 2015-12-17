@@ -1,7 +1,7 @@
 {
   "id": "agegroup_c6_nhanes",
   "display_name": "6-Level Age Groups (NHANES standardization)",
-  "description": "",
+  "description": "This variable is the grouped age of the participant. It is determined from the derived variable age for use with analyses requiring NHANES age standardization.",
   "type": "choices",
   "domain": "age_c6_nhanes"
 }

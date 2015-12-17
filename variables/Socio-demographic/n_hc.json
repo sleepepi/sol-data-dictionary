@@ -1,7 +1,7 @@
 {
   "id": "n_hc",
   "display_name": "Health Insurance Coverage - Current",
-  "description": "",
+  "description": "This variable groups the health insurance coverage status of the participant. The definition also checks whether or not any reason was giving for stopping coverage.",
   "type": "choices",
   "domain": "noyes01"
 }

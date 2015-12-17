@@ -1,7 +1,7 @@
 {
   "id": "postbd_prebd_diff",
   "display_name": "Post(FEV1%pred)-Pre(FEV1%pred)",
-  "description": "",
+  "description": "This variable is based on the ratio of the measured FEV1 difference from postbronchodilator and pre-bronchodilator exams over the Predicted FEV1 calculated prebronch (both values must be non-missing, and the post-bronchodilator spirometry examinations must be valid).",
   "type": "numeric",
   "units": ""
 }

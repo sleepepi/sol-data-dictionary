@@ -1,7 +1,7 @@
 {
   "id": "postbd_expected",
   "display_name": "Post-BD Expected (among valid spirometry",
-  "description": "",
+  "description": "This variable is a flag for whether a post bronchodilator was expected, based on the premeasurement.  A post measurement was expected if the FEV1 to FVC ratio was less than 70% or less than the lower limit of normal for FEV1/FVC%.",
   "type": "choices",
   "domain": "noyes01"
 }

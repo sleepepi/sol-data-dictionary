@@ -1,7 +1,7 @@
 {
   "id": "employed",
   "display_name": "Employment Status (includes retirees)",
-  "description": "",
+  "description": "This variable groups the employment status of the participant.",
   "type": "choices",
   "domain": "employment"
 }

@@ -1,7 +1,7 @@
 {
   "id": "valid_spirometry_postbd_v2",
   "display_name": "Valid post-spirometry (A-D grading) adjusted for unexpected BDs",
-  "description": "",
+  "description": "This variable is a flag for whether a post bronchodilator was valid (grade A-D).  Defined only for participants where a post measurement was expected.",
   "type": "choices",
   "domain": "valid"
 }

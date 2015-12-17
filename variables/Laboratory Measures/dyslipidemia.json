@@ -1,7 +1,7 @@
 {
   "id": "dyslipidemia",
   "display_name": "Dyslipidemia (High LDL, low HDL, or high triglyerides) - NIH",
-  "description": "",
+  "description": "This variable checks for HDL, LDL, and triglyceride values to determine presence/absence of dyslipidemia.",
   "type": "choices",
   "domain": "noyes01"
 }

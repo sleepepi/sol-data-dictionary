@@ -1,7 +1,7 @@
 {
   "id": "high_total_chol",
   "display_name": "Hypercholesterolemia (from LABA66,LABA68,LABA69,MED_LLD)",
-  "description": "",
+  "description": "This variable checks for Total cholesterol, HDL, LDL, and antihyperlipidemic medication use values to determine presence/absence of hypercholesterolemia.",
   "type": "choices",
   "domain": "noyes01"
 }

@@ -1,7 +1,7 @@
 {
   "id": "education_c2",
   "display_name": "Education Status (2 levels)",
-  "description": "",
+  "description": "This variable is the educational status derived from variable groups of the attainment of a high school diploma or an equivalent degree, or not having that degree.",
   "type": "choices",
   "domain": "education_level2"
 }

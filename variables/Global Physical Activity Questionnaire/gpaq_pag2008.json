@@ -1,7 +1,7 @@
 {
   "id": "gpaq_pag2008",
   "display_name": "Activity level per 2008 PA guidelines (categorical - 4 levels)",
-  "description": "",
+  "description": "This variable that contains the level of physical activity per the 2008 PA guidelines.",
   "type": "choices",
   "domain": "active_level4"
 }

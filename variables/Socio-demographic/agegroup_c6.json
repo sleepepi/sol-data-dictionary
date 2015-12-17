@@ -1,7 +1,7 @@
 {
   "id": "agegroup_c6",
   "display_name": "6-level Age Sub-groups",
-  "description": "",
+  "description": "This variable is the grouped age of the participant.",
   "type": "choices",
   "domain": "age_c6"
 }

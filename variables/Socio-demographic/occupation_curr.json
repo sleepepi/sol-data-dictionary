@@ -1,7 +1,7 @@
 {
   "id": "occupation_curr",
   "display_name": "Current Occupation (collapsed categories)",
-  "description": "",
+  "description": "This variable is the type of occupation the participant had at the time of the baseline examination.",
   "type": "choices",
   "domain": "occupation"
 }

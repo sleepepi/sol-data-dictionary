@@ -1,7 +1,7 @@
 {
   "id": "agegroup_c2",
   "display_name": "Age of the participant",
-  "description": "",
+  "description": "This variable is the grouped age of the participant.",
   "type": "choices",
   "domain": "age_c2"
 }

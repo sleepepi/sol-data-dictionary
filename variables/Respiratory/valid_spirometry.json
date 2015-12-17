@@ -1,7 +1,7 @@
 {
   "id": "valid_spirometry",
   "display_name": "Valid Spirometry Studies (Pre)",
-  "description": "",
+  "description": "This variable is an overall data quality indicator derived by the pulmonary reading center on the adequacy study for use.",
   "type": "choices",
   "domain": "noyes01"
 }

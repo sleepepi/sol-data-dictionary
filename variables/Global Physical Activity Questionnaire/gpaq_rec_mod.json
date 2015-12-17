@@ -1,7 +1,7 @@
 {
   "id": "gpaq_rec_mod",
   "display_name": "Recreational physical (moderate) activity (min/day)",
-  "description": "",
+  "description": "This variable calculates the average amount of time spent per day doing a moderate recreational physical activity.",
   "type": "numeric",
   "units": ""
 }

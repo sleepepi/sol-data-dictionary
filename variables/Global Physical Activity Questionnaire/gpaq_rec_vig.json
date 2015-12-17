@@ -1,7 +1,7 @@
 {
   "id": "gpaq_rec_vig",
   "display_name": "Recreational physical (vigorous) activity (min/day)",
-  "description": "",
+  "description": "This variable calculates the average amount of time spent per day doing a vigorous recreational physical activity.",
   "type": "numeric",
   "units": ""
 }

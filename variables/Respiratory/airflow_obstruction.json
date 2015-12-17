@@ -1,7 +1,7 @@
 {
   "id": "airflow_obstruction",
   "display_name": "Obstructive Lung Disease suspect",
-  "description": "",
+  "description": "This variable is based on the empirical evidence from the spirometry that the ratio of  FEV1 to FVC is below the level defined by the ATS as indicative of restricted airflow.",
   "type": "choices",
   "domain": "noyes01"
 }

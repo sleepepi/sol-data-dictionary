@@ -1,7 +1,7 @@
 {
   "id": "gpaq_mv_week",
   "display_name": "GPAQ - Total physical activity (min/week)",
-  "description": "",
+  "description": "This variable that finds the average amount of time spent per week doing any physical activity.",
   "type": "numeric",
   "units": ""
 }

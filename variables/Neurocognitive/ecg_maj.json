@@ -1,7 +1,7 @@
 {
   "id": "ecg_maj",
   "display_name": "Major ECG Abnormalities",
-  "description": "",
+  "description": "This variable is defined only for participants that have ECG data.",
   "type": "choices",
   "domain": "noyes01"
 }

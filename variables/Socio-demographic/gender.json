@@ -1,7 +1,7 @@
 {
   "id": "gender",
   "display_name": "Gender (F=Female, M=Male)",
-  "description": "",
+  "description": "This variable describes the participant’s gender.",
   "type": "choices",
   "domain": "gender"
 }
