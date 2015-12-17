@@ -1,7 +1,7 @@
 {
   "id": "site_bkgrd",
   "display_name": "Cross-Classification of Center and Hispanic/Latino Background",
-  "description": "",
+  "description": "This variable is the self-identification with a Hispanic/Latino cultural group crossed by field center.",
   "type": "choices",
   "domain": "site_background",
   "other": {

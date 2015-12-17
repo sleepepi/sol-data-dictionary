@@ -1,7 +1,7 @@
 {
   "id": "cigarette_pack_years_c3",
   "display_name": "Cigarette Pack Years (3-level, cutoff=10)",
-  "description": "",
+  "description": "This variable groups cigaratte use into 3 categories",
   "type": "choices",
   "domain": "years"
 }

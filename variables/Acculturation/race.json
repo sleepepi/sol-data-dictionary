@@ -1,7 +1,7 @@
 {
   "id": "race",
   "display_name": "Race Group (self-report)",
-  "description": "",
+  "description": "The self-identification with a race group.",
   "type": "choices",
   "domain": "race"
 }

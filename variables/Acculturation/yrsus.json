@@ -1,7 +1,7 @@
 {
   "id": "yrsus",
   "display_name": "Years lived in US",
-  "description": "",
+  "description": "This variable defines years lived in the US as if the participant was not born in the US, then the years lived in the US is equal to the response of PIEA7 or if participant was born in the US, then the years lived in the US is equal to the participant's age.",
   "type": "numeric",
   "units": "years"
 }

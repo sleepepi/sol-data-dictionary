@@ -1,7 +1,7 @@
 {
   "id": "yrsus_c2",
   "display_name": "2-level grouped years lived in the US (50 States)",
-  "description": "",
+  "description": "This variable is grouped and defined as living less than 10 years in the US or living 10 years or more in the US.",
   "type": "choices",
   "domain": "yrsus_c2"
 }

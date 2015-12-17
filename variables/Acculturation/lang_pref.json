@@ -1,7 +1,7 @@
 {
   "id": "lang_pref",
   "display_name": "Language preference",
-  "description": "",
+  "description": "This variable determines which language was preferred to be used for the baseline examination.",
   "type": "choices",
   "domain": "language"
 }

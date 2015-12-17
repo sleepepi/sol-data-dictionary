@@ -1,7 +1,7 @@
 {
   "id": "hypertension2",
   "display_name": "Hypertension using NHANES definition",
-  "description": "",
+  "description": "Hypertension is defined here using the following NHANES definition: if the systolic or diastolic blood pressure is greater than or equal to 140/90 or if the participant self-reported as currently taking antihypertensive medications.",
   "type": "choices",
   "domain": "noyes01"
 }

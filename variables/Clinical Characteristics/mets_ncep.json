@@ -1,7 +1,7 @@
 {
   "id": "mets_ncep",
   "display_name": "Metabolic Syndrome - NCEP ATP III",
-  "description": "",
+  "description": "The following definition of metabolic syndrome is based on the updated Adult Treat Panel III (ATP III) of the National Cholesterol Education Program (NCEP) guidelines.",
   "type": "choices",
   "domain": "noyes01"
 }

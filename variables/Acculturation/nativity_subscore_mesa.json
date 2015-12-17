@@ -1,7 +1,7 @@
 {
   "id": "nativity_subscore_mesa",
   "display_name": "Nativity Subscore - MESA",
-  "description": "",
+  "description": "This is a nativity subscore of the acculturation score similar to the one used in MESA.",
   "type": "numeric",
   "units":""
 }

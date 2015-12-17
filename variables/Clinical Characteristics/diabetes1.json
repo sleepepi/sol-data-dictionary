@@ -1,7 +1,7 @@
 {
   "id": "diabetes1",
   "display_name": "3-level grouped Diabetes ver.1",
-  "description": "",
+  "description": "This variable describes the stages of diabetes.",
   "type": "choices",
   "domain": "diabetes3",
   "other": {

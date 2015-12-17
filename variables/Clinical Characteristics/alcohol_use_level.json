@@ -1,7 +1,7 @@
 {
   "id": "alcohol_use_level",
   "display_name": "Alcohol Use Drinking Level",
-  "description": "",
+  "description": "Using the weekly alcohol use cutoffs from alcohol_use_disorder, this variable combines never users and former users into a group called 'no current use'. Definitions of 'low level use' and 'high level use' correspond to those of 'low risk drinker' and 'at-risk drinker' from alcohol_use_disorder.",
   "type": "choices",
   "domain": "alcohol_use",
   "other": {

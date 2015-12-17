@@ -1,7 +1,7 @@
 {
   "id": "left_abigrp_c4",
   "display_name": "Left 4-level grouped Ankle Brachial Index (occ. failure incl.)",
-  "description": "",
+  "description": "This variable groups left and right ABI into 4 categories.",
   "type": "choices",
   "domain": "abi"
 }

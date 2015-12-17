@@ -1,7 +1,7 @@
 {
   "id": "us_born",
   "display_name": "Born in mainland US (50 States + DC)",
-  "description": "",
+  "description": "This variable groups the place of birth of the participant to the United States (50 states only) or other place of birth.",
   "type": "choices",
   "domain": "noyes01"
 }

@@ -1,7 +1,7 @@
 {
   "id": "dm_control",
   "display_name": "Diabetes controlled: DM Classified at Baseline and A1C < 7%",
-  "description": "",
+  "description": "This variable indicates controlled diabetes. Defined only for diabetics.",
   "type": "choices",
   "domain": "diabetes4",
   "other": {

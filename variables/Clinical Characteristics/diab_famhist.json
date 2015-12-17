@@ -1,7 +1,7 @@
 {
   "id": "diab_famhist",
   "display_name": "Family History of Diabetes",
-  "description": "",
+  "description": "This variable describes the family history of diabetes.",
   "type": "choices",
   "domain": "noyes01"
 }

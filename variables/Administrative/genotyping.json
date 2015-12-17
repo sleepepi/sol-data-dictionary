@@ -1,7 +1,7 @@
 {
   "id": "genotyping",
   "display_name": "Full consent for genotyping",
-  "description": "",
+  "description": "This variable determines whether or not a study participant fully consented to genotyping for use with investigators associated or not associated to HCHS/SOL and specialized laboratories.",
   "type": "choices",
   "domain": "noyes01"
 }

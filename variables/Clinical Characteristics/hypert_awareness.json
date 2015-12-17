@@ -1,7 +1,7 @@
 {
   "id": "hypert_awareness",
   "display_name": "Awareness of Hypertension - NHANES",
-  "description": "",
+  "description": "This variable is defined by the self-report of doctor's diagnosis of hypertension for those who were defined as having hypertension using the NHANES definition only.",
   "type": "choices",
   "domain": "noyes01"
 }

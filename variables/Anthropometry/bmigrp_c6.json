@@ -1,7 +1,7 @@
 {
   "id": "bmigrp_c6",
   "display_name": "6-level grouped Body Mass Index - WHO",
-  "description": "",
+  "description": "This variable is created ysing the calculated body mass index to define categories based on current WHO (World Health Organization) classifications",
   "type": "choices",
   "domain": "bmi_range_c6"
 }

@@ -1,7 +1,7 @@
 {
   "id": "ethis",
   "display_name": "Ethnic identity score",
-  "description": "",
+  "description": "Variable indicates the degree of ethnic identity.",
   "type": "numeric",
   "units": ""
 }

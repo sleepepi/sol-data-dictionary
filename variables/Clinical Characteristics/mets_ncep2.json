@@ -1,7 +1,7 @@
 {
   "id": "mets_ncep2",
   "display_name": "Metabolic Syndrome w/Self-Reported Meds - NCEP ATP III",
-  "description": "",
+  "description": "This variable incorporates the original variable mets_ncep definition with changes to include self-reported medication use instead of scanned/transcribed medication use.",
   "type": "choices",
   "domain": "noyes01"
 }

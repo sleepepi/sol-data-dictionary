@@ -1,7 +1,7 @@
 {
   "id": "homa_ir",
   "display_name": "HOMA index of Insulin Resistance",
-  "description": "",
+  "description": "This variable defines teh Homeostasis model assessment of insulin resistance.",
   "type": "numeric",
   "units": ""
 }

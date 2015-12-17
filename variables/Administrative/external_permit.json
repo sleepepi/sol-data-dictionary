@@ -1,7 +1,7 @@
 {
   "id": "external_permit",
   "display_name": "Permission for investigators outside HCHS/SOL",
-  "description": "",
+  "description": "This variable determines whether or not a study participant gave permission for use for investigators outside HCHS/SOL.",
   "type": "choices",
   "domain": "use_permitted"
 }

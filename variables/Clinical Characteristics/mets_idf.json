@@ -1,7 +1,7 @@
 {
   "id": "mets_idf",
   "display_name": "Metabolic Syndrome - IDF definition",
-  "description": "",
+  "description": "The International Diabetes Federation (IDF) definition emphasizes central obesity because it is 'independently' associated with each of the other metabolic syndrome components, as well as insulin resistance.",
   "type": "choices",
   "domain": "noyes01"
 }

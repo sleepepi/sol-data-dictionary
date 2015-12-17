@@ -1,7 +1,7 @@
 {
   "id": "centernum",
   "display_name": "Participant's Field Center - numeric",
-  "description": "",
+  "description": "This variable is the field center that was derived from the city of origin.",
   "type": "choices",
   "domain": "siteid"
 }

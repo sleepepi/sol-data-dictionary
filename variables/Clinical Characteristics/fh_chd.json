@@ -1,7 +1,7 @@
 {
   "id": "fh_chd",
   "display_name": "Family history of CHD including self-reported angina",
-  "description": "",
+  "description": "This variable combines the self-reports of angina, heart attack, or procedure (angioplasty, stent, bypass) for immediate family relatives, i.e. mother, father, and sibling(s).",
   "type": "choices",
   "domain": "noyes01"
 }

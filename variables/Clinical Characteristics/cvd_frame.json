@@ -1,7 +1,7 @@
 {
   "id": "cvd_frame",
   "display_name": "Framingham CVD compostie criterion",
-  "description": "",
+  "description": "This variable is an indicator that defines a composite CVD definition based on the Framingham Study criterion.",
   "type": "choices",
   "domain": "noyes01",
   "other": {

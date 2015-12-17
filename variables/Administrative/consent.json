@@ -1,7 +1,7 @@
 {
   "id": "consent",
   "display_name": "Consent to Participate in HCHS\\SOL Study",
-  "description": "",
+  "description": "This variable determines whether or not a study participant consented to participate in the baseline examination study.",
   "type": "choices",
   "domain": "noyes01"
 }

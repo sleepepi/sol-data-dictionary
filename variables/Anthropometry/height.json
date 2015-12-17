@@ -1,7 +1,7 @@
 {
   "id": "height",
   "display_name": "Height (corrected)",
-  "description": "",
+  "description": "During two time periods the standing height as measured at the Bronx site was incorrect due to a mis-mounted stadiometer used in measuring all participants. The derived variable was implemented based on a recommendation from the Quality Control subcommittee.",
   "type": "numeric",
   "units": "centimeters"
 }

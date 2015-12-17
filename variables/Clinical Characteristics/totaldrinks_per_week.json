@@ -1,7 +1,7 @@
 {
   "id": "totaldrinks_per_week",
   "display_name": "Total Weekly Alcohol Consumption",
-  "description": "",
+  "description": "This variable determines the total alcohol intake of the numbers of drinks per week only for current drinkers.",
   "type": "numeric",
   "units": "drinks"
 }

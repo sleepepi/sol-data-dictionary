@@ -1,7 +1,7 @@
 {
   "id": "prechd_no_angina",
   "display_name": "Prevalent Coronary Heart Disease",
-  "description": "",
+  "description": "This variable combines ECG reports of possible old MI as well as self-report of heart attack, or procedure (angioplasty, stent, bypass).",
   "type": "choices",
   "domain": "noyes01"
 }

@@ -1,7 +1,7 @@
 {
   "id": "hypert_control",
   "display_name": "Control of Hypertension - NHANES",
-  "description": "",
+  "description": "This variable is defined for participants whose blood pressure are below the cutoff of 140/90 (both systolic and diastolic must be less than the cutoff values) for those who were defined as having hypertension using the NHANES definition only and also indicated whether or not they were receiving treatment for hypertension.",
   "type": "choices",
   "domain": "noyes01"
 }

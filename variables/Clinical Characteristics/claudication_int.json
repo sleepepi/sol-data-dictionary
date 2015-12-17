@@ -1,7 +1,7 @@
 {
   "id": "claudication_int",
   "display_name": "Intermittent Claudication - either leg",
-  "description": "",
+  "description": "This variable defines intermittent claudication being present in either leg",
   "type": "choices",
   "domain": "noyesdk",
   "other": {

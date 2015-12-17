@@ -1,7 +1,7 @@
 {
   "id": "center",
   "display_name": "Center",
-  "description": "",
+  "description": "This variable is the field center that was derived from the city of origin.",
   "type": "choices",
   "domain": "centerid"
 }

@@ -1,7 +1,7 @@
 {
   "id": "diabetes2_indicator",
   "display_name": "Diabetes Indicator - ADA",
-  "description": "",
+  "description": "This variable is based on the Diabetes variable (version 2) stages of diabetes based on American Diabetes Association definition.",
   "type": "choices",
   "domain": "noyes01",
   "other": {

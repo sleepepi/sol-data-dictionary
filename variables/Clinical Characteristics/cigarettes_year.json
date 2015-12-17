@@ -1,7 +1,7 @@
 {
   "id": "cigarettes_year",
   "display_name": "Adjusted Cigarettes per Year",
-  "description": "",
+  "description": "This variable calculates the cigarette years as the number of exposure years multiplied by the average number of sigarettes smoked per day.",
   "type": "numeric",
   "units": "cigarettes"
 }

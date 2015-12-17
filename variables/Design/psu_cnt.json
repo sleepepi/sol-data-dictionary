@@ -1,7 +1,7 @@
 {
   "id": "psu_cnt",
   "display_name": "BG-level Hispanic Household Frame Counts",
-  "description": "",
+  "description": "This variable is the sample design clustering household frame count variable used in statistical analyses.",
   "type": "numeric",
   "units": ""
 }

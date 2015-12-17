@@ -1,7 +1,7 @@
 {
   "id": "diabetes_lab",
   "display_name": "3-level grouped Diabetes - Lab",
-  "description": "",
+  "description": "This variable describes the stages of diabetes.",
   "type": "choices",
   "domain": "diabetes3",
   "other": {

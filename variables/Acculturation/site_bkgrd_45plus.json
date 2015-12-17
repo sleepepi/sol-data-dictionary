@@ -1,7 +1,7 @@
 {
   "id": "site_bkgrd_45plus",
   "display_name": "Cross-Classification of Center and Hispanic Latino Background, 45+ Years Only",
-  "description": "",
+  "description": "This variable is the self-identification with a Hispanic/Latino cultural group, based on a sub-cohort of participants 45+ years old, crossed by field center and grouped into categories.",
   "type": "choices",
   "domain": "site_background2",
   "other": {

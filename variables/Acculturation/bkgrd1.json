@@ -1,7 +1,7 @@
 {
   "id": "bkgrd1",
   "display_name": "Background with Other reclassified",
-  "description": "",
+  "description": "The self-identification with a Hispanic/Latino cultural group allowed for selection of an 'other' designation. This variable groups the test responses of 'other' for variations of 'Dominican' so that undercounts do not occur for that group.",
   "type": "choices",
   "domain": "latino_background",
   "other": {

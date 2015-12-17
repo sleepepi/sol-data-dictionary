@@ -1,7 +1,7 @@
 {
   "id": "cdcr",
   "display_name": "Cerebrovascular Disease and Carotid Revascularization, self-report",
-  "description": "",
+  "description": "This variable checks for medical history of stroke, mini-stroke or TIA, or balloon angioplasty or surgery to the arteries in the neck.",
   "type": "choices",
   "domain": "noyes01"
 }

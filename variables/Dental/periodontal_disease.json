@@ -1,7 +1,7 @@
 {
   "id": "periodontal_disease",
   "display_name": "Periodontal Disease - NIDCR",
-  "description": "",
+  "description": "The NIDCR cites the prevalence of periodontal disease based on dental examination probing measurements. To be classified as having periodontal disease there is at least one toother with Attachment Loss (AL) 3mm or greater and Pocket Depth (PD) 4mm or greater.",
   "type": "choices",
   "domain": "noyes01"
 }

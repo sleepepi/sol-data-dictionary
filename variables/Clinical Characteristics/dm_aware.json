@@ -1,7 +1,7 @@
 {
   "id": "dm_aware",
   "display_name": "Diabetes awareness at baseline",
-  "description": "",
+  "description": "This variable describes the awareness of diabetes. Defined only for self-reported diabetics.",
   "type": "choices",
   "domain": "aware"
 }

@@ -1,7 +1,7 @@
 {
   "id": "strat_cnt",
   "display_name": "Stratum-level Hispanic Household Frame Counts",
-  "description": "",
+  "description": "This variable is the sample design stratification household frame variable used in statistical analyses.",
   "type": "numeric",
   "units": ""
 }

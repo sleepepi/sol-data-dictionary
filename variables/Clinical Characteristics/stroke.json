@@ -1,7 +1,7 @@
 {
   "id": "stroke",
   "display_name": "Prevalent Stroke, self report",
-  "description": "",
+  "description": "This variable checks for self-report medical history of stroke.",
   "type": "choices",
   "domain": "noyes01q"
 }

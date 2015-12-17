@@ -1,7 +1,7 @@
 {
   "id": "language_subscore_mesa",
   "display_name": "Language Subscore - MESA",
-  "description": "",
+  "description": "This is a language subscore of the acculturation score similar to the one used in MESA.",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "diabetes2",
   "display_name": "3-level grouped Diabetes - ADA",
-  "description": "",
+  "description": "This variable describes the stages of diabetes based on American Diabetes Association definition.",
   "type": "choices",
   "domain": "diabetes3",
   "other": {

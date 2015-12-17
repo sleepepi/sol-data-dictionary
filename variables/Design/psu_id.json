@@ -1,7 +1,7 @@
 {
   "id": "psu_id",
   "display_name": "Primary Sampling Unit ID",
-  "description": "",
+  "description": "This variable is the sample design clustering variable used in statistical analyses as the cluster variable that is combination fo the field center and selected block group identifier.",
   "type": "numeric",
   "units": ""
 }

@@ -1,7 +1,7 @@
 {
   "id": "ever_angina_relative",
   "display_name": "At least one relative had report of angina",
-  "description": "",
+  "description": "This variable combines self-report of angina for immediate family relatives, i.e. mother, father, and sibling(s).",
   "type": "choices",
   "domain": "noyes01"
 }

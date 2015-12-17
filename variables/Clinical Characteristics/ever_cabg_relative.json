@@ -1,7 +1,7 @@
 {
   "id": "ever_cabg_relative",
   "display_name": "At least one relative had report of CABG or angioplasty",
-  "description": "",
+  "description": "This variable combines slef-report of variable cabg or angioplasty for immediate family relatives, i.e. mother, father, and sibling(s).",
   "type": "choices",
   "domain": "noyes01"
 }

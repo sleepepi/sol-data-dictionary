@@ -1,7 +1,7 @@
 {
   "id": "frame_cvd_risk_10yr",
   "display_name": "Framingham CVD - 10 year risk (w/lab predictors)",
-  "description": "",
+  "description": "This variable defines the Framingham CVD 10 year risk using lab predictors based on the Framingham Study criterion for participants. Individuals 30 to 74 years old only.",
   "type": "numeric",
   "units": "",
   "other": {

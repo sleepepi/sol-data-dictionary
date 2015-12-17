@@ -1,7 +1,7 @@
 {
   "id": "dna_available",
   "display_name": "DNA Available",
-  "description": "",
+  "description": "This variable determines whether or not a study participant had blood draws successfully conducted without incidents or problems for tubes 4 and 5 to make DNA available to investigators associated or not associated to HCHS/SOL and specialized laboratories.",
   "type": "choices",
   "domain": "noyes01"
 }

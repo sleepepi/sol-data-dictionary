@@ -1,7 +1,7 @@
 {
   "id": "ever_mi_relative",
   "display_name": "At least one relative had report of heart attack",
-  "description": "",
+  "description": "This variable combines self-report of heart attack for immediate family relatives, i.e. mother, father, and sibling(s).",
   "type": "choices",
   "domain": "noyes01"
 }

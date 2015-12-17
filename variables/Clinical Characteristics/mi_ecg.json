@@ -1,7 +1,7 @@
 {
   "id": "mi_ecg",
   "display_name": "MI defined by ECG results",
-  "description": "",
+  "description": "This variable checks some ECG measures to detect possible old MIs.",
   "type": "choices",
   "domain": "noyes01"
 }

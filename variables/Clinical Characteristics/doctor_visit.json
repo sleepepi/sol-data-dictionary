@@ -1,7 +1,7 @@
 {
   "id": "doctor_visit",
   "display_name": "Doctor/HCP number of visits in past 12 months",
-  "description": "",
+  "description": "This variable defines grouped categories for the number of times a participant has visited the doctor in the last 12 months.",
   "type": "choices",
   "domain": "visit_range"
 }

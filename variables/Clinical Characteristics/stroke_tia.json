@@ -1,7 +1,7 @@
 {
   "id": "stroke_tia",
   "display_name": "Prevalent Stroke or TIA, self report",
-  "description": "",
+  "description": "This variable checks for medical history or mini-stroke or TIA.",
   "type": "choices",
   "domain": "noyes01"
 }

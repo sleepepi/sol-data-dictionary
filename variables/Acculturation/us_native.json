@@ -1,7 +1,7 @@
 {
   "id": "us_native",
   "display_name": "US Born (including territories)",
-  "description": "",
+  "description": "This variable groups the place of birth of the participant to the United States (50 states and US territories which includes Puerto-Rico, Guam, and Virgin Islands) or other place of birth.",
   "type": "choices",
   "domain": "noyes01"
 }

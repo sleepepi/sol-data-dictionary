@@ -1,7 +1,7 @@
 {
   "id": "diabetes_c4",
   "display_name": "4-level grouped diabetes (none/pre/treated/untreated)",
-  "description": "",
+  "description": "This variable assesses diabetes using variable diabetes3 and medication use based on variables muea33c and med_antidaib.",
   "type": "choices",
   "domain": "diabetes2"
 }
