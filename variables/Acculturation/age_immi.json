@@ -1,7 +1,7 @@
 {
   "id": "age_immi",
   "display_name": "Age of immigration among participants who were not born in US mainland (50 US States + DC)",
-  "description": "The age of immigration is defined as if participant was not born in the US 50 states, then the age of immigration is equal to the participants' age minus years lived in the US or if participant was born in the US 50 states, then the age of immigration is equal to missing.",
+  "description": "The age of immigration is defined as if participant was not born in the US 50 states, then the age of immigration is equal to the participant's age minus years lived in the US or if participant was born in the US 50 states, then the age of immigration is equal to missing.",
   "type": "numeric",
   "units": "years"
 }
