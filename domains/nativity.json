@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Non-US Born and YRSUS < 10",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Non-US Born and 10<=YRSUS<20",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Non-US Born and 20<=YRSUS",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "US Born",
+    "description": ""
+  }
+]
