@@ -1,6 +1,7 @@
 ## 0.1.1
 
-- Correct typos in some variable descriptions
+- Correct typos in variable descriptions
+- Fix domain options for variables
 
 ## 0.1.0 (December 29, 2015)
 
