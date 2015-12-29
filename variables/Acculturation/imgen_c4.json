@@ -1,7 +1,7 @@
 {
   "id": "imgen_c4",
   "display_name": "Immigrant generation (4 categories)",
-  "description": "This variable determines the participants immigrant generation status based on a combination of the country of origin of the participant, maternal and paternal parents, and/or the maternal and paternal grandparents.",
+  "description": "This variable determines the participant's immigrant generation status based on a combination of the country of origin of the participant, maternal and paternal parents, and/or the maternal and paternal grandparents.",
   "type": "choices",
   "domain": "generation"
 }
