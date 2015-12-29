@@ -1,7 +1,7 @@
 {
   "id": "diab_diag",
   "display_name": "Diabetes Diagnosis",
-  "description": "This variable describes the diagnoses of diabetes and whether it was diagnosed before baseline, not diagnosed before baseline by possibly detected from lab data, or as non-diabetic.",
+  "description": "This variable describes the diagnoses of diabetes and whether it was diagnosed before baseline, not diagnosed before baseline but possibly detected from lab data, or as non-diabetic.",
   "type": "choices",
   "domain": "diab_diag"
 }

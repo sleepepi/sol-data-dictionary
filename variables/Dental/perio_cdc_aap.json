@@ -1,7 +1,7 @@
 {
   "id": "perio_cdc_aap",
   "display_name": "Periodontitis Severity using CDC/AAP Grades",
-  "description": "The HCHS/SOL used a comprehensive full mouth examination protocol examining six sites per tooth in up to 28 teeth yielding up to 168 sites per person. FOr the purpose of this study, four outcome measures were reported based on the Centers for Disease Control and Prevention and the American Academy of Periodontology (CDC/AAP) case definition of periodontitis at four severity thresholds. These classifications are designed for population-based surveillance of periodontal disease and are based on measures of clinical periodontal clinical attachment level (CAL) and probing pocket depth (PD).",
+  "description": "The HCHS/SOL used a comprehensive full mouth examination protocol examining six sites per tooth in up to 28 teeth yielding up to 168 sites per person. For the purpose of this study, four outcome measures were reported based on the Centers for Disease Control and Prevention and the American Academy of Periodontology (CDC/AAP) case definition of periodontitis at four severity thresholds. These classifications are designed for population-based surveillance of periodontal disease and are based on measures of clinical periodontal clinical attachment level (CAL) and probing pocket depth (PD).",
   "type": "choices",
   "domain": "perio_grade"
 }

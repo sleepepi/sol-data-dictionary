@@ -1,7 +1,7 @@
 {
   "id": "diabetes3",
   "display_name": "3-level grouped Diabetes - includes self-report",
-  "description": "This variable describes the stages of diabetes based on American Diabetes Association definition with anadditional self-report criterion.",
+  "description": "This variable describes the stages of diabetes based on American Diabetes Association definition with an additional self-report criterion.",
   "type": "choices",
   "domain": "diabetes"
 }

@@ -1,7 +1,7 @@
 {
   "id": "exposure_year",
   "display_name": "Adjusted Years Smoked",
-  "description": "This variable calculates teh years a participant smoked cigarettes. This is calculated using the difference from the age the participant began smoking to either the participant's age at baseline examination or the age that the participant quit smoking (if applicable).",
+  "description": "This variable calculates the years a participant smoked cigarettes. This is calculated using the difference from the age the participant began smoking to either the participant's age at baseline examination or the age that the participant quit smoking (if applicable).",
   "type": "numeric",
   "units": "years"
 }

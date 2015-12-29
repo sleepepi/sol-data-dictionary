@@ -1,7 +1,7 @@
 {
   "id": "asthma_ever",
-  "display_name": "Ever Asthma",
+  "display_name": "Ever had Asthma (self-report)",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk"
+  "domain": "noyesu"
 }
