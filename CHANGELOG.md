@@ -2,6 +2,7 @@
 
 - Correct typos in variable descriptions
 - Fix domain options for variables
+- Added missing display name for `imgen_c2`
 - **Gem Changes**
   - Updated to spout 0.11.0.beta1
 
