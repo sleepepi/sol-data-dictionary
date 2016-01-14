@@ -2,6 +2,8 @@
 
 - Correct typos in variable descriptions
 - Fix domain options for variables
+- **Gem Changes**
+  - Updated to spout 0.11.0.beta1
 
 ## 0.1.0 (December 29, 2015)
 
