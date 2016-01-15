@@ -4,7 +4,8 @@
 - Fix domain options for variables
 - Added missing display name for `imgen_c2`
 - **Gem Changes**
-  - Updated to spout 0.11.0.beta1
+  - Updated to ruby 2.3.0
+  - Updated to spout 0.11.0.rc
 
 ## 0.1.0 (December 29, 2015)
 
