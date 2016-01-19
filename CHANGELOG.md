@@ -1,4 +1,4 @@
-## 0.1.1
+## 0.1.1 (January 19, 2016)
 
 - Correct typos in variable descriptions
 - Fix domain options for variables
