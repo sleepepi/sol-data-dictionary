@@ -1,22 +1,17 @@
 [
   {
     "value": "0",
-    "display_name": "None",
+    "display_name": "No",
     "description": ""
   },
   {
     "value": "1",
-    "display_name": "1 or 2 times",
+    "display_name": "Yes",
     "description": ""
   },
   {
-    "value": "2",
-    "display_name": "3 or 4 times",
-    "description": ""
-  },
-  {
-    "value": "3",
-    "display_name": "5 or more times",
+    "value": "9",
+    "display_name": "Don't Know",
     "description": ""
   },
   {

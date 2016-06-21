@@ -23,5 +23,10 @@
     "value": "9",
     "display_name": "Don't know",
     "description": ""
+  },
+  {
+    "value": "Q",
+    "display_name": "DK/Refuse",
+    "description": ""
   }
 ]

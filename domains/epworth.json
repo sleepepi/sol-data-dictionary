@@ -18,5 +18,10 @@
     "value": "4",
     "display_name": "High chance of dozing",
     "description": ""
+  },
+  {
+    "value": "Q",
+    "display_name": "DK/Refuse",
+    "description": ""
   }
 ]

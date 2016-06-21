@@ -23,5 +23,10 @@
     "value": "4",
     "display_name": "Very restless",
     "description": ""
+  },
+  {
+    "value": "Q",
+    "display_name": "DK/Refuse",
+    "description": ""
   }
 ]

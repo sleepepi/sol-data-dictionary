@@ -23,5 +23,10 @@
     "value": "5",
     "display_name": "Yes, 5 or more times a week",
     "description": ""
+  },
+  {
+    "value": "Q",
+    "display_name": "DK/Refuse",
+    "description": ""
   }
 ]
