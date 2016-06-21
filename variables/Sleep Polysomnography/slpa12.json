@@ -1,0 +1,7 @@
+{
+  "id": "slpa12",
+  "display_name": "Hours of valid recording time - SpO2",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

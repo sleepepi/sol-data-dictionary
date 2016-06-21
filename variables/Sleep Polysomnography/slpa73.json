@@ -1,0 +1,7 @@
+{
+  "id": "slpa73",
+  "display_name": "Apnea Index (all desats, non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "slpa36",
+  "display_name": "Apnea/Hypopnea Index (all desats)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

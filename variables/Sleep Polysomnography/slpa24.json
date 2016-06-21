@@ -1,0 +1,7 @@
+{
+  "id": "slpa24",
+  "display_name": "Urgent Referral - HR < 30",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

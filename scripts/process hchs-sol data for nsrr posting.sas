@@ -28,6 +28,16 @@ proc export data=slea_contents
   replace;
 run;
 
+*explore proc contents of slpa dataset file;
+proc contents data=solb.slpa_lad1 out=slpa_contents;
+run;
+
+proc export data=slpa_contents
+  outfile="\\rfa01\bwh-sleepepi-sol\nsrr-prep\_documentation\slpa_contents.csv"
+  dbms=csv
+  replace;
+run;
+
 */
 
 *set release number;

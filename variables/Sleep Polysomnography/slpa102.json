@@ -1,0 +1,7 @@
+{
+  "id": "slpa102",
+  "display_name": "Total time of artifact SpO2 (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

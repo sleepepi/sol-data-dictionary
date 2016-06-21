@@ -1,0 +1,7 @@
+{
+  "id": "slpa20",
+  "display_name": "Urgent Referral - sat < 90 for 10% of recording",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

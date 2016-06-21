@@ -1,0 +1,7 @@
+{
+  "id": "slpa90",
+  "display_name": "Baseline SpO2",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

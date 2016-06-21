@@ -1,0 +1,7 @@
+{
+  "id": "slpa114",
+  "display_name": "Standard Deviation Heart Rate",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute"
+}

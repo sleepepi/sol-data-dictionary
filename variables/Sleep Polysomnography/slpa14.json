@@ -1,0 +1,7 @@
+{
+  "id": "slpa14",
+  "display_name": "Hours of valid recording time in non-supine position - SpO2",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

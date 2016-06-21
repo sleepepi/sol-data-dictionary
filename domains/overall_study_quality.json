@@ -1,0 +1,32 @@
+[
+  {
+    "value": "-1",
+    "display_name": "Not scored",
+    "description": ""
+  },
+  {
+    "value": "0",
+    "display_name": "Short Study",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Short airflow",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Fair",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Good",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Excellent",
+    "description": ""
+  }
+]

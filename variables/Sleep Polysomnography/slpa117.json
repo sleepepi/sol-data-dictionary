@@ -1,0 +1,7 @@
+{
+  "id": "slpa117",
+  "display_name": "Percent of time with Snoring level > 30 dB",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

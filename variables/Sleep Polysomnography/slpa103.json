@@ -1,0 +1,7 @@
+{
+  "id": "slpa103",
+  "display_name": "Total time of poor SpO2 (hours)",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "slpa10",
+  "display_name": "Hours of valid recording time in supine position - Cannula",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

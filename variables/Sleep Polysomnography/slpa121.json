@@ -1,0 +1,7 @@
+{
+  "id": "slpa121",
+  "display_name": "Reasons for Short Studies: SLP_OVERALL_FAIL_CODE",
+  "description": "",
+  "type": "choices",
+  "domain": "reasons_short_study"
+}

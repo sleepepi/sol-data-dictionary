@@ -1,0 +1,7 @@
+{
+  "id": "slpa65",
+  "display_name": "Apnea/Hypopnea Index (4% desat, supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}

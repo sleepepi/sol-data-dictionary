@@ -1,0 +1,7 @@
+{
+  "id": "slpa115",
+  "display_name": "Mean Snore level (dB)",
+  "description": "",
+  "type": "numeric",
+  "units": "decibels"
+}

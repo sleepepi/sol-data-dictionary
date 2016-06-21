@@ -1,0 +1,7 @@
+{
+  "id": "slpa62",
+  "display_name": "Total Time spent in Apnea/Hypopnea event (3% desat, supine) (seconds)",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds"
+}

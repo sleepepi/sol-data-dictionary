@@ -1,0 +1,7 @@
+{
+  "id": "slpa82",
+  "display_name": "Central Apnea Index (all desats, non-supine)",
+  "description": "",
+  "type": "numeric",
+  "units": "events per hour"
+}
