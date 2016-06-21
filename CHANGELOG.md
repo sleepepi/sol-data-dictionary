@@ -1,6 +1,7 @@
 ## 0.2.0
 
 - Add variables from SLEA (Sleep Questionnaire) form
+- Add variables from SLPA (Sleep Monitor Data)
 
 ## 0.1.1 (January 19, 2016)
 
