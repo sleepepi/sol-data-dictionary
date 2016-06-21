@@ -56,14 +56,26 @@ data slea_lad1_in;
   length pid $8;
   set solb.slea_lad1;
 
+  *rename form for this dataset;
+  rename form = slea_form;
+
   *drop extraneous variables;
-  drop fseqno linenumber vers visit;
+  drop fseqno linenumber vers visit ;
+run;
+
+data slpa_lad1_in;
+  length pid $8;
+  set solb.slpa_lad1;
+
+  *drop extraneous variables;
+  drop fseqno linenumber vers visit form slpa2 ;
 run;
 
 *merge sub-datasets;
 data hchs_sol_dataset;
   merge part_derv_lad1_in
-    slea_lad1_in;
+    slea_lad1_in
+    slpa_lad1_in;
   by pid;
 run;
 
