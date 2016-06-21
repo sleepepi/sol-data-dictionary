@@ -1,3 +1,5 @@
+## 0.2.0
+
 ## 0.1.1 (January 19, 2016)
 
 - Correct typos in variable descriptions
