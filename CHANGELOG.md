@@ -2,6 +2,8 @@
 
 - Add variables from SLEA (Sleep Questionnaire) form
 - Add variables from SLPA (Sleep Monitor Data)
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfa01\bwh-sleepepi-sol\nsrr-prep\_releases\0.2.0.rc\`
 
 ## 0.1.1 (January 19, 2016)
 
