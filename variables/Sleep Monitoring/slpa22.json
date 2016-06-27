@@ -1,6 +1,6 @@
 {
   "id": "slpa22",
-  "display_name": "Urgent Referral - HR > 150 (SLPA22)",
+  "display_name": "Urgent Referral - HR > 150",
   "description": "",
   "type": "choices",
   "domain": "noyes01"
