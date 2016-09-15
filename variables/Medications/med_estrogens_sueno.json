@@ -1,0 +1,7 @@
+{
+  "id": "med_estrogens_sueno",
+  "display_name": "Estrogens",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+ {
+  "id": "hsi_tot_cnt_sueno",
+  "display_name": "Total score, non-missing item count",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

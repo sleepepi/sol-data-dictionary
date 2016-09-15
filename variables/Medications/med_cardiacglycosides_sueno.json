@@ -1,0 +1,7 @@
+{
+  "id": "med_cardiacglycosides_sueno",
+  "display_name": "Cardiac Glycosides",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

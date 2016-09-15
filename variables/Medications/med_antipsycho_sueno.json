@@ -1,0 +1,7 @@
+{
+  "id": "med_antipsycho_sueno",
+  "display_name": "Antipsychotics",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

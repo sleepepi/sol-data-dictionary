@@ -1,0 +1,7 @@
+{
+  "id": "med_antidepre_tricyc_sueno",
+  "display_name": "Antidepressants tricyclic antidepressants",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

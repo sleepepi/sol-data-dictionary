@@ -1,0 +1,7 @@
+{
+  "id": "med_anticoag_heparin_sueno",
+  "display_name": "Heparin anticoagulants",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "agegroup_c5_sueno",
+  "display_name": "5-level Age Sub-groups at SUENO Visit",
+  "description": "",
+  "type": "choices",
+  "domain": "agec5"
+}

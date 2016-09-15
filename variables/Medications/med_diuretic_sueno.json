@@ -1,0 +1,7 @@
+{
+  "id": "med_diuretic_sueno",
+  "display_name": "Diuretics",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med_antiplatelet_sueno",
+  "display_name": "Antiplatelets",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

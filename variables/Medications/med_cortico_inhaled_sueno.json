@@ -1,0 +1,7 @@
+{
+  "id": "med_cortico_inhaled_sueno",
+  "display_name": "Inhaled Corticosteroid Medication use",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

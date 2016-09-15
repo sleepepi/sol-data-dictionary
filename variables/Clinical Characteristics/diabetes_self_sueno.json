@@ -1,0 +1,7 @@
+{
+  "id": "diabetes_self_sueno",
+  "display_name": "Diabetes - self report only, collected during the sueno clinic visit",
+  "description": "This variable indicates a self-report of diabetes.",
+  "type": "choices",
+  "domain": "noyes01"
+}

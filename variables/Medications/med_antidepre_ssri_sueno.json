@@ -1,0 +1,7 @@
+{
+  "id": "med_antidepre_ssri_sueno",
+  "display_name": "Antidepressants - selective serotonin re-uptake inhibitors",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med_aspirin_sueno",
+  "display_name": "Aspirin-containing analgesics",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

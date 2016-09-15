@@ -1,0 +1,7 @@
+{
+  "id": "age_sueno",
+  "display_name": "Age at Sueno clinic visit",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

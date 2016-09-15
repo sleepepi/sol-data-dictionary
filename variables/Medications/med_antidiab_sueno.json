@@ -1,0 +1,7 @@
+{
+  "id": "med_antidiab_sueno",
+  "display_name": "Antidiabetics",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

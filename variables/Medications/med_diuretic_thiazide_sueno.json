@@ -1,0 +1,7 @@
+{
+  "id": "med_diuretic_thiazide_sueno",
+  "display_name": "Thiazide diuretics",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

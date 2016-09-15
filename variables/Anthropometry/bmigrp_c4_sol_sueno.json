@@ -1,0 +1,7 @@
+{
+  "id": "bmigrp_c4_sol_sueno",
+  "display_name": "4-level grouped Body Mass Index - WHO at the Sueno visit using SOL height",
+  "description": "This variable is created using the calculated body mass index to define categories based on current WHO (World Health Organization) classifications",
+  "type": "choices",
+  "domain":"bmi_range"
+}

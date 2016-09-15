@@ -1,0 +1,8 @@
+{
+  "id": "diabetes_sueno",
+  "display_name": "Diabetes (at Sueno visit) derived from SOL diagnosis and Sueno diabetes mellitus variables",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes1"
+  }
+}

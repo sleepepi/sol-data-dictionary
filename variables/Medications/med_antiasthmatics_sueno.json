@@ -1,0 +1,7 @@
+{
+  "id": "med_antiasthmatics_sueno",
+  "display_name": "Antiasthmatic or bronchodilator agents",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

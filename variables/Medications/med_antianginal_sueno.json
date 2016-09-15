@@ -1,0 +1,7 @@
+{
+  "id": "med_antianginal_sueno",
+  "display_name": "Antianginals",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

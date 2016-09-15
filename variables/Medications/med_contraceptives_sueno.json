@@ -1,0 +1,7 @@
+{
+  "id": "med_contraceptives_sueno",
+  "display_name": "Contraceptives",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

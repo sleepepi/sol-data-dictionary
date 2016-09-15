@@ -1,0 +1,7 @@
+ {
+  "id": "hsi_immig_cnt_sueno",
+  "display_name": "Immigration stress count, non-missing items",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

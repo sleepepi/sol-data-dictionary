@@ -1,0 +1,7 @@
+{
+  "id": "med_antianxi_sueno",
+  "display_name": "Antianxiety agents",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med_anticoag_sueno",
+  "display_name": "Anticoagulants",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

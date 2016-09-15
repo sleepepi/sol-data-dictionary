@@ -1,0 +1,7 @@
+{
+  "id": "med_antiarrhythmics_sueno",
+  "display_name": "AntiArrhythmics",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

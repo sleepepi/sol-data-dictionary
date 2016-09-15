@@ -1,0 +1,7 @@
+{
+  "id": "med_chemo_sueno",
+  "display_name": "Chemotherapy",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

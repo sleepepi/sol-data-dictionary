@@ -1,0 +1,7 @@
+{
+  "id": "hypertension_sueno",
+  "display_name": "Hypertension at the Sueno visit as derived from the SOL diagnosis and Sueno hypertension variables",
+  "description": "Hypertension is defined here if the systolic or diastolic blood pressure is greater than or equal to 140/90 or if the participant is currently taking antihypertensive medications.",
+  "type": "choices",
+  "domain": "noyes01"
+}

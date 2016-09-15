@@ -1,0 +1,7 @@
+{
+  "id": "med_fertility_reg_sueno",
+  "display_name": "Fetility regulators",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

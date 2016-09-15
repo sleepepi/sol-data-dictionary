@@ -1,0 +1,7 @@
+{
+  "id": "days_s1m1",
+  "display_name": "Days between HCHS clinic visit and Sueno clinic visit",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

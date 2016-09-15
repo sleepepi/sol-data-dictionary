@@ -1,0 +1,7 @@
+{
+  "id": "med_bronchodilator_sueno",
+  "display_name": "Bronchodilator and Antiasthmatic Agents Medication use",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

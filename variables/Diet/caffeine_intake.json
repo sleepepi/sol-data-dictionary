@@ -1,0 +1,7 @@
+{
+  "id": "caffeine_intake",
+  "display_name": "Cups of caffeinated beverages on a typical day",
+  "description": "",
+  "type": "numeric",
+  "units": "cups"
+}

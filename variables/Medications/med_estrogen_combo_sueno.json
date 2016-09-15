@@ -1,0 +1,7 @@
+{
+  "id": "med_estrogen_combo_sueno",
+  "display_name": "Estrogens - combination only",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

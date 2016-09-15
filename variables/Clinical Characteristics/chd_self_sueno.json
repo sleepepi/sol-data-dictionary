@@ -1,0 +1,7 @@
+{
+  "id": "chd_self_sueno",
+  "display_name": "Self-reported CHD at the Sueno visit",
+  "description": "This variable combines the self-reports of coronary revascularization or heart attack.",
+  "type": "choices",
+  "domain": "noyes01"
+}

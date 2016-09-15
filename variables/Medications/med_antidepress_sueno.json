@@ -1,0 +1,7 @@
+{
+  "id": "med_antidepress_sueno",
+  "display_name": "Antidepressants",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med_anticoag_coumarin_sueno",
+  "display_name": "Coumarin anticoagulants",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

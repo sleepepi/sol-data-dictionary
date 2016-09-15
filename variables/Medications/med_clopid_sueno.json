@@ -1,0 +1,7 @@
+{
+  "id": "med_clopid_sueno",
+  "display_name": "Clopidogrel (Plavix)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

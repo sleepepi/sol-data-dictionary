@@ -1,0 +1,7 @@
+{
+  "id": "med_antihypert_sueno",
+  "display_name": "Antihypertensives",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}
