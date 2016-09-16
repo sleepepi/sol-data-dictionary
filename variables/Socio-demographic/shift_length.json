@@ -1,0 +1,7 @@
+ {
+  "id": "shift_length",
+  "display_name": "Shift length",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

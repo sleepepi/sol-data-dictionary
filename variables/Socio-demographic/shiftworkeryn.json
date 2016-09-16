@@ -1,0 +1,7 @@
+ {
+  "id": "shiftworkeryn",
+  "display_name": "Shift worker",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

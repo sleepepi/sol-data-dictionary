@@ -1,0 +1,7 @@
+{
+  "id": "work_hrs_day",
+  "display_name": "Calculated work hours per workday",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

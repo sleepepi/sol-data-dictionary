@@ -1,0 +1,7 @@
+{
+  "id": "totcommute_day",
+  "display_name": "Total commute time per workday",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

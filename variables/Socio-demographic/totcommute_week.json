@@ -1,0 +1,7 @@
+{
+  "id": "totcommute_week",
+  "display_name": "Total commute time per week",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "work_hrs_week",
+  "display_name": "Weekly work hours",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}
