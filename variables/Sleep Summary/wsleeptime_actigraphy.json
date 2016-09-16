@@ -1,0 +1,7 @@
+{
+  "id": "wsleeptime_actigraphy",
+  "display_name": "Average sleep time from actigraphy",
+  "description": "Weighted average for weekdays and weekends",
+  "type": "numeric",
+  "units": "hours per day"
+}

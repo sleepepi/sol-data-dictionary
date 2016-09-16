@@ -1,0 +1,7 @@
+{
+  "id": "valid_actigraphy",
+  "display_name": "Valid actigraphy record",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}
