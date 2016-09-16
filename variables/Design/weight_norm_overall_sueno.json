@@ -1,0 +1,7 @@
+{
+  "id": "weight_norm_overall_sueno",
+  "display_name": "Sueno sampling weight",
+  "description": "",
+  "type": "numeric",
+  "units": ""
+}

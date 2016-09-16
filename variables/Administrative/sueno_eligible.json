@@ -1,0 +1,7 @@
+{
+  "id": "sueno_eligible",
+  "display_name": "Eligible Sueno participant",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}
