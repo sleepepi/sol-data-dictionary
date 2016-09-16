@@ -1,0 +1,7 @@
+{
+  "id": "stroke_tia_sueno",
+  "display_name": "Prevalent Stroke or TIA, self-reported",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}
