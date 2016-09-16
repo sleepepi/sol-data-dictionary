@@ -1,0 +1,7 @@
+{
+  "id": "med_pde4_sueno",
+  "display_name": "Phosphodiesterase Type IV Inhibitor medication use",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

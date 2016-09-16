@@ -1,0 +1,7 @@
+{
+  "id": "med_insulin_sueno",
+  "display_name": "Insulins",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

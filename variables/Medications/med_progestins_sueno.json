@@ -1,0 +1,7 @@
+{
+  "id": "med_progestins_sueno",
+  "display_name": "Progestins",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med_pulmonary_sueno",
+  "display_name": "Pulmonary medications",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

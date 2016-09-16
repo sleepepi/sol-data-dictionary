@@ -1,0 +1,7 @@
+{
+  "id": "med_statin_sueno",
+  "display_name": "Statins",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "med_lhrh_sueno",
+  "display_name": "Luteinizing Hormone-Releasing Hormone/Gonadotropin-Releasing Hormone only",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

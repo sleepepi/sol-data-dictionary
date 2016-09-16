@@ -1,0 +1,7 @@
+{
+  "id": "med_oi_steroid_sueno",
+  "display_name": "Oral or inhalable glucocorticosteroids",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

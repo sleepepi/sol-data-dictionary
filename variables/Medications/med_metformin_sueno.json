@@ -1,0 +1,7 @@
+{
+  "id": "med_metformin_sueno",
+  "display_name": "Metformins",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

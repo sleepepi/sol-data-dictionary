@@ -1,0 +1,7 @@
+{
+  "id": "med_lld_sueno",
+  "display_name": "Lipid-lowering drugs/Antihyperlipidemics",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

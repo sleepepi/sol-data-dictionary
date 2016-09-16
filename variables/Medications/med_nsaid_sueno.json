@@ -1,0 +1,7 @@
+{
+  "id": "med_nsaid_sueno",
+  "display_name": "NSAIDs",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}
