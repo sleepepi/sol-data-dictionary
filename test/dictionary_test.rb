@@ -9,7 +9,7 @@ class DictionaryTest < Minitest::Test
   include Spout::Helpers::Iterators
 
   # Example 1: Create custom tests to show that `integer` and `numeric` variables have a valid unit type
-  VALID_UNITS = ["hours per day", "cups", "days", "mmol per mol", "centimeters", "", "packs", "percent", "drinks", "cigarettes",
+  VALID_UNITS = ["bouts", "lux", "naps per day", "minutes per day", "hours per day", "cups", "days", "mmol per mol", "centimeters", "", "packs", "percent", "drinks", "cigarettes",
     "kilograms per meter squared","hours", "years", "seconds", "beats per minute", "decibels",
     "minutes", "events per hour"] # Add your own valid units to this array
   @variables.select{|v| v.type == 'numeric' or v.type == 'integer'}.each do |variable|

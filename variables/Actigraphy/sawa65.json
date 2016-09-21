@@ -1,0 +1,7 @@
+{
+  "id": "sawa65",
+  "display_name": "Average number of sleep bouts in main sleep periods over all days",
+  "description": "",
+  "type": "numeric",
+  "units": "bouts"
+}

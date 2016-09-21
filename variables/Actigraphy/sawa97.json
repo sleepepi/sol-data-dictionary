@@ -1,0 +1,7 @@
+{
+  "id": "sawa97",
+  "display_name": "Average in bed duration from main sleep periods over weekdays",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

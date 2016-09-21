@@ -1,0 +1,7 @@
+{
+  "id": "sawa60",
+  "display_name": "Average sleep efficiency in main sleep over all days",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

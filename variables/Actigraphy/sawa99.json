@@ -1,0 +1,7 @@
+{
+  "id": "sawa99",
+  "display_name": "Average sleep duration from main sleeps over weekdays",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

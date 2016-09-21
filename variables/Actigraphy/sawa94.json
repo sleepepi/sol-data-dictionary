@@ -1,0 +1,7 @@
+{
+  "id": "sawa94",
+  "display_name": "Number of weekdays with sleep data recorded",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

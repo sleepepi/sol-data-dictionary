@@ -1,0 +1,7 @@
+{
+  "id": "sawa100",
+  "display_name": "Standard deviation of weekday sleep time during main sleeps",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}
