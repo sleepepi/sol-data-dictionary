@@ -1,0 +1,7 @@
+{
+  "id": "sawa170",
+  "display_name": "Average sleep time in naps per weekend over recorded days",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes per day"
+}

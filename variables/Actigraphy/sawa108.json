@@ -1,0 +1,7 @@
+{
+  "id": "sawa108",
+  "display_name": "Standard deviation of sleep efficiency in main sleep periods over weekdays",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

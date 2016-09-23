@@ -1,0 +1,7 @@
+{
+  "id": "sawa161",
+  "display_name": "Number of weekends with any naps",
+  "description": "",
+  "type": "numeric",
+  "units": "weekends"
+}

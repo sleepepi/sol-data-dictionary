@@ -1,0 +1,7 @@
+{
+  "id": "sawa194",
+  "display_name": "Standard deviation of workday sleep period",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

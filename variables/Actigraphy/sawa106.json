@@ -1,0 +1,7 @@
+{
+  "id": "sawa106",
+  "display_name": "Average total time awake during weekday in bed",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sawa169",
+  "display_name": "Average nap sleep time per weekend nap of naps at least 15 minutes in length",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

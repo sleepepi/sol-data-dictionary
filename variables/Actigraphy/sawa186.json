@@ -1,0 +1,7 @@
+{
+  "id": "sawa186",
+  "display_name": "Average green light time above lux threshold per weeked",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sawa195",
+  "display_name": "Average sleep time in main sleep over workday",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

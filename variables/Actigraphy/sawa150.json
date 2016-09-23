@@ -1,0 +1,7 @@
+{
+  "id": "sawa150",
+  "display_name": "Average sleep onset latency in main sleep over weekend",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

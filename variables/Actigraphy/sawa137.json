@@ -1,0 +1,7 @@
+{
+  "id": "sawa137",
+  "display_name": "Average white light time above lux threshold per weekday",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

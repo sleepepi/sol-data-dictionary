@@ -1,0 +1,7 @@
+{
+  "id": "sawa187",
+  "display_name": "Average red light time above lux threshold per weekend",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

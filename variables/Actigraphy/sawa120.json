@@ -1,0 +1,7 @@
+{
+  "id": "sawa120",
+  "display_name": "Average sleep time per weekday nap",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

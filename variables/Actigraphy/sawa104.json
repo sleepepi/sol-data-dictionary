@@ -1,0 +1,7 @@
+{
+  "id": "sawa104",
+  "display_name": "Average wake after sleep onset in weekday main sleeps",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

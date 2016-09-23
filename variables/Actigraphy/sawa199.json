@@ -1,0 +1,7 @@
+{
+  "id": "sawa199",
+  "display_name": "Average snooze time in main sleep over workday",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

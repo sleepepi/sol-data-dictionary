@@ -1,0 +1,7 @@
+{
+  "id": "sawa115",
+  "display_name": "Number of weekdays with naps during sleep time",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}
