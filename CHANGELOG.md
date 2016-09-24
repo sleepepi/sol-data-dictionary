@@ -2,6 +2,7 @@
 
 - Add variables from the Hispanic Stress Inventory administered during the Sueno visit
 - Update medications variables to include medication use data collected at the Sueno visit
+- Add variables from the actigraphy portion of the Sueno visit
 
 ## 0.2.0 (June 28, 2016)
 

@@ -1,0 +1,7 @@
+{
+  "id": "sawa239",
+  "display_name": "Standard deviation of in bed duration from main sleep over non-workdays",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

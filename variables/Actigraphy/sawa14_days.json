@@ -1,0 +1,7 @@
+{
+  "id": "sawa14_days",
+  "display_name": "Days since main study baseline visit to collection end date",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sawa205",
+  "display_name": "Average fragmentation index in main sleep over workdays",
+  "description": "",
+  "type": "numeric",
+  "units": "percent"
+}

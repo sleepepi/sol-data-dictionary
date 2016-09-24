@@ -1,0 +1,7 @@
+{
+  "id": "sawa328",
+  "display_name": "Average red light time above lux threshold per reliable day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

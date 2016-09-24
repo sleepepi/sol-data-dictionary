@@ -1,0 +1,7 @@
+{
+  "id": "sawa291",
+  "display_name": "Average onset latency in main sleep over reliable days",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

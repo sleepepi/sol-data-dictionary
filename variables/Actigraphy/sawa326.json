@@ -1,0 +1,7 @@
+{
+  "id": "sawa326",
+  "display_name": "Average blue light time above lux threshold per reliable day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

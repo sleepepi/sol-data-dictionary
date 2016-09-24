@@ -1,0 +1,7 @@
+{
+  "id": "sawa278",
+  "display_name": "Average white light time above lux threshold on non-workdays",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

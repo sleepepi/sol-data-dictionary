@@ -1,0 +1,7 @@
+{
+  "id": "sawa325",
+  "display_name": "Average white light time above lux threshold per reliable day",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

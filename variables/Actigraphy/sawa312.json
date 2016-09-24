@@ -1,0 +1,7 @@
+{
+  "id": "sawa312",
+  "display_name": "Average sleep time in naps per reliable day over recorded days of naps at least 15 minutes in length",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes per day"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sawa287",
+  "display_name": "Average sleep duration from main sleep over reliable days",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

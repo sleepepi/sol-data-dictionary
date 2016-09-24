@@ -1,0 +1,7 @@
+{
+  "id": "sawa335",
+  "display_name": "Average activity counts per minute in main sleep periods over all days",
+  "description": "",
+  "type": "numeric",
+  "units": "counts per minute"
+}

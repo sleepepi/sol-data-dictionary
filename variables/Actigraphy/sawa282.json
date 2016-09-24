@@ -1,0 +1,7 @@
+{
+  "id": "sawa282",
+  "display_name": "Number of reliable days with sleep data recorded",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

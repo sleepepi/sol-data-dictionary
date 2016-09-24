@@ -1,0 +1,7 @@
+{
+  "id": "sawa210",
+  "display_name": "Number of workdays with naps at least 15 minutes in length",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

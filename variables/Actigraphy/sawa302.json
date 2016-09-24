@@ -1,0 +1,7 @@
+{
+  "id": "sawa302",
+  "display_name": "Number of reliable days with naps",
+  "description": "",
+  "type": "numeric",
+  "units": "days"
+}

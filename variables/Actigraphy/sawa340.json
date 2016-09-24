@@ -1,0 +1,7 @@
+{
+  "id": "sawa340",
+  "display_name": "Study overlaps daylight savings time (March or November)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

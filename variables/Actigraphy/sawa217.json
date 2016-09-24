@@ -1,0 +1,7 @@
+{
+  "id": "sawa217",
+  "display_name": "Average sleep time in naps per workday over recorded days",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes per day"
+}

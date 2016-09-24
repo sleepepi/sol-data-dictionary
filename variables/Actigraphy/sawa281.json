@@ -1,0 +1,7 @@
+{
+  "id": "sawa281",
+  "display_name": "Average red light time above lux threshold on non-workdays",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

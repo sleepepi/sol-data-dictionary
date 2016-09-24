@@ -1,0 +1,7 @@
+{
+  "id": "sawa237",
+  "display_name": "Standard deviation of 24 hour sleep over non-workdays",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes"
+}

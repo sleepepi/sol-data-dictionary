@@ -1,0 +1,7 @@
+{
+  "id": "sawa337",
+  "display_name": "Average activity counts per minute in 24 hour periods over all days",
+  "description": "",
+  "type": "numeric",
+  "units": "counts per minute"
+}
