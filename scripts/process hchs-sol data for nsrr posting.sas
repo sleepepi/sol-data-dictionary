@@ -89,6 +89,8 @@ data hchs_sol_dataset;
     part_derv_sueno_lad1_in
     sawa_lad1_in;
   by pid;
+
+  drop skips_on vers visit linenumber form fseqno;
 run;
 
 *export datasets to CSV for posting;
