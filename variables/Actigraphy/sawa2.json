@@ -2,6 +2,6 @@
   "id": "sawa2",
   "display_name": "Contact Occasion",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "choices",
+  "domain": "visit"
 }

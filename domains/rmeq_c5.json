@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Definitely morning type",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Moderately morning type",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Neither type",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Moderately evening type",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Definitely evening type",
+    "description": ""
+  }
+]

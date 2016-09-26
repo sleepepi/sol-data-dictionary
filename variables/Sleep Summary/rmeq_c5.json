@@ -1,7 +1,7 @@
 {
-  "id": "remq_c5",
+  "id": "rmeq_c5",
   "display_name": "5-level grouped Reduced Morningness Eveningness Questionnaire Raw Score",
   "description": "",
   "type": "choices",
-  "domain": "remq"
+  "domain": "rmeq_c5"
 }
