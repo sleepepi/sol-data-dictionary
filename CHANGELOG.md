@@ -3,6 +3,8 @@
 - Add variables from the Hispanic Stress Inventory administered during the Sueno visit
 - Update medications variables to include medication use data collected at the Sueno visit
 - Add variables from the actigraphy dataset and limited access dataset (LAD) of the Sueno visit
+- The CSV datasets generateed from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.3.0.rc\`
 
 ## 0.2.0 (June 28, 2016)
 
