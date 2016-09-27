@@ -1,0 +1,7 @@
+{
+  "id": "flag_osa",
+  "display_name": "Treated for OSA",
+  "description": "",
+  "type": "choices",
+  "domain": "osaflag"
+}

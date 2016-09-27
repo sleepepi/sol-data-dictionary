@@ -1,0 +1,7 @@
+{
+  "id": "ess_sueno",
+  "display_name": "Epworth Sleepiness Scale",
+  "description": "The Epworth Sleepiness Scale, administered at the Sueno visit, assesses the daytime sleepiness of patients.",
+  "type": "numeric",
+  "units": ""
+}

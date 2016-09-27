@@ -1,0 +1,7 @@
+{
+  "id": "flag_bkgrd",
+  "display_name": "Ineligible Hispanic background for site",
+  "description": "",
+  "type": "choices",
+  "domain": "bkgrdflag"
+}

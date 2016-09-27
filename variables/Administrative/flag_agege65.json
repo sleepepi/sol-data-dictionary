@@ -1,0 +1,7 @@
+{
+  "id": "flag_agege65",
+  "display_name": "Age greater than or equal to 65 or less than 18",
+  "description": "",
+  "type": "choices",
+  "domain": "ageflag"
+}

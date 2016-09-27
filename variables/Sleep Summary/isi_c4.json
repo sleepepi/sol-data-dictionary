@@ -3,5 +3,5 @@
   "display_name": "4-level grouped Insomnia Severity Index",
   "description": "",
   "type": "choices",
-  "domain": ""
+  "domain": "isi_c4"
 }

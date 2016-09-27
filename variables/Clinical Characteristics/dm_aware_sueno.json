@@ -1,0 +1,7 @@
+{
+  "id": "dm_aware_sueno",
+  "display_name": "Diabetes awareness at the Sueno visit",
+  "description": "This variable describes the awareness of diabetes. Defined only for self-reported diabetics.",
+  "type": "choices",
+  "domain": "aware"
+}

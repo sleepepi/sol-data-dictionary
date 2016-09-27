@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "Eligible background",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Ineligible background",
+    "description": ""
+  }
+]

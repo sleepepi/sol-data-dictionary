@@ -1,0 +1,7 @@
+{
+  "id": "flag_narc",
+  "display_name": "Narcolepsy diagnosis",
+  "description": "",
+  "type": "choices",
+  "domain": "narcflag"
+}

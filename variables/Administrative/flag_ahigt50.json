@@ -1,0 +1,7 @@
+{
+  "id": "flag_ahigt50",
+  "display_name": "AHI greater than 50",
+  "description": "",
+  "type": "choices",
+  "domain": "ahiflag"
+}

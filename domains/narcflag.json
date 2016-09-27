@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "No diagnosis",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Diagnosed narcolepsy",
+    "description": ""
+  }
+]

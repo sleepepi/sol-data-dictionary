@@ -1,0 +1,12 @@
+[
+  {
+    "value": "0",
+    "display_name": "Ages between 18 and 64",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Age greater than or equal to 65 or less than 18",
+    "description": ""
+  }
+]
