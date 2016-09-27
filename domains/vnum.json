@@ -1,7 +1,12 @@
 [
   {
     "value": "1",
-    "display_name": "HCHS/SOL Baseline",
+    "display_name": "Baseline",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sueño Ancillary",
     "description": ""
   }
 ]

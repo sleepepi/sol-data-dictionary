@@ -85,17 +85,31 @@ run;
 data hchs_sol_dataset;
   merge part_derv_lad1_in
     slea_lad1_in
-    slpa_lad1_in
-    part_derv_sueno_lad1_in
+    slpa_lad1_in;
+  by pid;
+
+run;
+
+*merge sub-datasets;
+data hchs_sueno_dataset;
+  merge part_derv_sueno_lad1_in
     sawa_lad1_in;
   by pid;
+
+  vnum = 2;
 
   drop skips_on vers visit linenumber form fseqno;
 run;
 
 *export datasets to CSV for posting;
 proc export data=hchs_sol_dataset
-  outfile="\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\&release\hchs-sol-dataset-&release..csv"
+  outfile="\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\&release\hchs-sol-baseline-dataset-&release..csv"
+  dbms=csv
+  replace;
+run;
+
+proc export data=hchs_sueno_dataset
+  outfile="\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\&release\hchs-sol-sueno-ancillary-dataset-&release..csv"
   dbms=csv
   replace;
 run;
