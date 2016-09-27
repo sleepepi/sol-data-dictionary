@@ -5,12 +5,12 @@
     "description": ""
   },
   {
-    "value": "2",
+    "value": "1",
     "display_name": "Overlaps with DST Start",
     "description": ""
   },
   {
-    "value": "3",
+    "value": "2",
     "display_name": "Overlaps with DST End",
     "description": ""
   }
