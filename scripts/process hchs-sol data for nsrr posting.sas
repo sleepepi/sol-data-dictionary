@@ -41,7 +41,7 @@ run;
 */
 
 *set release number;
-%let release = 0.3.0.rc3;
+%let release = 0.3.0;
 
 *import sas datasets;
 data part_derv_lad1_in;
