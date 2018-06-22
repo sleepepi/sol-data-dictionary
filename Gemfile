@@ -1,3 +1,3 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'spout', '~> 0.11.0'
+gem "spout", "~> 0.14.0.beta2"

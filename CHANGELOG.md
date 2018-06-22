@@ -1,5 +1,8 @@
 ## 0.4.0
 
+- **Gem Changes**
+  - Update to spout 0.14.0.beta2
+
 ## 0.3.0 (September 29, 2016)
 
 - Add variables from the Hispanic Stress Inventory administered during the Sueno visit
