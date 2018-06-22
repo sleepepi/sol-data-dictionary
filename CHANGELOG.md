@@ -1,3 +1,5 @@
+## 0.4.0
+
 ## 0.3.0 (September 29, 2016)
 
 - Add variables from the Hispanic Stress Inventory administered during the Sueno visit
