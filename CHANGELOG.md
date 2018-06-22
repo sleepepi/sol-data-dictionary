@@ -2,7 +2,7 @@
 
 - **Gem Changes**
   - Update to ruby 2.5.1
-  - Update to spout 0.14.0.beta2
+  - Update to spout 0.14.0.beta3
 
 ## 0.3.0 (September 29, 2016)
 
