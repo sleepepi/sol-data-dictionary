@@ -1,7 +1,7 @@
 {
   "id": "marital_status",
   "display_name": "Marital Status (collapsed categories)",
-  "description": "This derived variable groups each subject’s marital status.",
+  "description": "This derived variable groups each subject's marital status.",
   "type": "choices",
   "domain": "marital_status"
 }
