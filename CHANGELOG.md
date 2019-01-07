@@ -1,5 +1,7 @@
 ## 0.4.0
 
+- Fix typos in insomnia rating scale variables
+
 - **Gem Changes**
   - Update to ruby 2.5.1
   - Update to spout 0.14.0

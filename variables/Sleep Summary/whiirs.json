@@ -1,6 +1,6 @@
 {
   "id": "whiirs",
-  "display_name": "Womens's Health Initiative Insomnia Rating Scale",
+  "display_name": "Total score of Women's Health Initiative Insomnia Rating Scale (WHIIRS)",
   "description": "The score is calculated from non-missing values for any of the following five items: SLEA4, SLEA5, SLEA6, SLEA7 and SLEA11. The original items range from 0 to 4 and the total score from 0 to 20.  In HCHS/SOL, SLEA form the scoring for questions 4 to 7 each ranged from 1 to 5 so 1 should be subtracted from each of these items to obtain the score for use in calculating WHIIRS.",
   "type": "numeric",
   "units": ""
