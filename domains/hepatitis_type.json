@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "Type A",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Type B",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Type C",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

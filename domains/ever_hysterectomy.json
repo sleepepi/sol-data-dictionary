@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes, with removal of both ovaries",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, without removal of both ovaries",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Yes, uncertain if ovaries removed",
+    "description": ""
+  }
+]

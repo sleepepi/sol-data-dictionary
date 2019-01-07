@@ -1,0 +1,7 @@
+{
+  "id": "mhea19a",
+  "display_name": "How often Heartburn/similar chest pain (MHEA19A)",
+  "description": "",
+  "type": "choices",
+  "domain": "monthly_freq"
+}

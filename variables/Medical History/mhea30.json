@@ -1,0 +1,7 @@
+{
+  "id": "mhea30",
+  "display_name": "Age at hysterectomy Surgery (MHEA30)",
+  "description": "",
+  "type": "integer",
+  "units": "years"
+}

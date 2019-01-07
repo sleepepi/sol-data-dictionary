@@ -2,6 +2,7 @@
 
 - Fix typos in insomnia rating scale variables
 - Update styling in SAS import program
+- Add medical history (MHEA) variables
 
 - **Gem Changes**
   - Update to ruby 2.5.1

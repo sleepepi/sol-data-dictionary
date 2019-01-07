@@ -86,10 +86,10 @@ run;
     length pid $8;
     set solb.mhea_lad1;
 
-    *recode .s values to missing;
+    *recode .q/.s values to missing;
     array allvars mhea1--mhea39;
     do over allvars;
-      if allvars = .s then allvars = .;
+      if allvars in (.q,.s) then allvars = .;
     end;
 
     *drop extraneous variables;

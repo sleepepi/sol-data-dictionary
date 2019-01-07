@@ -1,0 +1,7 @@
+{
+  "id": "mhea26",
+  "display_name": "Cancer/Malignant Tumor - Self (MHEA26)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

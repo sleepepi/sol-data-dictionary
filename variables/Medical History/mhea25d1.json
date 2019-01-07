@@ -1,0 +1,7 @@
+{
+  "id": "mhea25d1",
+  "display_name": "Apnea - CPAP/BPAP/Other (MHEA25D1)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

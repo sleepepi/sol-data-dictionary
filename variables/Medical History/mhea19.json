@@ -1,0 +1,7 @@
+{
+  "id": "mhea19",
+  "display_name": "Heartburn/similar chest pain (MHEA19)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

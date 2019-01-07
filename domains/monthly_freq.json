@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than once per month",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "About once per month",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "About once per week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Several times per week",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Daily",
+    "description": ""
+  }
+]
