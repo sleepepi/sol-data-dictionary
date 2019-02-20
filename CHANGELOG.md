@@ -5,6 +5,8 @@
 - Add medical history (MHEA) variables
 - Add simple set of commonly used variables
 - Remove old SAS-related code from initial import
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.4.0.rc\`
 
 - **Gem Changes**
   - Update to ruby 2.6.1
