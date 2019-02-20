@@ -1,4 +1,4 @@
-## 0.4.0
+## 0.4.0 (February 20, 2019)
 
 - Fix typos in insomnia rating scale variables
 - Update styling in SAS import program
@@ -6,7 +6,7 @@
 - Add simple set of commonly used variables
 - Remove old SAS-related code from initial import
 - The CSV datasets generated from a SAS export are located here:
-  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.4.0.rc\`
+  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.4.0\`
 
 - **Gem Changes**
   - Update to ruby 2.6.1

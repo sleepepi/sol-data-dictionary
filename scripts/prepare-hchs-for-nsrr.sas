@@ -16,7 +16,7 @@
   libname solb "\\rfawin\bwh-sleepepi-sol\nsrr-prep\_datasets";
   options nofmterr;
 
-  %let release = 0.4.0.rc;
+  %let release = 0.4.0;
 
 /*
 
