@@ -3,8 +3,5 @@
   "display_name": "3-level grouped Diabetes ver.1",
   "description": "This variable describes the stages of diabetes.",
   "type": "choices",
-  "domain": "diabetes3",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "diabetes3"
 }

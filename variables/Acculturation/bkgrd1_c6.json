@@ -3,8 +3,5 @@
   "display_name": "Background with Other reclassified (collapsed categories)",
   "description": "Variable collapses 'Central' and 'South American' categories into one group and the 'Other' and 'More than one heritage' categories into one group.",
   "type": "choices",
-  "domain": "latino_background2",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "latino_background2"
 }

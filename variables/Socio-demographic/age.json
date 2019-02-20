@@ -3,5 +3,6 @@
   "display_name": "Age",
   "description": "This is the age of the participant in years at the time of the participant's clinic visit.",
   "type": "numeric",
-  "units": "years"
+  "units": "years",
+  "commonly_used": true
 }

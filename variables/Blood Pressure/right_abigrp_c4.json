@@ -3,8 +3,5 @@
   "display_name": "Right 4-level grouped Ankle Brachial Index (occ. failure incl.)",
   "description": "This variable groups left and right ABI into 4 categories.",
   "type": "choices",
-  "domain": "abi",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "abi"
 }

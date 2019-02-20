@@ -3,8 +3,5 @@
   "display_name": "Immigrant generation (2 categories)",
   "description": "This variable determines the participants immigrant generation status based on a combination of the country of origin of the participant, maternal and paternal parents, and/or the maternal and paternal grandparents.",
   "type": "choices",
-  "domain": "generation2",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "generation2"
 }

@@ -3,8 +3,5 @@
   "display_name": "Annual Follow-Up Eligibity (minimum set of forms present)",
   "description": "This variable defines a participant as meeting all requirements to determine if eligible for annual follow-up.",
   "type": "choices",
-  "domain": "noyes01",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "noyes01"
 }

@@ -3,8 +3,5 @@
   "display_name": "Intermittent Claudication - either leg",
   "description": "This variable defines intermittent claudication being present in either leg",
   "type": "choices",
-  "domain": "noyesdk",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "noyesdk"
 }

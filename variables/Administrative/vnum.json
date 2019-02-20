@@ -3,5 +3,6 @@
   "display_name": "Visit Number",
   "description": "",
   "type": "choices",
-  "domain": "vnum"
+  "domain": "vnum",
+  "commonly_used": true
 }

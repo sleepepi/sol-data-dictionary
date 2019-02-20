@@ -3,5 +3,6 @@
   "display_name": "Participant's Field Center - numeric",
   "description": "This variable is the field center that was derived from the city of origin.",
   "type": "choices",
-  "domain": "siteid"
+  "domain": "siteid",
+  "commonly_used": true
 }

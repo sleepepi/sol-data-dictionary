@@ -4,7 +4,5 @@
   "description": "",
   "type": "identifier",
   "units": "",
-  "other": {
-    "Variable Informat": null
-  }
+  "commonly_used": true
 }

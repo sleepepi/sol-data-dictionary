@@ -3,8 +3,5 @@
   "display_name": "Alcohol Use Disorder Risk",
   "description": "Based on gender-specific cutoffs for weekly alcohol use provided by the National Institute for Alcohol Abuse and Alcoholism, this variable provides a risk level for developing an alcohol use disorder (craving, loss of control, physical dependence, tolerance, etc.)",
   "type": "choices",
-  "domain": "alcohol_risk",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "alcohol_risk"
 }

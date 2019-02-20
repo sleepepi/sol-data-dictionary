@@ -3,5 +3,6 @@
   "display_name": "Gender",
   "description": "This variable describes the participant's gender.",
   "type": "choices",
-  "domain": "gender2"
+  "domain": "gender2",
+  "commonly_used": true
 }

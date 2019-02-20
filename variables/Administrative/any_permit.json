@@ -3,8 +3,5 @@
   "display_name": "Any permission for public use of data",
   "description": "Thi variable combines the 3 permission variables to determine whether or not a study participant gave any permission for public use of data.",
   "type": "choices",
-  "domain": "use_permitted",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "use_permitted"
 }

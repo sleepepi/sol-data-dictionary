@@ -3,8 +3,5 @@
   "display_name": "Cross-Classification of Center and Hispanic/Latino Background",
   "description": "This variable is the self-identification with a Hispanic/Latino cultural group crossed by field center.",
   "type": "choices",
-  "domain": "site_background",
-  "other": {
-    "Variable Informat": null
-  }
+  "domain": "site_background"
 }
