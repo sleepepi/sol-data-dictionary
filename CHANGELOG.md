@@ -3,10 +3,12 @@
 - Fix typos in insomnia rating scale variables
 - Update styling in SAS import program
 - Add medical history (MHEA) variables
+- Add simple set of commonly used variables
+- Remove old SAS-related code from initial import
 
 - **Gem Changes**
-  - Update to ruby 2.5.1
-  - Update to spout 1.0.0.beta1
+  - Update to ruby 2.6.1
+  - Update to spout 1.0.0
 
 ## 0.3.0 (September 29, 2016)
 

@@ -3,11 +3,11 @@
 * Project           : National Sleep Research Resource (sleepdata.org)
 * Author            : Michael Rueschman (MR)
 * Date Created      : 20190107
-* Purpose           : Prepare Hispanic Community Health Study (HCHS) data for 
+* Purpose           : Prepare Hispanic Community Health Study (HCHS) data for
 *                       deposition on sleepdata.org.
 * Revision History  :
 *   Date      Author    Revision
-*   
+*
 *******************************************************************************;
 
 *******************************************************************************;
@@ -108,7 +108,7 @@ run;
 
   *merge sub-datasets;
   data hchs_sol_dataset;
-    merge 
+    merge
       part_derv_lad1_in
       slea_lad1_in
       slpa_lad1_in
@@ -119,7 +119,7 @@ run;
 
   *merge sub-datasets;
   data hchs_sueno_dataset;
-    merge 
+    merge
       part_derv_sueno_lad1_in
       sawa_lad1_in;
     by pid;
