@@ -1,3 +1,5 @@
+## 0.5.0
+
 ## 0.4.0 (February 20, 2019)
 
 - Fix typos in insomnia rating scale variables
