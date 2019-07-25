@@ -106,13 +106,24 @@ run;
 
   run;
 
+  data spea_lad1_in;
+    set solb.spea_lad1;
+
+  run;
+
+  data sqea_lad1_in;
+    set solb.sqea_lad1;
+
+  run;
+
   *merge sub-datasets;
   data hchs_sol_dataset;
     merge
       part_derv_lad1_in
       slea_lad1_in
       slpa_lad1_in
-      mhea_lad1_in;
+      mhea_lad1_in
+      ;
     by pid;
 
   run;
@@ -121,7 +132,9 @@ run;
   data hchs_sueno_dataset;
     merge
       part_derv_sueno_lad1_in
-      sawa_lad1_in;
+      sawa_lad1_in
+      spea_lad1_in
+      sqea_lad1_in;
     by pid;
 
     vnum = 2;
