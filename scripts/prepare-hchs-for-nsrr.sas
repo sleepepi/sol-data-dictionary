@@ -109,6 +109,9 @@ run;
   data spea_lad1_in;
     set solb.spea_lad1;
 
+    *drop variables not kept in hchs documentation;
+    drop SPEA1A SPEA1A1 SPEA1B SPEA1B1 SPEA2A
+      SPEA2A1 SPEA2B SPEA2B1;
   run;
 
   data sqea_lad1_in;

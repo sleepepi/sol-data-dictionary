@@ -1,6 +1,6 @@
 {
   "id": "slea11",
-  "display_name": "Typical nights sleep in past 4 weeks",
+  "display_name": "Typical night's sleep in past 4 weeks",
   "description": "",
   "type": "choices",
   "domain": "typical_night_sleep"

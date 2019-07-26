@@ -1,0 +1,7 @@
+{
+  "id": "spea3",
+  "display_name": "Times Nap 5+ min during usual week",
+  "description": "",
+  "type": "choices",
+  "domain": "nap_usual_week"
+}

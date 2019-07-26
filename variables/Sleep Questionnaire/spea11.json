@@ -1,0 +1,7 @@
+{
+  "id": "spea11",
+  "display_name": "Overall night sleep quality in past 4 wks",
+  "description": "",
+  "type": "choices",
+  "domain": "typical_night_sleep"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sqea2",
+  "display_name": "Tiredness in 1st 30 min after woken in morning",
+  "description": "",
+  "type": "choices",
+  "domain": "tiredmorning"
+}

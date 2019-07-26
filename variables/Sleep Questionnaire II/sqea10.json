@@ -1,0 +1,7 @@
+{
+  "id": "sqea10",
+  "display_name": "Problem w/sleep in past two weeks (Y/N)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

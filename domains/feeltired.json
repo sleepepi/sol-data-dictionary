@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "8:00-9:00 pm",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "9:00-10:15 pm",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "10:15 pm-12:45 am",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "12:45-2:00 am",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "2:00-3:00 am",
+    "description": ""
+  },
+  {
+    "value": "Q",
+    "display_name": "DK/Refuse",
+    "description": ""
+  }
+]

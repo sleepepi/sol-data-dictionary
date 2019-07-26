@@ -1,5 +1,7 @@
 ## 0.5.0
 
+- Added Sleep Questionnaire variables from Sueno ancillary
+
 ## 0.4.0 (February 20, 2019)
 
 - Fix typos in insomnia rating scale variables

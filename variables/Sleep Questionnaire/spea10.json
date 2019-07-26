@@ -1,0 +1,7 @@
+{
+  "id": "spea10",
+  "display_name": "Times felt sleepy during the day in past 4 wks",
+  "description": "",
+  "type": "choices",
+  "domain": "freq4weeks"
+}

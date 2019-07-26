@@ -17,7 +17,8 @@ class DictionaryTest < Minitest::Test
     "bouts", "lux", "naps per day", "minutes per day", "hours per day",
     "cups", "days", "mmol per mol", "centimeters", "", "packs", "percent",
     "drinks", "cigarettes", "kilograms per meter squared","hours", "years",
-    "seconds", "beats per minute", "decibels", "minutes", "events per hour"]
+    "seconds", "beats per minute", "decibels", "minutes", "events per hour",
+    "servings"]
   @variables.select { |v| %w(numeric integer).include?(v.type) }.each do |variable|
     define_method("test_units: #{variable.path}") do
       message = "\"#{variable.units}\"".red + " invalid units.\n" +

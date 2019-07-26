@@ -1,0 +1,7 @@
+{
+  "id": "spea13",
+  "display_name": "How often snore per week",
+  "description": "",
+  "type": "choices",
+  "domain": "snore_frequency"
+}

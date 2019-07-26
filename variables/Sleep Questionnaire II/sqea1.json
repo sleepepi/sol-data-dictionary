@@ -1,0 +1,7 @@
+{
+  "id": "sqea1",
+  "display_name": "Get up time if free to plan day",
+  "description": "",
+  "type": "choices",
+  "domain": "getuptime"
+}
