@@ -14,7 +14,6 @@
 - Remove old SAS-related code from initial import
 - The CSV datasets generated from a SAS export are located here:
   - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.4.0\`
-
 - **Gem Changes**
   - Update to ruby 2.6.1
   - Update to spout 1.0.0
