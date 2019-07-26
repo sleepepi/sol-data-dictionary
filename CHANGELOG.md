@@ -1,6 +1,7 @@
 ## 0.5.0
 
 - Added Sleep Questionnaire variables from Sueno ancillary
+- Add descriptions to summary score variables
 
 ## 0.4.0 (February 20, 2019)
 
