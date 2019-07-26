@@ -2,6 +2,8 @@
 
 - Added Sleep Questionnaire variables from Sueno ancillary
 - Add descriptions to summary score variables
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.5.0.rc\`
 
 ## 0.4.0 (February 20, 2019)
 
