@@ -1,0 +1,7 @@
+{
+  "id": "med_current_hrt_sueno",
+  "display_name": "Any hormone replacement therapy",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "gpaq_work_mod",
-  "display_name": "Work-related (moderate) physical activity (min/day)",
-  "description": "This variable calculates the average amount of time spent per day doing a moderate work-related physical activity.",
-  "type": "numeric",
-  "units": ""
-}

@@ -1,7 +1,0 @@
-{
-  "id": "sawa103",
-  "display_name": "Average sleep latency in main sleep over weekday",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

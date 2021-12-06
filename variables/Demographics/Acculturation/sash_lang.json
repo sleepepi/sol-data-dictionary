@@ -1,0 +1,6 @@
+{
+  "id": "sash_lang",
+  "display_name": "Short acculturation scale for Hispanics-language subscale",
+  "description": "This variable indicates the degree of language acculturation.",
+  "type": "numeric"
+}

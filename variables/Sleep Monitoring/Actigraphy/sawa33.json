@@ -1,0 +1,10 @@
+{
+  "id": "sawa33",
+  "display_name": "Average daily sleep maintenance efficiency in main sleep on weekends from actigraphy",
+  "description": "This variable is similar to variable sawa156; however, sawa33 is derived from Actiware variable sawa24 before data optimization.  ",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "AvgMefSp_im_w2_f2"
+  ]
+}

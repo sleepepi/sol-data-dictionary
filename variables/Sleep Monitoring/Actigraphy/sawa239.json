@@ -1,0 +1,10 @@
+{
+  "id": "sawa239",
+  "display_name": "Standard deviation of the daily rest period in main sleep on non-workdays from actigraphy",
+  "description": "Rest period is the interval between the start and end of the rest interval, used in actigraphy.",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "StdPrdRs_im_wn_f2"
+  ]
+}

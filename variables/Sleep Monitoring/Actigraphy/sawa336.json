@@ -1,0 +1,10 @@
+{
+  "id": "sawa336",
+  "display_name": "Average activity per minute in naps over all days from actigraphy",
+  "description": "This is the average activity count per minute, across all time spent in a nap interval.  ",
+  "type": "numeric",
+  "units": "counts per minute",
+  "labels": [
+    "PmnNumAt_in_w7_f2"
+  ]
+}

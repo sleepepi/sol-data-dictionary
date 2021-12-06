@@ -1,0 +1,6 @@
+{
+  "id": "homa_b",
+  "display_name": "HOMA index of Beta Cell Function",
+  "description": "This variable defines the Homeostasis model assessment of insulin resistance.",
+  "type": "numeric"
+}

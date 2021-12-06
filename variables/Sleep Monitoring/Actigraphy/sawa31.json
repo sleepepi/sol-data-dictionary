@@ -1,0 +1,10 @@
+{
+  "id": "sawa31",
+  "display_name": "Average daily sleep period in main sleep on weekends from actigraphy",
+  "description": "Sleep period is the interval between sleep onset and sleep offset time.<br><br>This variable is similar to sawa146; however, sawa31 is derived from Actiware variable sawa18 before data optimization. ",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgPrdSp_im_w2_f2"
+  ]
+}

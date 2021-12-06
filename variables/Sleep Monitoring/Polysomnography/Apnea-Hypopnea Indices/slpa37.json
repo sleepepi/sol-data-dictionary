@@ -1,0 +1,10 @@
+{
+  "id": "slpa37",
+  "display_name": "Apnea-Hypopnea Index (Non-Supine): (Apneas with no oxygen desaturation threshold used+ hypopneas with > 50% flow reduction and no oxygen desaturation threshold used) / hours of sleep in non-supine position from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ahi_po_ap0nhp5x0n_f1t3"
+  ]
+}

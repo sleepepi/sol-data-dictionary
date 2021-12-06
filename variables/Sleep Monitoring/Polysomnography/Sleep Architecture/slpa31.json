@@ -1,0 +1,10 @@
+{
+  "id": "slpa31",
+  "display_name": "Total recording period from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "ttlprdrd_wr_f1t3"
+  ]
+}

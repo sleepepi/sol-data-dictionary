@@ -1,0 +1,10 @@
+{
+  "id": "slea1c_2401",
+  "display_name": "Time Usually go to Bed: Non-Work/School Days (24 hrs)",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "hchs_sleep_questionnaire",
+    "sleep_timing"
+  ]
+}

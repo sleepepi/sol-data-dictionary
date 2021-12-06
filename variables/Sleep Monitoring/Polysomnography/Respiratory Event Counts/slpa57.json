@@ -1,0 +1,9 @@
+{
+  "id": "slpa57",
+  "display_name": "Total Number of Apneas and Hypopneas: Apneas with no oxygen desaturation threshold used+ hypopneas with > 50% flow reduction and >= 3% oxygen desaturation during sleep from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ttlnumah_ap0nhp5x3n_f1t3"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "sawa221",
+  "display_name": "Average daily sleep onset time on workdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "AvgBptSp_im_ww_f2"
+  ]
+}

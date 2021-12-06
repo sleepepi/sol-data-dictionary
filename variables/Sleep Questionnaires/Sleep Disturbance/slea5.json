@@ -1,0 +1,11 @@
+{
+  "id": "slea5",
+  "display_name": "Wake up several times at night",
+  "description": "",
+  "type": "choices",
+  "domain": "sleep_habits",
+  "labels": [
+    "hchs_sleep_questionnaire",
+    "insomnia"
+  ]
+}

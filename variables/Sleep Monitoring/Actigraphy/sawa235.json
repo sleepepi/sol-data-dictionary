@@ -1,0 +1,10 @@
+{
+  "id": "sawa235",
+  "display_name": "Total number of main rest intervals that directly precede the subject not going to work or school from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlNumRs_ib_wm_f2"
+  ]
+}

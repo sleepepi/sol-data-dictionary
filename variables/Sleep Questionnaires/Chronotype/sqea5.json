@@ -1,0 +1,11 @@
+{
+  "id": "sqea5",
+  "display_name": "Morning or Evening type",
+  "description": "",
+  "type": "choices",
+  "domain": "morneve",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "chronotype"
+  ]
+}

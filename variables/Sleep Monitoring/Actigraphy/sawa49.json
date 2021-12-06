@@ -1,0 +1,10 @@
+{
+  "id": "sawa49",
+  "display_name": "Standard deviation of sleep period in 24 hours (including main rest intervals and naps) over all days from actigraphy",
+  "description": "Sleep period is the interval between sleep onset and sleep offset time.",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "StdPrdSp_ib_w7_f2"
+  ]
+}

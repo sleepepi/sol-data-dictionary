@@ -1,0 +1,10 @@
+{
+  "id": "sawa343",
+  "display_name": "Total number of days with valid actigraphy data on workdays from actigraphy",
+  "description": "The number of days with valid actigraphy data on which the participant self-reported as having attended work or school in the daily sleep log. ",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlDayVa_ib_ww_f2"
+  ]
+}

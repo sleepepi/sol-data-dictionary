@@ -1,0 +1,10 @@
+{
+  "id": "sawa164",
+  "display_name": "Average number of naps in 24 hours (including main rest intervals and naps) on weekends from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "naps",
+  "labels": [
+    "AvgNumNp_ib_w2_f2"
+  ]
+}

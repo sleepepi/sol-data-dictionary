@@ -1,0 +1,6 @@
+{
+  "id": "pred_nutleg",
+  "display_name": "Nuts and Legumes - NCI predicted intake, servings/d (NUTLEG)",
+  "description": "",
+  "type": "numeric"
+}

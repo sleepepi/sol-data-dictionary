@@ -1,7 +1,0 @@
-{
-  "id": "weight_final_norm_center",
-  "display_name": "FC-specific Normalized Census 2010 Calibrated Trimmed NonResponse Adjusted Final Weights - Year 1-3 (frozen as of 10/27/2011)",
-  "description": "The FC-specific normalized sample weight is the field center specific normalized, calibrated, trimmed, non-response adjusted (household and person-level) reciprocal of a participant's probability of selection into the HCHS/SOL study. The calibrated, trimmed, non-response adjusted sample weights were normalized using the weighted mean divided by weighted standard deviation calculated for each field center separately and used to normalize the expanded calibrated sample weights (WEIGHT_Final_Norm_Center). This final sample weight variable is used for analyses purposes only when the subpopulation is restricted to within a single site.",
-  "type": "numeric",
-  "units": ""
-}

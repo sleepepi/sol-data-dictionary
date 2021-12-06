@@ -1,0 +1,10 @@
+{
+  "id": "slpa97",
+  "display_name": "Percentage of total estimated sleep duration with < 90% oxygen saturation from type III home sleep apnea test",
+  "description": "Sleep duration is the interval between sleep onset time and lights on/out-bed time while asleep",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "pctdursp_salt90_f1t3"
+  ]
+}

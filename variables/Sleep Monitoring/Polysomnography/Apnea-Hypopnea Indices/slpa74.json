@@ -1,0 +1,10 @@
+{
+  "id": "slpa74",
+  "display_name": "Apnea Index (Supine) : Apneas with no oxygen desaturation threshold used / hours of sleep in supine position from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ai_pb_ap0n_f1t3"
+  ]
+}

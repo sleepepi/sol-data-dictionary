@@ -1,7 +1,0 @@
-{
-  "id": "gfrscys",
-  "display_name": "eGFR based on serum cystatin C w/o demographics",
-  "description": "This variable estimates Glomerular filtration rate, based on serum cystatin C and no demographic factors.",
-  "type": "numeric",
-  "units": ""
-}

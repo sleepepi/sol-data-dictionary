@@ -1,0 +1,9 @@
+{
+  "id": "sawa86",
+  "display_name": "Average daily mid-point of rest period in main sleep over all days from actigraphy",
+  "description": "Rest period is the interval between the start and end of the rest interval, used in actigraphy.",
+  "type": "time",
+  "labels": [
+    "AvgMptRs_im_w7_f2"
+  ]
+}

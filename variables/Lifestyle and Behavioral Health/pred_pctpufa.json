@@ -1,0 +1,6 @@
+{
+  "id": "pred_pctpufa",
+  "display_name": "PUFA exclude EPA & DHA - NCI predicted intake, % Calories (PCTPUFA_NOEPADHA)",
+  "description": "",
+  "type": "numeric"
+}

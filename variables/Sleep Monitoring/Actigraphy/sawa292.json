@@ -1,0 +1,10 @@
+{
+  "id": "sawa292",
+  "display_name": "Average daily duration of WASO (wake after sleep onset) in main sleep over all reliable days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgDurWs_im_wr_f2"
+  ]
+}

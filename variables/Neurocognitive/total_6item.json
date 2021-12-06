@@ -1,7 +1,0 @@
-{
-  "id": "total_6item",
-  "display_name": "Total Score on 6 Item Screener (with re-coding)",
-  "description": "This variable is the total score of the 6-item screener, which uses recoding of the original responses per definitions by Dr. Hector Gonzalez. It can take integer values from 0 to 6. Only defined for participants who took a neurocognitive assessment (NEE form).",
-  "type": "numeric",
-  "units": ""
-}

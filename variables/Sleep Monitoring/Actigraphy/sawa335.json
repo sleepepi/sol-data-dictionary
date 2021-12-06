@@ -1,0 +1,10 @@
+{
+  "id": "sawa335",
+  "display_name": "Average activity counts per minute in main sleep over all days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "counts per minute",
+  "labels": [
+    "PmnNumAt_im_w7_f2"
+  ]
+}

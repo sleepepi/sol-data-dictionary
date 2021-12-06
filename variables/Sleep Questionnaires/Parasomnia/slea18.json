@@ -1,0 +1,11 @@
+{
+  "id": "slea18",
+  "display_name": "Discomfort in legs worse later in day or at night",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdkqs",
+  "labels": [
+    "hchs_sleep_questionnaire",
+    "rls_plms"
+  ]
+}

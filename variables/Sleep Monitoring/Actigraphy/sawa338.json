@@ -1,0 +1,9 @@
+{
+  "id": "sawa338",
+  "display_name": "Interdaily stability of rest-activity rhythm in 24 hours (including main rest intervals and naps) over all days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "IteStaRh_ib_w7_f2"
+  ]
+}

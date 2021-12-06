@@ -1,7 +1,0 @@
-{
-  "id": "sawa218",
-  "display_name": "Average sleep time in naps per workday of naps at least 15 minutes in length over recorded days",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes per day"
-}

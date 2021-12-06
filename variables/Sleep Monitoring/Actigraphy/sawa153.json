@@ -1,0 +1,10 @@
+{
+  "id": "sawa153",
+  "display_name": "Average daily duration of wake in bed on weekends from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgDurWk_im_w2_f2"
+  ]
+}

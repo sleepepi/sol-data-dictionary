@@ -1,0 +1,10 @@
+{
+  "id": "sawa103",
+  "display_name": "Average daily sleep onset latency on weekdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgLatSp_im_w5_f2"
+  ]
+}

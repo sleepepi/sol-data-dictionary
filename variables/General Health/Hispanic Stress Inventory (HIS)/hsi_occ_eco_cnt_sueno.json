@@ -1,0 +1,6 @@
+{
+  "id": "hsi_occ_eco_cnt_sueno",
+  "display_name": "Occupational or economic stress, non-missing item count",
+  "description": "",
+  "type": "numeric"
+}

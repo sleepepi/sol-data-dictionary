@@ -1,0 +1,11 @@
+{
+  "id": "sqea14",
+  "display_name": "TV in bedroom (Y/N)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "sleep_hygiene"
+  ]
+}

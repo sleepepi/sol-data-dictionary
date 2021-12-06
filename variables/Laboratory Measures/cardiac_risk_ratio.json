@@ -1,7 +1,0 @@
-{
-  "id": "cardiac_risk_ratio",
-  "display_name": "Cardiac Risk Ratio (TC/HDL) - AHA",
-  "description": "This variable calculates the ratio of total cholesterol by HDL cholesterol.",
-  "type": "numeric",
-  "units": ""
-}

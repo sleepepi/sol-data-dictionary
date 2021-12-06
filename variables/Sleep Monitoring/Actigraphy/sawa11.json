@@ -1,0 +1,9 @@
+{
+  "id": "sawa11",
+  "display_name": "Total number ofvalid days on weekends from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "TtlDayVa_ib_w2_f2"
+  ]
+}

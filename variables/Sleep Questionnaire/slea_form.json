@@ -1,7 +1,0 @@
-{
-  "id": "slea_form",
-  "display_name": "SLEA Form version",
-  "description": "",
-  "type": "choices",
-  "domain": "form_language"
-}

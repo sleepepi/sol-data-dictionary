@@ -1,0 +1,10 @@
+{
+  "id": "sawa165",
+  "display_name": "Average number of naps of any sleep recorded on weekends from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "naps",
+  "labels": [
+    "AvgNumNp_in_w2_npgt0_f2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "slpa114",
+  "display_name": "Standard deviation level of heart rate from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "beats per minute",
+  "labels": [
+    "stdlvlhr_f1t3"
+  ]
+}

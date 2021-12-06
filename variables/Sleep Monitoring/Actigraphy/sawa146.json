@@ -1,0 +1,10 @@
+{
+  "id": "sawa146",
+  "display_name": "Average daily sleep period on weekends from actigraphy",
+  "description": "This variable is similar to sawa31; however, sawa31 is derived from Actiware variable sawa18 before data optimization. ",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgPrdSp_im_w2_f2"
+  ]
+}

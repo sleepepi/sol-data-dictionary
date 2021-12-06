@@ -1,0 +1,7 @@
+{
+  "id": "sbd5",
+  "display_name": "Sleep Apnea Syndrome (Apnea/Hypopnea Index (3% desat)>=5 & ESS>=10)",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes01"
+}

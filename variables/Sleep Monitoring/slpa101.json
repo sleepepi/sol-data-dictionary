@@ -1,7 +1,0 @@
-{
-  "id": "slpa101",
-  "display_name": "Percent Time SpO2 < 70",
-  "description": "",
-  "type": "numeric",
-  "units": "percent"
-}

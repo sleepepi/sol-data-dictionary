@@ -1,0 +1,10 @@
+{
+  "id": "sawa166",
+  "display_name": "Average number of naps of at least 15 minutes in length on weekends from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "naps",
+  "labels": [
+    "AvgNumNp_in_w2_npge15_f2"
+  ]
+}

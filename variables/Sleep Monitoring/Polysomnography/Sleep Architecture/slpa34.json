@@ -1,0 +1,10 @@
+{
+  "id": "slpa34",
+  "display_name": "Total recording period in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "hours",
+  "labels": [
+    "ttlprdrd_pb_wr_f1t3"
+  ]
+}

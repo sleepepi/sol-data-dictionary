@@ -1,0 +1,11 @@
+{
+  "id": "sqea9",
+  "display_name": "Satisfaction with current sleep pattern",
+  "description": "",
+  "type": "choices",
+  "domain": "satisfied",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "sleep_satisfaction"
+  ]
+}

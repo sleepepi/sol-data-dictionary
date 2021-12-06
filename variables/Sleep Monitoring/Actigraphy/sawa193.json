@@ -1,0 +1,10 @@
+{
+  "id": "sawa193",
+  "display_name": "Average daily sleep period on workdays from actigraphy",
+  "description": "Sleep period is the interval between sleep onset and sleep offset time.",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgPrdSp_im_ww_f2"
+  ]
+}

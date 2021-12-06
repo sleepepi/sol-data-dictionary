@@ -1,0 +1,10 @@
+{
+  "id": "sawa278",
+  "display_name": "Average whte light time above 1,000 microwatts per square centimeter threshold over 24-hour periods on non-workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgTalLw_ib_wn_f2"
+  ]
+}

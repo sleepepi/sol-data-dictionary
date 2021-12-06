@@ -1,0 +1,10 @@
+{
+  "id": "sawa214",
+  "display_name": "Average sleep duration per nap on workdays from actigraphy",
+  "description": "Sleep duration is the interval between sleep onset and sleep offset time while asleep.",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "PnpDurSp_in_ww_f2"
+  ]
+}

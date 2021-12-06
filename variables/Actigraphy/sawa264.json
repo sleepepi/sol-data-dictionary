@@ -1,7 +1,0 @@
-{
-  "id": "sawa264",
-  "display_name": "Average nap sleep time per non-workday over recorded days",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes per day"
-}

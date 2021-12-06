@@ -1,0 +1,7 @@
+{
+  "id": "hypertension_c4",
+  "display_name": "4-level grouped hypertension (none/pre/treated/untreated)",
+  "description": "This variable classifies participants into 4 categories based on hypertension and hypertensive.",
+  "type": "choices",
+  "domain": "hyper_level"
+}

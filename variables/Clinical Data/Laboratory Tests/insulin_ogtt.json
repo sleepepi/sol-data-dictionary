@@ -1,0 +1,6 @@
+{
+  "id": "insulin_ogtt",
+  "display_name": "Insulin, post OGTT (calibrated, converted to mU/L)",
+  "description": "This variable combines post OGTT glucose results from the central lab that were processed prior to July 5, 2010 (using units of mU/L) with results processed on or after July 5, 2010 (using units of pmol/L) and the overall units are converted to mU/L (1 mU/L = 6 pmol/L).",
+  "type": "numeric"
+}

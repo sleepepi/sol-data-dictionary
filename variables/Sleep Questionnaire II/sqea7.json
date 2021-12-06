@@ -1,7 +1,0 @@
-{
-  "id": "sqea7",
-  "display_name": "Severity of difficulty staying alseep",
-  "description": "",
-  "type": "choices",
-  "domain": "probsev"
-}

@@ -1,0 +1,10 @@
+{
+  "id": "sawa75",
+  "display_name": "Average sleep duration per nap of at least 15 minutes in length over all days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "PnpDurSp_in_w7_npge15_f2"
+  ]
+}

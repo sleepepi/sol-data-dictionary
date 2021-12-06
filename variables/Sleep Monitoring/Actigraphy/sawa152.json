@@ -1,0 +1,10 @@
+{
+  "id": "sawa152",
+  "display_name": "Average daily duration of wake after sleep offset (snooze time) on weekends from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgDurSz_im_w2_f2"
+  ]
+}

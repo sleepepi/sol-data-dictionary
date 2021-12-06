@@ -1,0 +1,6 @@
+{
+  "id": "accult_mesa",
+  "display_name": "Acculturation Score - MESA",
+  "description": "This is a summary acculturation score based on nativity, language spoken at home, and years of residence in the U.S. It is defined as the sum of nativity subscore and language subscore.",
+  "type": "numeric"
+}

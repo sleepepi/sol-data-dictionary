@@ -1,0 +1,10 @@
+{
+  "id": "sawa256",
+  "display_name": "Total number of days with naps of any sleep recorded on non-workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlDayNp_ib_wn_npgt0_f2"
+  ]
+}

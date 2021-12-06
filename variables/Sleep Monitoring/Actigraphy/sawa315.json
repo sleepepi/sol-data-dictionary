@@ -1,0 +1,9 @@
+{
+  "id": "sawa315",
+  "display_name": "Average daily sleep onset time in main sleep over all reliable days from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "AvgBptSp_im_wr_f2"
+  ]
+}

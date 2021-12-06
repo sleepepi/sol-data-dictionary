@@ -1,0 +1,10 @@
+{
+  "id": "sawa285",
+  "display_name": "Average daily duration of rest period in main sleep over all reliable days from actigraphy",
+  "description": "Rest period is the interval between the start and end of the rest interval, used in actigraphy.",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgPrdRs_im_wr_f2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sawa94",
+  "display_name": "Total number of rest in 24 hours (including main rest intervals and naps) end on a calendar Monday through Friday from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlNumRd_ib_wf_f2"
+  ]
+}

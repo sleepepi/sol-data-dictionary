@@ -1,0 +1,10 @@
+{
+  "id": "sawa198",
+  "display_name": "Average daily duration of wake after sleep onset (WASO) on workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgDurWs_im_ww_f2"
+  ]
+}

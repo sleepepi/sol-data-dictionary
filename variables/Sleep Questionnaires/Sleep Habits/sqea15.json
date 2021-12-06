@@ -1,0 +1,11 @@
+{
+  "id": "sqea15",
+  "display_name": "Use TV to help fall asleep",
+  "description": "",
+  "type": "choices",
+  "domain": "freq4weeks0s",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "insomnia_treatment"
+  ]
+}

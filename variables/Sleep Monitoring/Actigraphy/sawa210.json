@@ -1,0 +1,10 @@
+{
+  "id": "sawa210",
+  "display_name": "Total number of days with naps of at least 15 minutes in length on workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlDayNp_ib_ww_npge15_f2"
+  ]
+}

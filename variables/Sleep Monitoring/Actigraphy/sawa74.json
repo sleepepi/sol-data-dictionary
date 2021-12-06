@@ -1,0 +1,10 @@
+{
+  "id": "sawa74",
+  "display_name": "Average sleep duration per nap of any sleep recorded over all days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "PnpDurSp_in_w7_npgt0_f2"
+  ]
+}

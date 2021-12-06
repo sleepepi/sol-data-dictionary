@@ -1,0 +1,10 @@
+{
+  "id": "sawa21",
+  "display_name": "Average daily sleep efficiency on all days from actigraphy",
+  "description": "This variable is similar to the calculated variable sawa60; however, sawa21 is generated automatically by Actiware before data optimization.  ",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "AvgEffSp_im_w7_f2"
+  ]
+}

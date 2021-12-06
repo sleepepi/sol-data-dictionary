@@ -1,0 +1,9 @@
+{
+  "id": "sawa126",
+  "display_name": "Standard deviation start time of in-bed or rest interval in main sleep on weekdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "StdBptRs_im_w5_f2"
+  ]
+}

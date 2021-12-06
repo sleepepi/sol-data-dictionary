@@ -1,0 +1,9 @@
+{
+  "id": "sawa131",
+  "display_name": "Average daily end time of in-bed or rest interval in main sleep on weekdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "AvgEptRs_im_w5_f2"
+  ]
+}

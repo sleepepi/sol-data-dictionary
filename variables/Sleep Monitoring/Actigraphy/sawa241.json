@@ -1,0 +1,10 @@
+{
+  "id": "sawa241",
+  "display_name": "Standard deviation of daily sleep period on non-workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "StdPrdSp_im_wn_f2"
+  ]
+}

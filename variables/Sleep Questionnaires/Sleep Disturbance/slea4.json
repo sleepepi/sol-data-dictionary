@@ -1,0 +1,11 @@
+{
+  "id": "slea4",
+  "display_name": "Trouble falling asleep",
+  "description": "",
+  "type": "choices",
+  "domain": "sleep_habits",
+  "labels": [
+    "hchs_sleep_questionnaire",
+    "insomnia"
+  ]
+}

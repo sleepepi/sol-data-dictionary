@@ -1,7 +1,0 @@
-{
-  "id": "gpaq_mod_week",
-  "display_name": "GPAQ - Total physical (moderate) activity (min/week)",
-  "description": "This variable that finds the average amount of time spent per week doing moderate physical activity.",
-  "type": "numeric",
-  "units": ""
-}

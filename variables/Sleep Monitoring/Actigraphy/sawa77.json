@@ -1,0 +1,10 @@
+{
+  "id": "sawa77",
+  "display_name": "Average daily sleep duration in naps of at least 15 minutes in length over all days from actigraphy",
+  "description": "Sleep duration (i.e. total sleep time) is the interval between sleep onset and sleep offset time while asleep.",
+  "type": "numeric",
+  "units": "minutes per day",
+  "labels": [
+    "PdyDurSp_in_w7_npge15_f2"
+  ]
+}

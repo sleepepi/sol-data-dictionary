@@ -1,7 +1,0 @@
-{
-  "id": "sawa231",
-  "display_name": "Average white light time above lux threshold per workday",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

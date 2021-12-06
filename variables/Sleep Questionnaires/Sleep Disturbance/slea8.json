@@ -1,0 +1,11 @@
+{
+  "id": "slea8",
+  "display_name": "Take sleeping pills",
+  "description": "",
+  "type": "choices",
+  "domain": "sleep_habits",
+  "labels": [
+    "hchs_sleep_questionnaire",
+    "insomnia"
+  ]
+}

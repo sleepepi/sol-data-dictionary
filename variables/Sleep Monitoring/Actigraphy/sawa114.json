@@ -1,0 +1,10 @@
+{
+  "id": "sawa114",
+  "display_name": "Total number of days with naps on weekdays from actigraphy",
+  "description": "This is the number of weekdays with at least one nap. This refers to the number of weekdays on which a participant reported taking naps. ",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlDayNp_ib_w5_f2"
+  ]
+}

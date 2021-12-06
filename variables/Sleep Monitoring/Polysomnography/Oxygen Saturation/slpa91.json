@@ -1,0 +1,10 @@
+{
+  "id": "slpa91",
+  "display_name": "Minimum from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "minllvlsa_f1t3"
+  ]
+}

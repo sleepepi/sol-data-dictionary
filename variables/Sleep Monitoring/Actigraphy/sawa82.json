@@ -1,0 +1,9 @@
+{
+  "id": "sawa82",
+  "display_name": "Average daily sleep offset time in all days from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "AvgEptSp_im_w7_f2"
+  ]
+}

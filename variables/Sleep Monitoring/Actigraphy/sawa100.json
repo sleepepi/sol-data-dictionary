@@ -1,0 +1,10 @@
+{
+  "id": "sawa100",
+  "display_name": "Standard deviation of daily total sleep period during main sleep on weekdays from actigraphy",
+  "description": "Sleep period is the interval between sleep onset and sleep offset time.",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "StdDurSp_im_w5_f2"
+  ]
+}

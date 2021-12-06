@@ -1,7 +1,0 @@
-{
-  "id": "gpaq_work",
-  "display_name": "Work-related physical activity (min/day)",
-  "description": "This variable finds the total time per day doing some form of work-related physical activity.",
-  "type": "numeric",
-  "units": ""
-}

@@ -1,7 +1,0 @@
-{
-  "id": "slea14",
-  "display_name": "Show often stop breathing while sleeping",
-  "description": "",
-  "type": "choices",
-  "domain": "stop_breathing_frequency"
-}

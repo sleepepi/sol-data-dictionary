@@ -1,7 +1,0 @@
-{
-  "id": "gpaq_trsport",
-  "display_name": "Transportation-related physical activity (min/day)",
-  "description": "This variable calculates the average amount of time spent per day walking or biking to and from a place.",
-  "type": "numeric",
-  "units": ""
-}

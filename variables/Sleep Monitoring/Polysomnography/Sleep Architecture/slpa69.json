@@ -1,0 +1,10 @@
+{
+  "id": "slpa69",
+  "display_name": "Total Duration of Apnea and Hypopnea: Apneas with no oxygen desaturation threshold used+ hypopneas with > 50% flow reduction and >= 4% oxygen desaturation during sleep from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "hours",
+  "labels": [
+    "ttldurah_ap0nhp5x4n_f1t3"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "slpa93",
+  "display_name": "Standard deviation level of oxygen saturation from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "stdlvlsa_f1t3"
+  ]
+}

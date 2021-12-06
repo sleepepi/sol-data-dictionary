@@ -1,0 +1,10 @@
+{
+  "id": "slpa43",
+  "display_name": "Total Duration of Apnea and Hypopnea (Non-Supine): Apneas with no oxygen desaturation threshold used+ hypopneas with > 50% flow reduction and no oxygen desaturation threshold used during sleep in non-supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "seconds",
+  "labels": [
+    "ttldurah_po_ap0nhp5x0n_f1t3"
+  ]
+}

@@ -1,7 +1,0 @@
-{
-  "id": "sawa256",
-  "display_name": "Number of non-workdays with naps with sleep time",
-  "description": "",
-  "type": "numeric",
-  "units": "days"
-}

@@ -1,0 +1,9 @@
+{
+  "id": "sawa229",
+  "display_name": "Average daily mid-point for sleep period on workdays from actigraphy",
+  "description": "Sleep period is the interval between sleep onset and sleep offset time ",
+  "type": "time",
+  "labels": [
+    "AvgMptSp_im_ww_f2"
+  ]
+}

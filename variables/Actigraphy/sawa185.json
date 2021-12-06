@@ -1,7 +1,0 @@
-{
-  "id": "sawa185",
-  "display_name": "Average blue light time above lux threshold per weekend",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

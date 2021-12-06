@@ -1,0 +1,10 @@
+{
+  "id": "sawa208",
+  "display_name": "Total number of days with naps on workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlDayNp_ib_ww_f2"
+  ]
+}

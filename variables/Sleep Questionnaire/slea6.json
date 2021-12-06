@@ -1,7 +1,0 @@
-{
-  "id": "slea6",
-  "display_name": "Wake up earlier than you plan",
-  "description": "",
-  "type": "choices",
-  "domain": "sleep_habits"
-}

@@ -1,0 +1,11 @@
+{
+  "id": "sqea12",
+  "display_name": "How noticeable sleep problem to others",
+  "description": "",
+  "type": "choices",
+  "domain": "noticeable",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "sleep_related_impairment"
+  ]
+}

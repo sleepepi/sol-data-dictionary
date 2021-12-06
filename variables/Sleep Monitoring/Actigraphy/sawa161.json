@@ -1,0 +1,10 @@
+{
+  "id": "sawa161",
+  "display_name": "Total number of days with any naps in the entire actigraphy recording period on weekends from actigraphy",
+  "description": "This is the number of weekend days that have at least one nap. This refers to the number of weekend days on which a participant reported taking naps. ",
+  "type": "numeric",
+  "units": "weekends",
+  "labels": [
+    "TtlDayNp_ib_w2_f2"
+  ]
+}

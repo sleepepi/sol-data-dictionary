@@ -1,0 +1,9 @@
+{
+  "id": "sawa130",
+  "display_name": "Standard deviation of daily sleep offset time on weekdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "StdEptSp_im_w5_f2"
+  ]
+}

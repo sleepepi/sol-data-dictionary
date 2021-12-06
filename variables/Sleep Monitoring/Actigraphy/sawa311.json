@@ -1,0 +1,10 @@
+{
+  "id": "sawa311",
+  "display_name": "Average daily sleep duration in naps over all reliable days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes per day",
+  "labels": [
+    "PdyDurSp_in_wr_f2"
+  ]
+}

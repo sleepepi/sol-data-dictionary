@@ -1,0 +1,11 @@
+{
+  "id": "sqea22",
+  "display_name": "Cups of tea on typical day",
+  "description": "",
+  "type": "integer",
+  "units": "servings",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "sleep_hygiene"
+  ]
+}

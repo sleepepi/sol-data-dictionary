@@ -1,0 +1,9 @@
+{
+  "id": "sawa266",
+  "display_name": "Average daily start time of in-bed or rest interval in main sleep on non-workdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "AvgBptRs_im_wn_f2"
+  ]
+}

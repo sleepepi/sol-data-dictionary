@@ -1,0 +1,10 @@
+{
+  "id": "sawa291",
+  "display_name": "Average daily sleep latency sleep in main sleep over all reliable days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgLatSp_im_wr_f2"
+  ]
+}

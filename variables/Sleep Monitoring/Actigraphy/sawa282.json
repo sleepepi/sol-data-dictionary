@@ -1,0 +1,10 @@
+{
+  "id": "sawa282",
+  "display_name": "Total number of reliable days with sleep data recorded from actigraphy",
+  "description": "This is the number of main rest intervals for which the sum of the quality score for in bed and out of bed times is 5 or 6. Bed times are given a reliability score between 1 and 3:  -8 = Not Applicable, -1 = Flag/ Confusion, 0 = No Evidence of Sleep, 1 = Unreliable, 2 = Somewhat reliable, 3 = Mostly reliable  ",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlNumRd_ib_wr_f2"
+  ]
+}

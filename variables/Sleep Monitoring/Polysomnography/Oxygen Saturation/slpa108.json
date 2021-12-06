@@ -1,0 +1,10 @@
+{
+  "id": "slpa108",
+  "display_name": "Average level of nadirs from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avglvlnd_f1t3"
+  ]
+}

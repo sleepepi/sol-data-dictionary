@@ -1,0 +1,9 @@
+{
+  "id": "sawa275",
+  "display_name": "Standard deviation of the daily mid-point time of in-bed or rest interval in main sleep on non-workdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "StdMptRs_im_wn_f2"
+  ]
+}

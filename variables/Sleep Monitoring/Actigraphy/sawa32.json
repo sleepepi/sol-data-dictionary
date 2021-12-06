@@ -1,0 +1,10 @@
+{
+  "id": "sawa32",
+  "display_name": "Average daily sleep period on weekdays from actigraphy",
+  "description": "This variable is similar to sawa99; however, sawa32 is derived from Actiware variable sawa18 before data optimization.",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgPrdSp_im_w5_f2"
+  ]
+}

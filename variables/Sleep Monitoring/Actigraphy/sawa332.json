@@ -1,0 +1,10 @@
+{
+  "id": "sawa332",
+  "display_name": "Total number of workdays with sleep data recorded from sleep diary",
+  "description": "This is the number of daily sleep log entries on which the participant reported going to work or school. ",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlDayRd_ib_ww_f3"
+  ]
+}

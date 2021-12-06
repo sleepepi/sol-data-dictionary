@@ -1,0 +1,10 @@
+{
+  "id": "sawa119",
+  "display_name": "Average number of naps of at least 15 minutes in length in 24 hours on weekdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "naps per day",
+  "labels": [
+    "AvgNumNp_ib_w5_npge15_f2"
+  ]
+}

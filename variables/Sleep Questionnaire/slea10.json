@@ -1,7 +1,0 @@
-{
-  "id": "slea10",
-  "display_name": "Feel Sleepy during the Day",
-  "description": "",
-  "type": "choices",
-  "domain": "sleep_habits"
-}

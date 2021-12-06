@@ -1,0 +1,10 @@
+{
+  "id": "sawa170",
+  "display_name": "Average daily sleep duration in naps on weekends over recorded days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes per day",
+  "labels": [
+    "PdyDurSp_in_w2_f2"
+  ]
+}

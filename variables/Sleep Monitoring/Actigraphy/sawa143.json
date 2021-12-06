@@ -1,0 +1,10 @@
+{
+  "id": "sawa143",
+  "display_name": "Standard deviation of sleep duration in 24 hours (including main rest intervals and naps) on weekends from actigraphy",
+  "description": "Sleep duration (i.e. total sleep time) is the interval between sleep onset and sleep offset time while asleep. ",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "StdDurSp_ib_w2_f2"
+  ]
+}

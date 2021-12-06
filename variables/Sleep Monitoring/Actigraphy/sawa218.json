@@ -1,0 +1,10 @@
+{
+  "id": "sawa218",
+  "display_name": "Average daily sleep duration in naps of at least 15 minutes in length on workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes per day",
+  "labels": [
+    "PdyDurSp_in_ww_npge15_f2"
+  ]
+}

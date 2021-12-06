@@ -1,0 +1,11 @@
+{
+  "id": "sqea20",
+  "display_name": "Prescription medicine to help sleep",
+  "description": "",
+  "type": "choices",
+  "domain": "freq4weeks0",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "insomnia_treatment"
+  ]
+}

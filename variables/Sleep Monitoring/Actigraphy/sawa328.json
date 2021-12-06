@@ -1,0 +1,10 @@
+{
+  "id": "sawa328",
+  "display_name": "Average time above lux threshold for red light in 24 hours (including main rest intervals and naps) over all reliable days from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes",
+  "labels": [
+    "AvgTalLr_ib_wr_f2"
+  ]
+}

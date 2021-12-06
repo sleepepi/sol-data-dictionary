@@ -1,0 +1,11 @@
+{
+  "id": "slea17",
+  "display_name": "Discomfort in legs worse when at rest",
+  "description": "",
+  "type": "choices",
+  "domain": "noyesdkqs",
+  "labels": [
+    "hchs_sleep_questionnaire",
+    "rls_plms"
+  ]
+}

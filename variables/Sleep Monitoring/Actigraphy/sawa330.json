@@ -1,0 +1,9 @@
+{
+  "id": "sawa330",
+  "display_name": "Average daily start time of rest period in main sleep over all days from sleep diary",
+  "description": "This is the average time at which the participant self-reported going to bed across all days in the daily sleep log.",
+  "type": "time",
+  "labels": [
+    "AvgBptRs_im_w7_f3"
+  ]
+}

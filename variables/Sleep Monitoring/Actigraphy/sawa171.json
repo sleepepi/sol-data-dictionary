@@ -1,0 +1,10 @@
+{
+  "id": "sawa171",
+  "display_name": "Average daily sleep duration in naps of at least 15 minutes in length on weekends from actigraph",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes per day",
+  "labels": [
+    "PdyDurSp_in_w2_npge15_f2"
+  ]
+}

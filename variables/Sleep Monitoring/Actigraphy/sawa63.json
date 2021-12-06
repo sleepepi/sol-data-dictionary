@@ -1,0 +1,10 @@
+{
+  "id": "sawa63",
+  "display_name": "Standard deviation of daily sleep maintenance efficiency in main sleep over all days from actigraphy",
+  "description": "This variable is similar to variable sawa30; however, sawa30 is generated automatically by Actiware before data optimization.  ",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "StdMefSp_im_w7_f2"
+  ]
+}

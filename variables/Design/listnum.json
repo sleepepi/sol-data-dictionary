@@ -1,7 +1,0 @@
-{
-  "id": "listnum",
-  "display_name": "List Address Record Assigned",
-  "description": "This variable is the sample design variable used in statistical analyses.",
-  "type": "choices",
-  "domain":"hispanic_address"
-}

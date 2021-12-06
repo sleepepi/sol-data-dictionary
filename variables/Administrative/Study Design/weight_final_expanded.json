@@ -1,0 +1,6 @@
+{
+  "id": "weight_final_expanded",
+  "display_name": "Expanded Census 2010 Final Calibrated Trimmed Nonresponse Adjusted Final Weights - Year 1-3 (frozen as of 10/27/2011)",
+  "description": "The calibrated sample weight is the calibrated, trimmed, non-response adjusted reciprocal of a participant's probability of selection into the HCHS/SOL study. The trimmed, nonresponse adjusted sample weights were calibrated using first the 7-category Hispanic Background distribution and then the 12-category age group/gender distribution using the 2010 Decennial Census. This variable is used for analyses purposes only.",
+  "type": "numeric"
+}

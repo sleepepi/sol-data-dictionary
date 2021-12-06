@@ -1,7 +1,0 @@
- {
-  "id": "commutehome",
-  "display_name": "Commute time to home",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

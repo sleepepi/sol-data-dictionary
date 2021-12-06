@@ -1,0 +1,10 @@
+{
+  "id": "sawa47",
+  "display_name": "Total number of days with sleep data recorded over all days from actigraphy",
+  "description": "This is the number of valid main rest intervals in the recording that meet quality criteria. Main rest intervals are the intervals of time between the epoch at which the participant went to bed and the epoch at which the participant got out of bed, as marked by the scorer. It refers to the participants nightly time in bed, including time awake and asleep. ",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlNumRd_ib_wr_f2"
+  ]
+}

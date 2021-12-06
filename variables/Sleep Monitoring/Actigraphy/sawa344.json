@@ -1,0 +1,10 @@
+{
+  "id": "sawa344",
+  "display_name": "Total number of days with valid actigraphy data on non-workdays from actigraphy",
+  "description": "The number of days with valid actigraphy data on which the participant self-reported as not having attended work or school.",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlDayVa_ib_wn_f2"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sawa212",
+  "display_name": "Average daily number of naps of any sleep recorded on workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "naps per day",
+  "labels": [
+    "PdyNumNp_in_ww_npgt0_f2"
+  ]
+}

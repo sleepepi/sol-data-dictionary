@@ -1,0 +1,10 @@
+{
+  "id": "sawa211",
+  "display_name": "Average daily number of naps in 24 hours (including main rest intervals and naps) on workdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "naps per day",
+  "labels": [
+    "PdyNumNp_ib_ww_f2"
+  ]
+}

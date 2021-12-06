@@ -1,7 +1,0 @@
-{
-  "id": "slea3",
-  "display_name": "Nap for 5 min or more during a usual week",
-  "description": "",
-  "type": "choices",
-  "domain": "nap_usual_week"
-}

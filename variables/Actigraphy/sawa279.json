@@ -1,7 +1,0 @@
-{
-  "id": "sawa279",
-  "display_name": "Average blue light time above lux threshold on non-workdays",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

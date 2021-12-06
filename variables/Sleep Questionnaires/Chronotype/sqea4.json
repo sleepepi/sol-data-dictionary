@@ -1,0 +1,11 @@
+{
+  "id": "sqea4",
+  "display_name": "'Feeling best' time of day",
+  "description": "",
+  "type": "choices",
+  "domain": "feelingbest",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "chronotype"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "sawa302",
+  "display_name": "Total number of reliable days with naps in the entire actigraphy recording period in all days from actigraphy",
+  "description": "This is the number of reliable days that have at least one nap. This refers to the number of reliable days on which a participant reported taking naps.",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "TtlDayNp_ib_wr_f2"
+  ]
+}

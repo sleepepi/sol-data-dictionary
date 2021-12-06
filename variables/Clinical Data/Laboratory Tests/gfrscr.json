@@ -1,0 +1,6 @@
+{
+  "id": "gfrscr",
+  "display_name": "eGFR based on serum creatinine, gender, age and race",
+  "description": "This variable estimates Glomerular filtration rate, based on serum creatinine, and demographics gender, age and race (black vs. nonblack).",
+  "type": "numeric"
+}

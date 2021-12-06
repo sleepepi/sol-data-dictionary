@@ -1,7 +1,0 @@
- {
-  "id": "commutework",
-  "display_name": "Commute time to work",
-  "description": "",
-  "type": "numeric",
-  "units": "minutes"
-}

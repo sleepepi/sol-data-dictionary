@@ -1,0 +1,9 @@
+{
+  "id": "sawa175",
+  "display_name": "Standard deviation of the daily sleep onset time on weekends from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "StdBptSp_im_w2_f2"
+  ]
+}

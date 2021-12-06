@@ -1,0 +1,11 @@
+{
+  "id": "slea12i",
+  "display_name": "Doze Off Situations: At the dinner table",
+  "description": "",
+  "type": "choices",
+  "domain": "epworth",
+  "labels": [
+    "hchs_sleep_questionnaire",
+    "subjective_sleepiness"
+  ]
+}

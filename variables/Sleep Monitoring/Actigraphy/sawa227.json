@@ -1,0 +1,9 @@
+{
+  "id": "sawa227",
+  "display_name": "Average daily mid-point of in-bed or rest interval in main sleep on workdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "AvgMptRs_im_ww_f2"
+  ]
+}

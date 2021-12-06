@@ -1,0 +1,9 @@
+{
+  "id": "sawa226",
+  "display_name": "Standard deviation of the daily end time of in-bed or rest interval in main sleep on workdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "labels": [
+    "StdEptRs_im_ww_f2"
+  ]
+}

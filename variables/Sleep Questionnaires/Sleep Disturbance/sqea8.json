@@ -1,0 +1,11 @@
+{
+  "id": "sqea8",
+  "display_name": "Severity of problem waking up too early",
+  "description": "",
+  "type": "choices",
+  "domain": "probsev",
+  "labels": [
+    "hchs_sleep_questionnaire_II",
+    "insomnia"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "id": "sawa136",
+  "display_name": "Standard deviation of the daily mid-point for sleep period on weekdays from actigraphy",
+  "description": "Sleep period  is the interval between sleep onset and sleep offset time.",
+  "type": "time",
+  "labels": [
+    "StdMptSp_im_w5_f2"
+  ]
+}
