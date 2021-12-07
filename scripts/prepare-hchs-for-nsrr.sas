@@ -13,13 +13,13 @@
 *******************************************************************************;
 * set options and libnames ;
 *******************************************************************************;
-  libname solb "\\rfawin\bwh-sleepepi-sol\nsrr-prep\_datasets";
+  libname solb "\\rfawin\BWH-SLEEPEPI-SOL\nsrr-prep\_datasets";
   options nofmterr;
 
-  %let release = 0.5.0;
+  %let release = 0.6.0.pre;
+
 
 /*
-
 *explore proc contents of derived dataset file;
 proc contents data=solb.part_derv_lad1 out=part_derv_contents;
 run;
@@ -50,7 +50,7 @@ proc export data=slpa_contents
   replace;
 run;
 
-*/
+  */
 
 *******************************************************************************;
 * pull in source data ;
@@ -146,6 +146,154 @@ run;
   run;
 
 *******************************************************************************;
+* create harmonized datasets ;
+*******************************************************************************;
+data hchs_sol_harmonized;
+	set hchs_sol_dataset;
+ 	*vnum exists;
+
+*demographics
+*age;
+*use age;
+	format nsrr_age 8.2;
+ 	nsrr_age = age;
+
+*age_gt89;
+*use age;
+	format nsrr_age_gt89; 
+	if age gt 89 then nsrr_age_gt89= 'yes';
+	else if age le 89 then nsrr_age_gt89='no';
+
+*sex;
+*use gendernum;
+	format nsrr_sex $100.;
+	if gendernum = 01 then nsrr_sex = 'male';
+	else if gendernum = 0 then nsrr_sex = 'female';
+	else if gendernum = . then nsrr_sex = 'not reported';
+
+*race;
+*use race;
+    format nsrr_race $100.;
+    if race = 01 then nsrr_race = 'american indian or alaska native';
+    else if race = 02 then nsrr_race = 'asian';
+    else if race = 03 then nsrr_race = 'native hawaiian or other pacific islander';
+    else if race = 04 then nsrr_race = 'black or african american';
+    else if race = 05 then nsrr_race = 'white';
+    else if race = 06 then nsrr_race = 'multiple';
+	else if race = 07 then nsrr_race = 'unknown';
+	else nsrr_race = 'not reported';
+
+*ethnicity;
+*set all value to 'hispanic or latino';
+	format nsrr_ethnicity $100.;
+    if pid ne '.' then nsrr_ethnicity = 'hispanic or latino';
+	else if pid = '.' then nsrr_ethnicity = 'not reported';
+
+*hispanic subgroup;
+*use BKGRD1_C7;
+	format nsrr_hispanic_subgroup $100.;
+	if BKGRD1_C7= '0' then nsrr_hispanic_subgroup = 'dominican';
+	else if BKGRD1_C7= '01' then nsrr_hispanic_subgroup = 'centralamerican';
+	else if BKGRD1_C7= '02' then nsrr_hispanic_subgroup = 'cuban';
+	else if BKGRD1_C7= '03' then nsrr_hispanic_subgroup = 'mexican';
+	else if BKGRD1_C7= '04' then nsrr_hispanic_subgroup = 'puertorican';
+	else if BKGRD1_C7= '05' then nsrr_hispanic_subgroup = 'southamerican';
+	else if BKGRD1_C7= '06' then nsrr_hispanic_subgroup = 'multiple';
+	else if BKGRD1_C7= 'Q' then nsrr_hispanic_subgroup = 'unknown';
+	else nsrr_hispanic_subgroup = 'not reported';
+
+*anthropometry
+*bmi;
+*use bmi;
+	format nsrr_bmi 10.9;
+ 	nsrr_bmi = bmi;
+
+*clinical data/vital sign;
+*Adding in later;
+*bp_systolic;
+
+*bp_diastolic;
+	
+
+*lifestyle and behavioral health
+*current_smoker;
+*use current_smoker;
+	format nsrr_current_smoker $100.;
+	if current_smoker = 0 then nsrr_current_smoker = 'no';
+	else if current_smoker = 01 then nsrr_current_smoker = 'yes';
+    else if current_smoker = . then nsrr_current_smoker = 'not reported';
+
+*ever_smoker;
+*use CIGARETTE_USE;
+	format nsrr_ever_smoker $100.;
+	if CIGARETTE_USE = 01 then nsrr_ever_smoker = 'no';
+	else if CIGARETTE_USE = 02 then nsrr_ever_smoker = 'yes';
+	else if CIGARETTE_USE = 03 then nsrr_ever_smoker = 'yes';
+    else if CIGARETTE_USE = . then nsrr_ever_smoker = 'not reported';
+*ever_smoker;
+*not using;
+
+	keep 
+		pid
+		vnum
+		nsrr_age
+		nsrr_age_gt89
+		nsrr_sex
+		nsrr_race
+		nsrr_ethnicity
+		nsrr_hispanic_subgroup
+		nsrr_bmi
+		nsrr_current_smoker
+		nsrr_ever_smoker;
+run;
+
+*******************************************************************************;
+* checking harmonized datasets ;
+*******************************************************************************;
+/* Checking for extreme values for continuous variables */
+
+proc means data=hchs_sol_harmonized;
+VAR 	nsrr_age
+		nsrr_bmi
+		;
+run;
+
+/* Checking categorical variables */
+
+proc freq data=hchs_sol_harmonized;
+table 	nsrr_age_gt89
+		nsrr_sex
+		nsrr_race
+		nsrr_ethnicity
+		nsrr_hispanic_subgroup
+		nsrr_current_smoker
+		nsrr_ever_smoker;
+run;
+
+*******************************************************************************;
+* make all variable names lowercase ;
+*******************************************************************************;
+  options mprint;
+  %macro lowcase(dsn);
+       %let dsid=%sysfunc(open(&dsn));
+       %let num=%sysfunc(attrn(&dsid,nvars));
+       %put &num;
+       data &dsn;
+             set &dsn(rename=(
+          %do i = 1 %to &num;
+          %let var&i=%sysfunc(varname(&dsid,&i));    /*function of varname returns the name of a SAS data set variable*/
+          &&var&i=%sysfunc(lowcase(&&var&i))         /*rename all variables*/
+          %end;));
+          %let close=%sysfunc(close(&dsid));
+    run;
+  %mend lowcase;
+
+  %lowcase(hchs_sol_dataset);
+  %lowcase(hchs_sueno_dataset);
+  %lowcase(hchs_sol_harmonized);
+
+
+*******************************************************************************;
 * export csv datasets ;
 *******************************************************************************;
   proc export data=hchs_sol_dataset
@@ -156,6 +304,12 @@ run;
 
   proc export data=hchs_sueno_dataset
     outfile="\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\&release\hchs-sol-sueno-ancillary-dataset-&release..csv"
+    dbms=csv
+    replace;
+  run;
+
+  proc export data=hchs_sol_harmonized
+    outfile="\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\&release\hchs-sol-baseline-harmonized-&release..csv"
     dbms=csv
     replace;
   run;

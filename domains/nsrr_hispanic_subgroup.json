@@ -1,0 +1,47 @@
+[
+  {
+    "value": "dominican",
+    "display_name": "dominican",
+    "description": ""
+  },
+  {
+    "value": "centralamerican",
+    "display_name": "centralamerican",
+    "description": ""
+  },
+  {
+    "value": "cuban",
+    "display_name": "cuban",
+    "description": ""
+  },
+  {
+    "value": "mexican",
+    "display_name": "mexican",
+    "description": ""
+  },
+  {
+    "value": "puertorican",
+    "display_name": "puertorican",
+    "description": ""
+  },
+  {
+    "value": "southamerican",
+    "display_name": "southamerican",
+    "description": ""
+  },
+  {
+    "value": "multiple",
+    "display_name": "multiple",
+    "description": ""
+  },
+  {
+    "value": "not reported",
+    "display_name": "not reported",
+    "description": ""
+  },
+  {
+    "value": "unknown",
+    "display_name": "unknown",
+    "description": ""
+  }
+]
