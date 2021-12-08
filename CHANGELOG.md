@@ -1,5 +1,8 @@
 ## 0.6.0 (December 2021)
 
+- Rearrange variables and update display names
+- Add initial set of harmonized variables (nsrr_*)
+
 ## 0.5.0 (July 29, 2019)
 
 - Added Sleep Questionnaire variables from Sueno ancillary
