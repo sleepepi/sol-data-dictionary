@@ -2,5 +2,6 @@
   "id": "hsi_fam_cul_cnt_sueno",
   "display_name": "Familial or cultural confilict, non-missing item count",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

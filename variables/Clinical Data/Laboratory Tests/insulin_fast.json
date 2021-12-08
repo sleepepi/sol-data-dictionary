@@ -2,5 +2,6 @@
   "id": "insulin_fast",
   "display_name": "Insulin, fasting (calibrated, converted to mU/L)",
   "description": "This variable combines fasting glucose results from the central lab that was processed prior to July 5, 2010 (using units of mU/L) with results processed on or after July 5, 2010 (using units of pmol/L) and the overall units are converted to mU/L (1 mU/L = 6 pmol/L).",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

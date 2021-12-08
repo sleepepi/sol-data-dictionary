@@ -2,5 +2,6 @@
   "id": "ahei7",
   "display_name": "Trans Fat, score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

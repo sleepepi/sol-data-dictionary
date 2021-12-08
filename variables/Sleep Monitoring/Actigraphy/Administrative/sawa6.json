@@ -2,5 +2,6 @@
   "id": "sawa6",
   "display_name": "Actiwatch Unit ID",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "sleep_med",
   "display_name": "Highest reported frequency of sleeping medication usage",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -3,6 +3,7 @@
   "display_name": "Average number of wake bouts (continuous periods of wake) between sleep onset and sleep offset in main sleep on non-workdays from actigraphy",
   "description": "Wake bouts is also referred to as \"nocturnal awakenings\". There are always comparable number of wake bouts to sleep bouts.",
   "type": "numeric",
+  "units": "",
   "labels": [
     "AvgNumWb_im_wn_f2"
   ]

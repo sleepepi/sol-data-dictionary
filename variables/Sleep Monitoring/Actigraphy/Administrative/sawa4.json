@@ -2,5 +2,6 @@
   "id": "sawa4",
   "display_name": "Valid/Invalid Status",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

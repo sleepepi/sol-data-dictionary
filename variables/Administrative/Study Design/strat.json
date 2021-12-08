@@ -2,5 +2,6 @@
   "id": "strat",
   "display_name": "Stratification Variable ID",
   "description": "This variable is the sample design stratification variable used in statistical analyses as the stratum variable that is a combination of field center, Hispanic household proportion, and SES.",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

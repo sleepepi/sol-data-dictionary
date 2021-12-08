@@ -2,5 +2,6 @@
   "id": "hsi_fam_cul_sueno",
   "display_name": "Familial or cultural conflict",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

@@ -2,5 +2,6 @@
   "id": "wordfreq",
   "display_name": "Word Frequency (A+F) (NEEA12-13)",
   "description": "This variable is the sum of the score of the A and F parts of the Word Fluency test. Only defined for participants who took a neurocognitive assessment (NEE form).",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

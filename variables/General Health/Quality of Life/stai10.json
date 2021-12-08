@@ -2,5 +2,6 @@
   "id": "stai10",
   "display_name": "10-Item State Trait Anxiety Inventory",
   "description": "This variable is the sum of (WBEA11-WBEA20), where positively worded items (WBEA12, WBEA17, WBEA19) are reverse coded, and 1 is added to all responses (converting from 0-3 to 1-4 scale to match the standardized instrument scoring). For participants with 1 or 2 missing items, STAI10 is equal to the weighted average of the nonmissing items*10.",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

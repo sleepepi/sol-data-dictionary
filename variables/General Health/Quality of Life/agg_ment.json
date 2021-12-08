@@ -2,5 +2,6 @@
   "id": "agg_ment",
   "display_name": "SF-12 Health Survey: Aggregate mental health score norm-based transformed",
   "description": "This sub-scale score is a norm-based transformation of standardized Z scores of the constituent items for the established domains which is scaled to a mean of 50 and standard deviation of 10.",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

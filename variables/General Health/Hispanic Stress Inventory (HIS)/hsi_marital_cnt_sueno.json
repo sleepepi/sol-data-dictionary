@@ -2,5 +2,6 @@
   "id": "hsi_marital_cnt_sueno",
   "display_name": "Marital stress, non-missing item count",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

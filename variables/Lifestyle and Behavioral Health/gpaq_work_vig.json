@@ -2,5 +2,6 @@
   "id": "gpaq_work_vig",
   "display_name": "Work-related (vigorous) physical activity (min/day)",
   "description": "This variable calculates the average amount of time spent per day doing a vigorous work-related physical activity.",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

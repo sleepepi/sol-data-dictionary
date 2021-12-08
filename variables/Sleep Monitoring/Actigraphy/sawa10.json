@@ -3,6 +3,7 @@
   "display_name": "Total number of valid (good) days on weekdays from actigraphy",
   "description": "",
   "type": "numeric",
+  "units": "",
   "labels": [
     "TtlDayVa_ib_w5_f2"
   ]

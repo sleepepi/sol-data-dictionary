@@ -2,5 +2,6 @@
   "id": "gpaq_vig_week",
   "display_name": "GPAQ - Total physical (vigorous) activity (min/week)",
   "description": "This variable finds the average amount of time spent per week doing vigorous physical activity.",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

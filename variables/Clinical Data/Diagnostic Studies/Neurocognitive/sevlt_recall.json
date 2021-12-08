@@ -2,5 +2,6 @@
   "id": "sevlt_recall",
   "display_name": "SEVLT, Delay Recall (NEEA11 with re-coding)",
   "description": "This variable is the scores of the 5th delayed recall trial of the SEVLT test. Definition per Dr. Hector Gonzalez. Only defined for participants who took a neurocognitive assessment (NEE form).",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

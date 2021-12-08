@@ -3,6 +3,7 @@
   "display_name": "Total Number of Apneas and Hypopneas (Supine): Apneas with no oxygen desaturation threshold used + hypopneas with > 50% flow reduction and >= 4% oxygen desaturation during sleep in supine position from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
+  "units": "",
   "labels": [
     "ttlnumah_pb_ap0nhp5x4n_f1t3"
   ]

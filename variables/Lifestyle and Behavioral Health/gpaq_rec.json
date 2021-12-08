@@ -2,5 +2,6 @@
   "id": "gpaq_rec",
   "display_name": "Recreational physical activity (min/day)",
   "description": "This variable finds the total time per day doing some form of recreational physical activity.",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }

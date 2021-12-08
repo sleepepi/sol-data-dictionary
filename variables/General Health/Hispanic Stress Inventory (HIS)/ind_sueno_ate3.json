@@ -2,5 +2,6 @@
   "id": "ind_sueno_ate3",
   "display_name": "Hispanic Stress Inventory individual score - ATE item 3",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": ""
 }
