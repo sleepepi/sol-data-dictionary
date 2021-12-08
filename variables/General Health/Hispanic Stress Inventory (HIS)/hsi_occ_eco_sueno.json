@@ -2,6 +2,5 @@
   "id": "hsi_occ_eco_sueno",
   "display_name": "Occupational or economic stress",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }
