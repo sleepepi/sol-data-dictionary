@@ -2,6 +2,5 @@
   "id": "digitsymbol",
   "display_name": "Digit Symbo Substitution Score (NEEA14)",
   "description": "This variable is for the score of the digit symbol substitution test. Only defined for participants who took a neurocognitive assessment (NEE form).",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

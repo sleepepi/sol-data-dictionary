@@ -2,6 +2,5 @@
   "id": "cohort",
   "display_name": "Cohort Year (from Household Address Wave Assignment)",
   "description": "This variable is an indicator of household sample address allocation and distribution for HCHS/SOL recruitment.",
-  "type": "integer",
-  "units": ""
+  "type": "integer"
 }

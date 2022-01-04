@@ -2,6 +2,5 @@
   "id": "pred_sodium",
   "display_name": "Sodium - NCI predicted intake, mg/d (DTIA67)",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

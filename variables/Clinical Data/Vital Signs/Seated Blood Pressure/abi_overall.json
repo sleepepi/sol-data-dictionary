@@ -2,6 +2,5 @@
   "id": "abi_overall",
   "display_name": "Overall Ankle Branchial Index (occlusion failure included)",
   "description": "Ankle Brachial Index (ABI) is the average ankle to arm systolic pressures as measured from the left and right sides. The higher of the two ankle measures on the same side is divided by the higher of the two systolic arm pressures to derive the right and left side ABI values. The overall ABI is the mean of those two measurements.",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

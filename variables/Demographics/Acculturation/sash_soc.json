@@ -2,6 +2,5 @@
   "id": "sash_soc",
   "display_name": "SASH ethic social relations subscale",
   "description": "This variable indicates the degree of social acculturation.",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

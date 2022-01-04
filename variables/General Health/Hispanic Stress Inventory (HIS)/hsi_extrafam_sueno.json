@@ -2,6 +2,5 @@
   "id": "hsi_extrafam_sueno",
   "display_name": "Extrafamilial stress",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

@@ -2,6 +2,5 @@
   "id": "pred_swebj",
   "display_name": "Sugar-sweentened beverages and fruit juice - NCI predicted intake, servings/d (SUGAR_SWTBFJ)",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

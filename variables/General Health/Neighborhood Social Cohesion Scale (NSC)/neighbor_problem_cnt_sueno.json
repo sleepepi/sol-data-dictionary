@@ -2,6 +2,5 @@
   "id": "neighbor_problem_cnt_sueno",
   "display_name": "Neighborhood Problem Scale, non-missing item count",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

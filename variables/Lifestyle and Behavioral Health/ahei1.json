@@ -2,6 +2,5 @@
   "id": "ahei1",
   "display_name": "Vegetables without potato, score",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

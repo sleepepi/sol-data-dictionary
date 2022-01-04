@@ -2,6 +2,5 @@
   "id": "hsi_extrafam_cnt_sueno",
   "display_name": "Extrafamilial stress non-missing item count",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

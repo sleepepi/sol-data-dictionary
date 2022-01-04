@@ -2,6 +2,5 @@
   "id": "pred_redprocess",
   "display_name": "Red/Processed Meat - NCI predicted intake, servings/d (MEAT_REDPROCESSED)",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

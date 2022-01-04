@@ -3,7 +3,6 @@
   "display_name": "Average number of sleep bouts (continuous periods of sleep) between sleep onset and sleep offset in main sleep on workdays from actigraphy",
   "description": "sleep bouts are continuous blocks, one or more epochs in duration, with each epoch of each block scored as \"sleep\", between the start time and the end time of the given interval.",
   "type": "numeric",
-  "units": "",
   "labels": [
     "AvgNumSb_im_ww_f2"
   ]

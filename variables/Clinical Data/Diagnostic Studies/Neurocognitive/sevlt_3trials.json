@@ -2,6 +2,5 @@
   "id": "sevlt_3trials",
   "display_name": "SEVTL, Sum of 3 Trials (NEEA8=10)",
   "description": "This variable is the sum of the scores of the first 3 trials of the SEVLT test. Only defined for participants who took a neurocognitive assessment (NEE form).",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

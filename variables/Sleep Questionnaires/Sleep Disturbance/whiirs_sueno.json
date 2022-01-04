@@ -2,6 +2,5 @@
   "id": "whiirs_sueno",
   "display_name": "Total score of Women's Health Initiative Insomnia Rating Scale (WHIIRS)",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

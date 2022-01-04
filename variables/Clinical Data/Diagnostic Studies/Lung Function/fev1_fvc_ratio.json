@@ -2,6 +2,5 @@
   "id": "fev1_fvc_ratio",
   "display_name": "FEV1/FVC Ratio",
   "description": "This variable is the ratio of forced expiratory volume in one minute (FEV1 ) to forced vital capacity (FVC) expressed as a percentage. ",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

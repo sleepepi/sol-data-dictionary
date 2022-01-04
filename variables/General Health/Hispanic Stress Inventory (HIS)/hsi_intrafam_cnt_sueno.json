@@ -2,6 +2,5 @@
   "id": "hsi_intrafam_cnt_sueno",
   "display_name": "Intrafamilial stress, non-missing item count",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

@@ -2,6 +2,5 @@
   "id": "pred_epadha",
   "display_name": "EPA and DHA - NCI predicted intake, mg/d (EPADHA)",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

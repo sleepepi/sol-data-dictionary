@@ -2,6 +2,5 @@
   "id": "gfrscys_scr",
   "display_name": "eGFR based on serum cystatin C, serum creatinine, gender, age, and race",
   "description": "This variable estimates Glomerular filtration rate, based on serum cystatin C, serum creatinine, and demographics gender, age and race (black vs. nonblack).",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

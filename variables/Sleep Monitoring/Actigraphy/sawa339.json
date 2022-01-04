@@ -3,7 +3,6 @@
   "display_name": "Interdaily variability of rest-activity rhythm in 24 hours (including main rest intervals and naps) over all days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "",
   "labels": [
     "IteVarRh_ib_w7_f2"
   ]

@@ -2,6 +2,5 @@
   "id": "ess_sueno",
   "display_name": "Epworth Sleepiness Scale",
   "description": "This is an integer value with range from 0-24. The Epworth Sleepiness Scale assesses the daytime sleepiness of patients. Dr Murray W Johns owns the copyright in the ESS (Copyright ÃÂ© M.W.Johns 1990-1997). The website is [http://epworthsleepinessscale.com](http://epworthsleepinessscale.com). Algorithm: The ESS_SUENO is computed by adding ALL 8 ITEMS (SPEA12A TO SPEA12H). If any item is missing then ESS_SUENO is missing. Warning: The levels of each item need to be recoded as follows: No chance (from 1 to 0), slight chance (from 2 to 1), moderate chance (from 3 to 2) and high chance (from 4 to 3).",
-  "type": "integer",
-  "units": ""
+  "type": "integer"
 }

@@ -2,6 +2,5 @@
   "id": "gpaq_total_met",
   "display_name": "Total physical activity (MET-min/day)",
   "description": "This variable calculates the total amount of time spent doing some form of physical activity in a week.",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

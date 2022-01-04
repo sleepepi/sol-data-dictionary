@@ -2,6 +2,5 @@
   "id": "gpaq_total",
   "display_name": "Total physical activity (min/day)",
   "description": "This variable shows the average amount of time spent doing some form of physical activity in a week.",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

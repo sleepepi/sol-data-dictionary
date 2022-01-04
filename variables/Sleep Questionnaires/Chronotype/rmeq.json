@@ -2,6 +2,5 @@
   "id": "rmeq",
   "display_name": "Reduced Morningness Eveningness Questionnaire Raw Score",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

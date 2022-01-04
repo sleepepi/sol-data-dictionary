@@ -2,6 +2,5 @@
   "id": "sawa342",
   "display_name": "Version of Actiware software",
   "description": "",
-  "type": "numeric",
-  "units": ""
+  "type": "numeric"
 }

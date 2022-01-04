@@ -1,10 +1,9 @@
 {
   "id": "slpa49",
-  "display_name": "Total Number of Apneas and Hypopneas (Non-Supine): Apneas with no oxygen desaturation threshold used + hypopneas with > 50% flow reduction and >= 1% oxygen desaturation during sleep in non-supine position from type III home sleep apnea test",
-  "description": "",
+  "display_name": "Total Number of Apneas and Hypopneas (Non-Supine): Respiratory events with > 50% flow reduction and >= 1% oxygen desaturation during sleep in non-supine position from type III home sleep apnea test",
+  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal and with >= 1% oxygen desaturation for at least 10 seconds.",
   "type": "numeric",
-  "units": "",
   "labels": [
-    "ttlnumah_po_ap0nhp5x1n_f1t3"
+    "ttlnumah_po_ah5x1n_f1t3"
   ]
 }
