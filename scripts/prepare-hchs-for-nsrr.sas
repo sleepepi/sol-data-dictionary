@@ -96,6 +96,15 @@ run;
     drop fseqno linenumber vers visit form linenumber ;
   run;
 
+data sbpa_lad1_in;
+length pid $8;
+set solb.sbpa_lad1;
+
+
+*only keep average bp measures;
+keep pid sbpa5 sbpa6;
+run;
+
   data part_derv_sueno_lad1_in;
     set solb.part_derv_sueno_lad1;
 
@@ -126,6 +135,7 @@ run;
       slea_lad1_in
       slpa_lad1_in
       mhea_lad1_in
+	  sbpa_lad1_in
       ;
     by pid;
 
@@ -156,7 +166,8 @@ data hchs_sol_harmonized;
 *age;
 *use age;
   format nsrr_age 8.2;
-  nsrr_age = age;
+  if age gt 89 then nsrr_age = 90;
+ 	else if age le 89 then nsrr_age = age;
 
 *age_gt89;
 *use age;
@@ -233,6 +244,17 @@ data hchs_sol_harmonized;
 *ever_smoker;
 *not using;
 
+*polysomnography;
+*nsrr_ahi_hp3u;
+*use slpa54;
+  format nsrr_ahi_hp3u 8.2;
+  nsrr_ahi_hp3u = slpa54;
+  
+*nsrr_ahi_hp4u;
+*use slpa63;
+  format nsrr_ahi_hp4u 8.2;
+  nsrr_ahi_hp4u = slpa63;
+  
   keep 
     pid
     vnum
@@ -244,7 +266,10 @@ data hchs_sol_harmonized;
     nsrr_hispanic_subgroup
     nsrr_bmi
     nsrr_current_smoker
-    nsrr_ever_smoker;
+    nsrr_ever_smoker
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp4u
+	;
 run;
 
 *******************************************************************************;
@@ -255,6 +280,8 @@ run;
 proc means data=hchs_sol_harmonized;
 VAR   nsrr_age
     nsrr_bmi
+	nsrr_ahi_hp3u
+	nsrr_ahi_hp4u
     ;
 run;
 

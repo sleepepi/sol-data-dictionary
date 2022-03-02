@@ -1,7 +1,9 @@
-## 0.6.0 (December 2021)
+## 0.6.0 
 
 - Rearrange variables and update display names
 - Add initial set of harmonized variables (nsrr_*)
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.6.0\`
 
 ## 0.5.0 (July 29, 2019)
 
