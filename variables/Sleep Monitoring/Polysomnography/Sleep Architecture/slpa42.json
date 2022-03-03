@@ -1,7 +1,7 @@
 {
   "id": "slpa42",
   "display_name": "Total Duration of Apnea and Hypopnea: Respiratory events with > 50% flow reduction and no oxygen desaturation threshold used during sleep from type III home sleep apnea test",
-  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal for at least 10 seconds.",
+  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in nasal flow signal for at least 10 seconds.",
   "type": "numeric",
   "units": "hours",
   "labels": [

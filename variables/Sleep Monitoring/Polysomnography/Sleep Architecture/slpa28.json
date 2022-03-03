@@ -1,6 +1,6 @@
 {
   "id": "slpa28",
-  "display_name": "Total recording period from type III home sleep apnea test",
+  "display_name": "Total recording period in hour from type III home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "hours",

@@ -1,0 +1,10 @@
+{
+  "id": "slpa107",
+  "display_name": "Average oxygen desaturation in supine position from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "percent",
+  "labels": [
+    "avglvlds_pb_f1t3"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "slpa65",
-  "display_name": "Apnea Hypopnea Index (Supine): (Respiratory events with > 50% flow reduction and >= 4% oxygen desaturation) / hours of sleep in supine position from type III home sleep apnea test",
+  "display_name": "Apnea Hypopnea Index (Supine): (Respiratory events with > 50% flow reduction and >= 4% oxygen desaturation) / hours of estimated sleep in supine position from type III home sleep apnea test",
   "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal and with >= 4% oxygen desaturation for at least 10 seconds.",
   "type": "numeric",
   "units": "events per hour",

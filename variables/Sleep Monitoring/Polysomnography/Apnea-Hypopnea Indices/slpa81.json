@@ -1,0 +1,10 @@
+{
+  "id": "slpa81",
+  "display_name": "Central Apnea Index : Central apneas with no oxygen desaturation threshold used / hours of estimated sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "cai_ca0n_f1t3"
+  ]
+}

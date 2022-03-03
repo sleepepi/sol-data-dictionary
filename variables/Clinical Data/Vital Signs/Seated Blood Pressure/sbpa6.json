@@ -1,0 +1,6 @@
+{
+  "id": "sbpa6",
+  "display_name": "Average seated diastolic blood pressure based on three measurements, with an interval of 30 seconds between each measurement",
+  "description": "",
+  "type": "numeric"
+}

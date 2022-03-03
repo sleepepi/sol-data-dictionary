@@ -1,0 +1,10 @@
+{
+  "id": "slpa72",
+  "display_name": "Apnea Index: Apneas with no oxygen desaturation threshold used / hours of estimated sleep from type III home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.",
+  "type": "numeric",
+  "units": "events per hour",
+  "labels": [
+    "ai_ap0n_f1t3"
+  ]
+}

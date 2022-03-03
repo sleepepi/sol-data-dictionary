@@ -1,0 +1,6 @@
+{
+  "id": "sbpa5",
+  "display_name": "Average seated systolic blood pressure based on three measurements at a single clinic visit, with an interval of 30 seconds between each measurement",
+  "description": "",
+  "type": "numeric"
+}

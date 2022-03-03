@@ -1,0 +1,9 @@
+{
+  "id": "slpa75",
+  "display_name": "Total number of apneas with no oxygen desaturation threshold used during sleep from type III home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "labels": [
+    "ttlnumap_ap0n_f1t3"
+  ]
+}
