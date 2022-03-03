@@ -220,10 +220,15 @@ data hchs_sol_harmonized;
   nsrr_bmi = bmi;
 
 *clinical data/vital sign;
-*Adding in later;
 *bp_systolic;
+*use sbpa5;
+  format nsrr_bp_systolic 8.2;
+  nsrr_bp_systolic = sbpa5;
 
 *bp_diastolic;
+*use sbpa6;
+  format nsrr_bp_diastolic 8.2;
+  nsrr_bp_diastolic = sbpa6;
   
 
 *lifestyle and behavioral health
@@ -241,19 +246,20 @@ data hchs_sol_harmonized;
   else if CIGARETTE_USE = 02 then nsrr_ever_smoker = 'yes';
   else if CIGARETTE_USE = 03 then nsrr_ever_smoker = 'yes';
     else if CIGARETTE_USE = . then nsrr_ever_smoker = 'not reported';
+
 *ever_smoker;
 *not using;
 
 *polysomnography;
-*nsrr_ahi_hp3u;
+*nsrr_ahi_ap3u;
 *use slpa54;
-  format nsrr_ahi_hp3u 8.2;
-  nsrr_ahi_hp3u = slpa54;
+  format nsrr_ahi_ap3u 8.2;
+  nsrr_ahi_ap3u = slpa54;
   
-*nsrr_ahi_hp4u;
+*nsrr_ahi_ap4u;
 *use slpa63;
-  format nsrr_ahi_hp4u 8.2;
-  nsrr_ahi_hp4u = slpa63;
+  format nsrr_ahi_ap4u 8.2;
+  nsrr_ahi_ap4u = slpa63;
   
   keep 
     pid
@@ -265,10 +271,12 @@ data hchs_sol_harmonized;
     nsrr_ethnicity
     nsrr_hispanic_subgroup
     nsrr_bmi
+	nsrr_bp_systolic
+	nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp4u
+	nsrr_ahi_ap3u
+	nsrr_ahi_ap4u
 	;
 run;
 
@@ -280,8 +288,10 @@ run;
 proc means data=hchs_sol_harmonized;
 VAR   nsrr_age
     nsrr_bmi
-	nsrr_ahi_hp3u
-	nsrr_ahi_hp4u
+	nsrr_bp_systolic
+	nsrr_bp_diastolic
+	nsrr_ahi_ap3u
+	nsrr_ahi_ap4u
     ;
 run;
 
