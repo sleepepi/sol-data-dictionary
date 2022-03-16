@@ -1,7 +1,7 @@
 {
   "id": "slpa53",
-  "display_name": "Total Duration of Apnea and Hypopnea (Supine): Apneas with >= 1% oxygen desaturation+ hypopneas with > 50% flow reduction and >= 1% oxygen desaturation during sleep in supine position from type IV home sleep apnea test",
-  "description": "",
+  "display_name": "Total Duration of Apnea and Hypopnea (Supine): Apneas with >= 1% oxygen desaturation + hypopneas with > 50% flow reduction and >= 1% oxygen desaturation during sleep in supine position from type IV home sleep apnea test",
+  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal for at least 10 seconds.",
   "type": "numeric",
   "units": "seconds",
   "labels": [

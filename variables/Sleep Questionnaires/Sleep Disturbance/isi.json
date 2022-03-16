@@ -1,6 +1,6 @@
 {
   "id": "isi",
   "display_name": "Insomnia Severity Index",
-  "description": "This is a numeric variable with values ranging from 0-28 based on the Sleep Questionnaire II form. Missing if did not answer any of following: SQEA6, SQEA7, SQEA8, SQEA9. If SQEA10 answered Ã¢ÂÂYes 1,Ã¢ÂÂ but any of following missing: SQEA11, SQEA12, SQEA13, then missing. Missing if did not answer SQEA10 and SQEA11-SQEA13.",
+  "description": "This is a numeric variable with values ranging from 0-28 based on the Sleep Questionnaire II form. Missing if did not answer any of following: SQEA6, SQEA7, SQEA8, SQEA9. If SQEA10 answered 'Yes 1', but any of following missing: SQEA11, SQEA12, SQEA13, then missing. Missing if did not answer SQEA10 and SQEA11-SQEA13.",
   "type": "integer"
 }

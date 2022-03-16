@@ -1,7 +1,7 @@
 {
   "id": "slpa66",
   "display_name": "Total Number of Apneas and Hypopneas: Apneas with  >= 4% oxygen desaturation + hypopneas with > 50% flow reduction and >= 4% oxygen desaturation during sleep from type IV home sleep apnea test",
-  "description": "",
+  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal for at least 10 seconds.",
   "type": "numeric",
   "labels": [
     "ttlnumah_ap4nhp5x4n_f1t4"
