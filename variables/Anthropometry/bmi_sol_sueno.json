@@ -1,6 +1,6 @@
 {
   "id": "bmi_sol_sueno",
-  "display_name": "Body Mass Index at the SueÃÂÃÂ±o clinic visit, using the SOL height",
+  "display_name": "Body Mass Index at the SueÃÂ±o clinic visit, using the SOL height",
   "description": "",
   "type": "numeric",
   "units": "kilograms per meter squared"

@@ -1,10 +1,10 @@
 {
   "id": "slpa27",
-  "display_name": "Total in-bed period from type III home sleep apnea test",
+  "display_name": "Total in-bed period from type IV home sleep apnea test",
   "description": "In-bed period is the interval between lights off/in-bed time and lights on/out-bed time, used in polysomnography.",
   "type": "numeric",
   "units": "hours",
   "labels": [
-    "ttlprdbd_f1t3"
+    "ttlprdbd_f1t4"
   ]
 }

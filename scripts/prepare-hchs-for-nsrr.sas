@@ -79,7 +79,10 @@ run;
     set solb.slpa_lad1;
 
     *drop extraneous variables;
-    drop fseqno linenumber vers visit form slpa2 ;
+    drop fseqno linenumber vers visit form slpa2 
+	SLPA72 SLPA73 SLPA74 SLPA75 SLPA76 SLPA77 SLPA78 SLPA79
+	  SLPA80 SLPA81 SLPA82 SLPA83 SLPA84 SLPA85 SLPA86 SLPA87
+	  SLPA88 SLPA89; /* drop apnea, central apnea only events*/
   run;
 
   data mhea_lad1_in;
@@ -120,7 +123,8 @@ run;
 
     *drop variables not kept in hchs documentation;
     drop SPEA1A SPEA1A1 SPEA1B SPEA1B1 SPEA2A
-      SPEA2A1 SPEA2B SPEA2B1;
+      SPEA2A1 SPEA2B SPEA2B1 
+	  ;
   run;
 
   data sqea_lad1_in;

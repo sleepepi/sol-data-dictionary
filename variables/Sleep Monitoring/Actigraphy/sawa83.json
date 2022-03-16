@@ -1,6 +1,6 @@
 {
   "id": "sawa83",
-  "display_name": "Standard deviation of daily sleep offset time in all days from actigraphy",
+  "display_name": "Standard deviation of daily sleep offset time across all days from actigraphy",
   "description": "",
   "type": "time",
   "labels": [

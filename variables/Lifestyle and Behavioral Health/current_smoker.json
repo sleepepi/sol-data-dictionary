@@ -3,5 +3,8 @@
   "display_name": "Current Smoker (from CIGARETTE_USE)",
   "description": "This variable is an indicator to denote current smoker status using the variable cigarette_use.",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "labels": [
+    "smoking"
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "id": "slpa94",
-  "display_name": "Average oxygen saturation in non-supine position from type III home sleep apnea test",
+  "display_name": "Average level of oxygen saturation in non-supine position from type IV home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "avglvlsa_po_f1t3"
+    "avglvlsa_po_f1t4"
   ]
 }

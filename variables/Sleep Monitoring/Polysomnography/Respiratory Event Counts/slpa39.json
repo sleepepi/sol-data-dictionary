@@ -1,9 +1,9 @@
 {
   "id": "slpa39",
-  "display_name": "Total Number of Apnea and Hypopnea: Respiratory events with > 50% flow reduction and no oxygen desaturation threshold used during sleep from type III home sleep apnea test",
-  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal for at least 10 seconds.",
+  "display_name": "Total Number of Apnea and Hypopnea: Apneas with no oxygen desaturation threshold used+ hypopneas with > 50% flow reduction and no oxygen desaturation threshold used during sleep from type IV home sleep apnea test",
+  "description": "",
   "type": "numeric",
   "labels": [
-    "ttlnumah_ah5x0n_f1t3"
+    "ttlnumah_ap0nhp5x0n_f1t4"
   ]
 }

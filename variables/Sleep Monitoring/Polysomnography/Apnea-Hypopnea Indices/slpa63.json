@@ -1,10 +1,10 @@
 {
   "id": "slpa63",
-  "display_name": "Apnea Hypopnea Index: (Respiratory events with > 50% flow reduction and >= 4% oxygen desaturation) / hours of estimated sleep from type III home sleep apnea test",
-  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal and with >= 4% oxygen desaturation for at least 10 seconds.",
+  "display_name": "Apnea Hypopnea Index: (Apneas with  >= 4% oxygen desaturation + hypopneas with > 50% flow reduction and >= 4% oxygen desaturation) / hours of sleep from type IV home sleep apnea test",
+  "description": "Calculated - Summary metric of sleep disordered breathing events.The curent AASM guidelines refer this index to Respiratory Event Index (REI) since sleep is not directly recorded.",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "ahi_ah5x4n_f1t3"
+    "ahi_ap4nhp5x4n_f1t4"
   ]
 }

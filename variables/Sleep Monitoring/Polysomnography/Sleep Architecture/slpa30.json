@@ -1,10 +1,10 @@
 {
   "id": "slpa30",
-  "display_name": "Total valid recording period in hour from type III home sleep apnea test",
+  "display_name": "Total recording period from type IV home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "hours",
   "labels": [
-    "ttlprdrd_wr_f1t3"
+    "ttlprdrd_wr_f1t4"
   ]
 }

@@ -3,5 +3,8 @@
   "display_name": "Cigarette Pack Years (3-level, cutoff=10)",
   "description": "This variable groups cigaratte use into 3 categories",
   "type": "choices",
-  "domain": "years"
+  "domain": "years",
+  "labels": [
+    "smoking"
+  ]
 }

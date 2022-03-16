@@ -1,6 +1,6 @@
 {
   "id": "sawa303",
-  "display_name": "Total number of reliable days with naps of any sleep recorded in the entire actigraphy recording period in all days from actigraphy",
+  "display_name": "Total number of reliable days with naps of any sleep recorded in the entire actigraphy recording period across all days from actigraphy",
   "description": "",
   "type": "numeric",
   "units": "days",

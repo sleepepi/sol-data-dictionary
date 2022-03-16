@@ -1,10 +1,10 @@
 {
   "id": "slpa91",
-  "display_name": "Minimum oxygen saturation from type III home sleep apnea test",
+  "display_name": "Minimum from type IV home sleep apnea test",
   "description": "",
   "type": "numeric",
   "units": "percent",
   "labels": [
-    "minllvlsa_f1t3"
+    "minllvlsa_f1t4"
   ]
 }

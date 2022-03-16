@@ -1,6 +1,6 @@
 {
   "id": "sawa88",
-  "display_name": "Average daily mid-point for sleep period in all days from actigraphy",
+  "display_name": "Average daily mid-point for sleep period across all days from actigraphy",
   "description": "Sleep period is the interval between sleep onset and sleep offset time.",
   "type": "time",
   "labels": [

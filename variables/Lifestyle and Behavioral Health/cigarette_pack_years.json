@@ -3,5 +3,8 @@
   "display_name": "Cigarette Pack Years",
   "description": "This variable calculates the cigarette pack years as the number of exposure years multiplied by the average number of cigarettes smoked per day.",
   "type": "numeric",
-  "units": "packs"
+  "units": "packs",
+  "labels": [
+    "smoking"
+  ]
 }

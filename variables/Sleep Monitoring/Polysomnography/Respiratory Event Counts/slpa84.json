@@ -1,9 +1,0 @@
-{
-  "id": "slpa84",
-  "display_name": "Total number of central apneas with no oxygen desaturation threshold used from type III home sleep apnea test",
-  "description": "",
-  "type": "numeric",
-  "labels": [
-    "ttlnumca_ca0n_f1t3"
-  ]
-}

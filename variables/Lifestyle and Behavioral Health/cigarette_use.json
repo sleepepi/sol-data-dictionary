@@ -3,5 +3,8 @@
   "display_name": "Cigarette Use",
   "description": "",
   "type": "choices",
-  "domain": "never_current"
+  "domain": "never_current",
+  "labels": [
+    "smoking"
+  ]
 }
