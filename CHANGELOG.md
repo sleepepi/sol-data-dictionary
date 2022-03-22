@@ -1,4 +1,4 @@
-## 0.6.0 
+## 0.6.0 (March 22, 2022)
 
 - Rearrange variables and update display names
 - Remove apneas and central apneas event only variables
