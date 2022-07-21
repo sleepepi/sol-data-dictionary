@@ -1,5 +1,9 @@
 ## 0.7.0
 
+- Remove additional permit varaibles to avoid user confusion
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.7.0.pre\`
+
 ## 0.6.0 (March 22, 2022)
 
 - Rearrange variables and update display names

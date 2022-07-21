@@ -1,7 +1,0 @@
-{
-  "id": "np_permit",
-  "display_name": "Permission for non-profit use of data",
-  "description": "This variable determines whether or not a study participant gave permission for non-profit use of study data.",
-  "type": "choices",
-  "domain": "use_permitted"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "commercial_permit",
-  "display_name": "Permission for for-profit use of data",
-  "description": "This variable determines whether or not a study participant gave permission for use for for-profit use of study data.",
-  "type": "choices",
-  "domain": "use_permitted"
-}
