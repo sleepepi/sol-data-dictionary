@@ -16,7 +16,7 @@
   libname solb "\\rfawin\BWH-SLEEPEPI-SOL\nsrr-prep\_datasets";
   options nofmterr;
 
-  %let release = 0.6.0;
+  %let release = 0.7.0.pre;
 
 
 /*
@@ -61,6 +61,14 @@ run;
 
     *set visit number to 1 for hchs/sol baseline visit;
     vnum = 1;
+
+    *drop extraneous variables;
+    drop
+      /* drop 'permit' variables, overridden by HCHS-created 'any_permit' indicator */
+      np_permit
+      external_permit
+      commercial_permit
+      ;
   run;
 
   data slea_lad1_in;
@@ -80,9 +88,9 @@ run;
 
     *drop extraneous variables;
     drop fseqno linenumber vers visit form slpa2 
-	SLPA72 SLPA73 SLPA74 SLPA75 SLPA76 SLPA77 SLPA78 SLPA79
-	  SLPA80 SLPA81 SLPA82 SLPA83 SLPA84 SLPA85 SLPA86 SLPA87
-	  SLPA88 SLPA89; /* drop apnea, central apnea only events*/
+  SLPA72 SLPA73 SLPA74 SLPA75 SLPA76 SLPA77 SLPA78 SLPA79
+    SLPA80 SLPA81 SLPA82 SLPA83 SLPA84 SLPA85 SLPA86 SLPA87
+    SLPA88 SLPA89; /* drop apnea, central apnea only events*/
   run;
 
   data mhea_lad1_in;
@@ -111,6 +119,13 @@ run;
   data part_derv_sueno_lad1_in;
     set solb.part_derv_sueno_lad1;
 
+    *drop extraneous variables;
+    drop
+      /* drop 'permit' variables, overridden by HCHS-created 'any_permit' indicator */
+      np_permit
+      external_permit
+      commercial_permit
+      ;
   run;
 
   data sawa_lad1_in;
@@ -124,7 +139,7 @@ run;
     *drop variables not kept in hchs documentation;
     drop SPEA1A SPEA1A1 SPEA1B SPEA1B1 SPEA2A
       SPEA2A1 SPEA2B SPEA2B1 
-	  ;
+    ;
   run;
 
   data sqea_lad1_in;
@@ -139,7 +154,7 @@ run;
       slea_lad1_in
       slpa_lad1_in
       mhea_lad1_in
-	  sbpa_lad1_in
+    sbpa_lad1_in
       ;
     by pid;
 
@@ -171,7 +186,7 @@ data hchs_sol_harmonized;
 *use age;
   format nsrr_age 8.2;
   if age gt 89 then nsrr_age = 90;
- 	else if age le 89 then nsrr_age = age;
+  else if age le 89 then nsrr_age = age;
 
 *age_gt89;
 *use age;
@@ -275,13 +290,13 @@ data hchs_sol_harmonized;
     nsrr_ethnicity
     nsrr_hispanic_subgroup
     nsrr_bmi
-	nsrr_bp_systolic
-	nsrr_bp_diastolic
+    nsrr_bp_systolic
+    nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-	nsrr_ahi_ap3u
-	nsrr_ahi_ap4u
-	;
+    nsrr_ahi_ap3u
+    nsrr_ahi_ap4u
+  ;
 run;
 
 *******************************************************************************;
@@ -292,10 +307,10 @@ run;
 proc means data=hchs_sol_harmonized;
 VAR   nsrr_age
     nsrr_bmi
-	nsrr_bp_systolic
-	nsrr_bp_diastolic
-	nsrr_ahi_ap3u
-	nsrr_ahi_ap4u
+  nsrr_bp_systolic
+  nsrr_bp_diastolic
+  nsrr_ahi_ap3u
+  nsrr_ahi_ap4u
     ;
 run;
 
@@ -350,7 +365,7 @@ run;
   run;
 
   proc export data=hchs_sol_harmonized
-    outfile="\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\&release\hchs-sol-baseline-harmonized-&release..csv"
+    outfile="\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\&release\hchs-sol-baseline-harmonized-dataset-&release..csv"
     dbms=csv
     replace;
   run;
