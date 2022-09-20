@@ -1,5 +1,7 @@
 ## 0.7.1
 
+- Link variables to annotated forms
+
 ## 0.7.0 (July 21, 2022)
 
 - Remove additional permit varaibles to avoid user confusion
