@@ -1,3 +1,5 @@
+## 0.7.1
+
 ## 0.7.0 (July 21, 2022)
 
 - Remove additional permit varaibles to avoid user confusion
