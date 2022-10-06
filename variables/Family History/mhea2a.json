@@ -3,10 +3,8 @@
   "display_name": "High Blood Cholesterol - Mother (MHEA2A)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
-,
+  "domain": "noyes01",
   "forms": [
     "mhea_annotated"
   ]
-
 }

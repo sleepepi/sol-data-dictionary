@@ -3,8 +3,7 @@
   "display_name": "Heart Attack - Age Father (MHEA4C2)",
   "description": "",
   "type": "integer",
-  "units": "years"
-,
+  "units": "years",
   "forms": [
     "mhea_annotated"
   ]

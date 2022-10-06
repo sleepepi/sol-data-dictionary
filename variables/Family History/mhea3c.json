@@ -3,8 +3,7 @@
   "display_name": "Angina - Father (MHEA3C)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
-,
+  "domain": "noyes01",
   "forms": [
     "mhea_annotated"
   ]

@@ -3,5 +3,8 @@
   "display_name": "HBP/Hyperten - Self while pregnant (MHEA1A)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

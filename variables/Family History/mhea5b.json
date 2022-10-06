@@ -3,5 +3,8 @@
   "display_name": "Heart Failure - Father (MHEA5B)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

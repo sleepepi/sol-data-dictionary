@@ -3,8 +3,7 @@
   "display_name": "Heart Attack - Age Sibling (MHEA4D2)",
   "description": "",
   "type": "integer",
-  "units": "years"
-,
+  "units": "years",
   "forms": [
     "mhea_annotated"
   ]
