@@ -1,7 +1,0 @@
-{
-  "id": "spea6",
-  "display_name": "Times Wake up earlier than planned in past 4 wks",
-  "description": "",
-  "type": "choices",
-  "domain": "freq4weeks"
-}

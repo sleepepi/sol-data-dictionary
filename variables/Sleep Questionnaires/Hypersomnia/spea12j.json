@@ -1,7 +1,11 @@
 {
   "id": "spea12j",
-  "display_name": "Doze off chance: While driving",
-  "description": "",
+  "display_name": "Epworth Sleepiness Scale: Chance of dozing while driving",
+  "description": "Additional item added to the Epworth Sleepiness Scale",
   "type": "choices",
-  "domain": "epworth"
+  "domain": "epworth",
+  "labels": [
+    "ess_driving",
+    "epworth"
+  ]
 }

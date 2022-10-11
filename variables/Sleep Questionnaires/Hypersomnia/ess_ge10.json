@@ -3,5 +3,9 @@
   "display_name": "Excessive sleepiness (ESS>=10)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "labels": [
+    "epworth",
+    "ess_total"
+  ]
 }

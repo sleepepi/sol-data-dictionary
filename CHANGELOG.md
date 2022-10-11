@@ -1,7 +1,10 @@
 ## 0.7.1
 
 - Link variables to annotated forms
-
+- Revise metadata for variables from validated survey instruments
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.7.1\`
+  
 ## 0.7.0 (July 21, 2022)
 
 - Remove additional permit varaibles to avoid user confusion

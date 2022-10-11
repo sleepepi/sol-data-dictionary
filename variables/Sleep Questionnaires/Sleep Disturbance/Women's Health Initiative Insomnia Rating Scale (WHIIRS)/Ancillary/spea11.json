@@ -1,0 +1,12 @@
+{
+  "id": "spea11",
+  "display_name": "Women's Health Initiative Insomnia Rating Scale: Typical night sleep in the past 4 weeks",
+  "description": "Item from the Women's Health Initiative Insomnia Rating Scale. [Levine et al.(2003)](https://psycnet.apa.org/record/2003-06188-004) <br><br> [Search for all WHIIRS variables within this dataset](https://sleepdata.org/datasets/hchs/variables?search=whiirs)",
+  "type": "choices",
+  "domain": "typical_night_sleep",
+  "labels": [
+    "sleep_quality",
+    "whiirs",
+    "whiirs_5quality"
+  ]
+}

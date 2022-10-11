@@ -3,5 +3,9 @@
   "display_name": "Excessive sleepiness, collected at the Sueno visit",
   "description": "Excessive daytime sleepiness, as defined as an ESS score greater than or equal to 10",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "labels": [
+    "epworth",
+    "ess_total"
+  ]
 }
