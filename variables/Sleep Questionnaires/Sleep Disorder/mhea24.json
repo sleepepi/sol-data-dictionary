@@ -3,5 +3,8 @@
   "display_name": "Sleep Disorder - Self (MHEA24)",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk"
+  "domain": "noyesdk",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

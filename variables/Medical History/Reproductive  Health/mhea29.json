@@ -3,5 +3,8 @@
   "display_name": "Ever Had Hysterectomy (MHEA29)",
   "description": "",
   "type": "choices",
-  "domain": "ever_hysterectomy"
+  "domain": "ever_hysterectomy",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

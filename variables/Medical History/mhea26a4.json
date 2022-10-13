@@ -3,5 +3,8 @@
   "display_name": "Cancer/ Blood/lymph glands - Self (MHEA26A4)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

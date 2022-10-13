@@ -3,5 +3,8 @@
   "display_name": "Cancer/ Stomach - Self (MHEA26A10)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

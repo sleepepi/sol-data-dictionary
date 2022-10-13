@@ -3,5 +3,8 @@
   "display_name": "Menopause Reached (MHEA31)",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk"
+  "domain": "noyesdk",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

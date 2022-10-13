@@ -3,5 +3,8 @@
   "display_name": "Cancer/ Skin (not mel) - Self (MHEA26A8)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "mhea_annotated"
+  ]
 }
