@@ -3,5 +3,8 @@
   "display_name": "Diabetes - Age Diagnosed Self (MHEA16A)",
   "description": "",
   "type": "integer",
-  "units": "years"
+  "units": "years",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

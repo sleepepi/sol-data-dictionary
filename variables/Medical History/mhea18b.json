@@ -3,5 +3,8 @@
   "display_name": "Hepatitis Type - Self (MHEA18B)",
   "description": "",
   "type": "choices",
-  "domain": "hepatitis_type"
+  "domain": "hepatitis_type",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

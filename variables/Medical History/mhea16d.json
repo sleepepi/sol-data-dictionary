@@ -3,5 +3,8 @@
   "display_name": "Diabetes - Insulin Trt for Diab Self (MHEA16D)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "mhea_annotated"
+  ]
 }
