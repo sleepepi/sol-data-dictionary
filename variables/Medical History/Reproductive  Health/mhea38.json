@@ -3,5 +3,8 @@
   "display_name": "Fem Hor Med (NOT BC) (MHEA38)",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk"
+  "domain": "noyesdk",
+  "forms": [
+    "mhea_annotated"
+  ]
 }

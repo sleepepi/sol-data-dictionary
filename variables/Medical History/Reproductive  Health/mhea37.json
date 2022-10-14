@@ -3,5 +3,8 @@
   "display_name": "Birth Control Medication (MHEA37)",
   "description": "",
   "type": "choices",
-  "domain": "noyes01"
+  "domain": "noyes01",
+  "forms": [
+    "mhea_annotated"
+  ]
 }
