@@ -9,5 +9,8 @@
     "sleep_quality",
     "whiirs",
     "whiirs_5quality"
+  ],
+  "forms": [
+    "slea_annotated"
   ]
 }

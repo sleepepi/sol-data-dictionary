@@ -8,5 +8,8 @@
     "hchs_sleep_questionnaire",
     "epwroth",
     "ess_8stoppedcar"
+  ],
+  "forms": [
+    "slea_annotated"
   ]
 }

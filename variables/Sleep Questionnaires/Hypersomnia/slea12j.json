@@ -9,5 +9,8 @@
     "subjective_sleepiness",
     "ess_driving",
     "epworth"
+  ],
+  "forms": [
+    "slea_annotated"
   ]
 }

@@ -6,5 +6,8 @@
   "labels": [
     "hchs_sleep_questionnaire",
     "sleep_timing"
+  ],
+  "forms": [
+    "slea_annotated"
   ]
 }

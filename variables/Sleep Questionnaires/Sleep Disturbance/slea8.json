@@ -7,5 +7,8 @@
   "labels": [
     "hchs_sleep_questionnaire",
     "insomnia"
+  ],
+  "forms": [
+    "slea_annotated"
   ]
 }
