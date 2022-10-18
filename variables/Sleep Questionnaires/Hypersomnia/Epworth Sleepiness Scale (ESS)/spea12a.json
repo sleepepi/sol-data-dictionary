@@ -8,5 +8,8 @@
     "hchs_sleep_questionnaire",
     "epworth",
     "ess_1sitread"
+  ],
+  "forms": [
+    "spea_annotated"
   ]
 }

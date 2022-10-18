@@ -2,5 +2,8 @@
   "id": "spea1a_2401",
   "display_name": "Bedtime WEEKDAY (24-hour clock)",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "spea_annotated"
+  ]
 }

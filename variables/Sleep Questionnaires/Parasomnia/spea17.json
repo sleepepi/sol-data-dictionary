@@ -3,5 +3,8 @@
   "display_name": "Discomfort worse at rest, relief by activity",
   "description": "",
   "type": "choices",
-  "domain": "noyesdkqs"
+  "domain": "noyesdkqs",
+  "forms": [
+    "spea_annotated"
+  ]
 }

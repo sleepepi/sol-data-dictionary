@@ -3,5 +3,8 @@
   "display_name": "Discomfort symptoms worse later in day",
   "description": "",
   "type": "choices",
-  "domain": "noyesdkqs"
+  "domain": "noyesdkqs",
+  "forms": [
+    "spea_annotated"
+  ]
 }

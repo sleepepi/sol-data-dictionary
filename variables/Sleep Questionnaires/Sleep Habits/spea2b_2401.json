@@ -2,5 +2,8 @@
   "id": "spea2b_2401",
   "display_name": "Wakeup time WEEKEND (24-hour clock)",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "forms": [
+    "spea_annotated"
+  ]
 }

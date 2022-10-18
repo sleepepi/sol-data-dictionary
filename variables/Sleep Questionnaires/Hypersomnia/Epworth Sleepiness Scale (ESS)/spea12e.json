@@ -8,5 +8,8 @@
     "hchs_sleep_questionnaire",
     "epwroth",
     "ess_5lyingdown"
+  ],
+  "forms": [
+    "spea_annotated"
   ]
 }

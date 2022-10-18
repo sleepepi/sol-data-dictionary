@@ -3,5 +3,8 @@
   "display_name": "Desire to move legs because discomfort",
   "description": "",
   "type": "choices",
-  "domain": "noyesdk"
+  "domain": "noyesdk",
+  "forms": [
+    "spea_annotated"
+  ]
 }

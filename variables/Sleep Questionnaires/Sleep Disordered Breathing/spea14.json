@@ -3,5 +3,8 @@
   "display_name": "How often stop breathing in sleep per wk",
   "description": "",
   "type": "choices",
-  "domain": "stop_breathing_frequency"
+  "domain": "stop_breathing_frequency",
+  "forms": [
+    "spea_annotated"
+  ]
 }

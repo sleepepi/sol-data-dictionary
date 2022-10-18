@@ -8,5 +8,8 @@
     "hchs_sleep_questionnaire",
     "epwroth",
     "ess_7afterlunch"
+  ],
+  "forms": [
+    "spea_annotated"
   ]
 }

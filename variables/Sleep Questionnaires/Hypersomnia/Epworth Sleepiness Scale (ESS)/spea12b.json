@@ -8,5 +8,8 @@
     "hchs_sleep_questionnaire",
     "epworth",
     "ess_2watchingtv"
+  ],
+  "forms": [
+    "spea_annotated"
   ]
 }

@@ -8,5 +8,8 @@
     "insomnia",
     "whiirs",
     "whiirs_2freqwake"
+  ],
+  "forms": [
+    "spea_annotated"
   ]
 }

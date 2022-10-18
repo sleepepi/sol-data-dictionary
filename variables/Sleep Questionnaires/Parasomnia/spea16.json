@@ -3,5 +3,8 @@
   "display_name": "Need to move legs to relieve discomfort",
   "description": "",
   "type": "choices",
-  "domain": "noyesdkqs"
+  "domain": "noyesdkqs",
+  "forms": [
+    "spea_annotated"
+  ]
 }

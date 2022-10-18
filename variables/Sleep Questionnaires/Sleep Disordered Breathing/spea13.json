@@ -3,5 +3,8 @@
   "display_name": "How often snore per week",
   "description": "",
   "type": "choices",
-  "domain": "snore_frequency"
+  "domain": "snore_frequency",
+  "forms": [
+    "spea_annotated"
+  ]
 }
