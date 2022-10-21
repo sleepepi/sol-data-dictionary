@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "isi_c4",
   "labels": [
+    "insomnia",
     "isi",
     "isi_total"
   ]

@@ -1,9 +1,10 @@
 {
   "id": "isi",
   "display_name": "Insomnia Severity Index: Total Score",
-  "description": "Summary score for the Insomnia Severity Index. [Morin CM, Insomnia, psychological assessment and management. Guilford Press, New York, 1993](https://pubmed.ncbi.nlm.nih.gov/21532953/) Each item is scored from 0 to 4. Total score is the sum of all seven items (0 to 28), and catergorized as: absence of insomnia (07), sub-threshold insomnia (814), moderate insomnia (1521), and severe insomnia (2228).<br><br> This is a numeric variable with values ranging from 0-28 based on the Sleep Questionnaire II form. Missing if did not answer any of following: SQEA6, SQEA7, SQEA8, SQEA9. If SQEA10 answered 'Yes 1', but any of following missing: SQEA11, SQEA12, SQEA13, then missing. Missing if did not answer SQEA10 and SQEA11-SQEA13.<br><br>[Search for all ISI variables within this dataset](https://sleepdata.org/datasets/hchs/variables?search=isi)",
+  "description": "Summary score for the Insomnia Severity Index. [Morin CM, Insomnia, psychological assessment and management. Guilford Press, New York, 1993](https://pubmed.ncbi.nlm.nih.gov/21532953/) Each item is scored from 0 to 4. Total score is the sum of all seven items (0 to 28), and catergorized as: absence of insomnia (0 to 7), sub-threshold insomnia (8 to 14), moderate insomnia (15 to 21), and severe insomnia (22 to 28).<br><br> This is a numeric variable with values ranging from 0-28 based on the Sleep Questionnaire II form. Missing if did not answer any of following: SQEA6, SQEA7, SQEA8, SQEA9. If SQEA10 answered 'Yes 1', but any of following missing: SQEA11, SQEA12, SQEA13, then missing. Missing if did not answer SQEA10 and SQEA11-SQEA13.<br><br>[Search for all ISI variables within this dataset](https://sleepdata.org/datasets/hchs/variables?search=isi)",
   "type": "integer",
   "labels": [
+    "insomnia",
     "isi",
     "isi_total"
   ]

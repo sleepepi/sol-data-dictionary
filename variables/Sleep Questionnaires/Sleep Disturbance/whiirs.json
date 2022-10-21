@@ -1,7 +1,11 @@
 {
   "id": "whiirs",
   "display_name": "Women's Health Initiative Insomnia Rating Scale: Total score",
-  "description": "Calculated - The Womens Health Initiative Insomnia Rating Scale (WHIIRS) has 5 items. Each item is scored on a 5 point scale (from 0-4). The total score is the sum of all five items ranging from 0 to 20. Higher score indicates more severe insomnia. A score of 9 or higher is considered clinically significant insomnia. [Levine et al.(2003)](https://psycnet.apa.org/record/2003-06188-004) <br><br>The score is calculated from non-missing values for any of the following five items: SLEA4, SLEA5, SLEA6, SLEA7 and SLEA11. The original items range from 0 to 4 and the total score from 0 to 20.  In HCHS/SOL, SLEA form the scoring for questions 4 to 7 each ranged from 1 to 5 so 1 should be subtracted from each of these items to obtain the score for use in calculating WHIIRS.<br><br> [Search for all WHIIRS variables within this dataset](https://sleepdata.org/datasets/hchs/variables?search=whiirs)",
+  "description": "Calculated - The Women's Health Initiative Insomnia Rating Scale (WHIIRS) has 5 items. Each item is scored on a 5 point scale (from 0-4). The total score is the sum of all five items ranging from 0 to 20. Higher score indicates more severe insomnia. A score of 9 or higher is considered clinically significant insomnia. [Levine et al.(2003)](https://psycnet.apa.org/record/2003-06188-004) <br><br>The score is calculated from non-missing values for any of the following five items: SLEA4, SLEA5, SLEA6, SLEA7 and SLEA11. The original items range from 0 to 4 and the total score from 0 to 20.  In HCHS/SOL, SLEA form the scoring for questions 4 to 7 each ranged from 1 to 5 so 1 should be subtracted from each of these items to obtain the score for use in calculating WHIIRS.<br><br> [Search for all WHIIRS variables within this dataset](https://sleepdata.org/datasets/hchs/variables?search=whiirs)",
   "type": "integer",
-  "domain": "whiirs_score"
+  "labels": [
+    "insomnia",
+    "whiirs",
+    "whiirs_score"
+  ]
 }

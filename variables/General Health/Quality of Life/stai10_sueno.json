@@ -1,6 +1,10 @@
 {
   "id": "stai10_sueno",
-  "display_name": "10-Item State Trait Anxiety Inventory",
-  "description": "This variable is the sum of (WBEA11-WBEA20), where positively worded items (WBEA12, WBEA17, WBEA19) are reverse coded, and 1 is added to all responses (converting from 0-3 to 1-4 scale to match the standardized instrument scoring). For participants with 1 or 2 missing items, STAI10 is equal to the weighted average of the nonmissing items*10.",
-  "type": "numeric"
+  "display_name": "10-Item State-Trait Anxiety Inventory (State Anxiety Subscale) Score",
+  "description": "Summary score of the State-Trait Anxiety Iventory State Anxiety Subscale (10 items). [Spielberger CD et al., 1983. Manual for the State-Trait Anxiety Inventory. Palo Alto, CA: Consulting Psychologists Press.](https://doi.org/10.1037/t06496-000) The summary score has a range of 10 to 40. Higher scores indicate more severe anxiety. <br><br>This variable is the sum of (WBEA11-WBEA20), where positively worded items (WBEA12, WBEA17, WBEA19) are reverse coded, and 1 is added to all responses (converting from 0-3 to 1-4 scale to match the standardized instrument scoring). For participants with 1 or 2 missing items, STAI10 is equal to the weighted average of the nonmissing items*10.<br><br> [Search for all S-Anxiety variables within this dataset](https://sleepdata.org/datasets/hchs/variables?search=stais)",
+  "type": "numeric",
+  "labels": [
+    "stais_score",
+    "stais"
+  ]
 }

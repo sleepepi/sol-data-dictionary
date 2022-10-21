@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "freq4weeks",
   "labels": [
+    "insomnia",
     "whiirs",
     "whiirs_3earlywake"
   ],

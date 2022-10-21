@@ -2,5 +2,11 @@
   "id": "cesd10",
   "display_name": "CESD 10-item total summary score",
   "description": "This variable is the sum of (WBEA1-WBEA10), where positively worded items (WBEA5, WBEA8) are reverse coded.  For participants with 1 or 2 missing items, CESD10 is equal to the weighted average of the nonmissing items*10.",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "mossf12_mcs",
+    "mossf12",
+    "mossf36",
+    "mossf36_mcs"
+  ]
 }

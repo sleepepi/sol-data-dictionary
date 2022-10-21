@@ -1,6 +1,12 @@
 {
   "id": "agg_phys",
-  "display_name": "SF-12 Health Survey: Aggregate physical health score norm-based transformed",
-  "description": "This sub-scale score is a norm-based transformation of standardized Z scores of the constituent items for the established domains which is scaled to a mean of 50 and standard deviation of 10.",
-  "type": "numeric"
+  "display_name": "Medical Outcomes Study 12-Item Short Form Survey SF-12: Physical component summary score (norm-based transformed)",
+  "description": "Summary component score of physical health.  [Rand Health Care. 12-Item Short Form Survey (SF-12)](https://www.rand.org/health-care/surveys_tools/mos/12-item-short-form.html)<br><br>This sub-scale score is a norm-based transformation of standardized Z scores of the constituent items for the established domains which is scaled to a mean of 50 and standard deviation of 10.<br><br>[Search for all SF-12 variables within this dataset](https://sleepdata.org/datasets/hchs/variables?search=mossf12)",
+  "type": "numeric",
+  "labels": [
+    "mossf12_pcs",
+    "mossf12",
+    "mossf36",
+    "mossf36_pcs"
+  ]
 }
