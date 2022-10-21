@@ -1,4 +1,4 @@
-## 0.7.1
+## 0.7.1 (October 21, 2022)
 
 - Link variables to annotated forms
 - Revise metadata for variables from validated survey instruments
