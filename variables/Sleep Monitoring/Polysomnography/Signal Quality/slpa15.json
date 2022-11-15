@@ -3,5 +3,8 @@
   "display_name": "Overall Study Quality",
   "description": "",
   "type": "choices",
-  "domain": "overall_study_quality"
+  "domain": "overall_study_quality",
+  "forms": [
+    "ares_qs_annotated"
+  ]
 }

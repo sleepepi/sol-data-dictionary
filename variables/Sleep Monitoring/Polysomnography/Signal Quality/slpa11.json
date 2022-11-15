@@ -3,5 +3,8 @@
   "display_name": "Hours of valid recording time in non-supine position - Cannula",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "forms": [
+    "ares_qs_annotated"
+  ]
 }

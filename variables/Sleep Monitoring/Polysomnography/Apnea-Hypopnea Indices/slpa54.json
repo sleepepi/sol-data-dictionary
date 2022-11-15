@@ -6,5 +6,8 @@
   "units": "events per hour",
   "labels": [
     "ahi_ap3nhp5x3n_f1t4"
+  ],
+  "forms": [
+    "ares_qs_annotated"
   ]
 }
