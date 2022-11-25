@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "freq4weeks0s",
   "labels": [
-    "hchs_sleep_questionnaire_II",
+    "hchs_sleep_questionnaire_II_ancillary",
     "insomnia_treatment"
   ],
   "forms": [

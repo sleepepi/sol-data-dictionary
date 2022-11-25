@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "nap_usual_week",
+  "labels": [
+    "hchs_sleep_questionnaire_ancillary",
+    "sleep_hygiene"
+  ],
   "forms": [
     "spea_annotated"
   ]

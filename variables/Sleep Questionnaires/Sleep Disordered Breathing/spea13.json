@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "snore_frequency",
+  "labels": [
+    "hchs_sleep_questionnaire_ancillary",
+    "snore"
+  ],
   "forms": [
     "spea_annotated"
   ]

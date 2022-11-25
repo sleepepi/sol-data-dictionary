@@ -1,7 +1,7 @@
 {
   "id": "slpa68",
-  "display_name": "Total Number of Apneas and Hypopneas (Supine): Apneas with >= 4% oxygen desaturation + hypopneas with > 50% flow reduction and >= 4% oxygen desaturation during sleep in supine position from type IV home sleep apnea test",
-  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal for at least 10 seconds.",
+  "display_name": "Total Number of Apneas and Hypopneas (Supine): Apneas with >= 4% oxygen desaturation + hypopneas with > 50% flow reduction and >= 4% oxygen desaturation during artifact-free estimated sleep in supine position from type IV home sleep apnea test",
+  "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal for at least 10 seconds.<br><br>Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)  Any continuous periods of >=20 min with loss of respiratory channel was marked as wake and not included in the estimates. ",
   "type": "numeric",
   "labels": [
     "ttlnumah_pb_ap4nhp5x4n_f1t4"

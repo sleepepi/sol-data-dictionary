@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "stop_breathing_frequency",
+  "labels": [
+    "hchs_sleep_questionnaire_ancillary",
+    "sdb",
+    "osa"
+  ],
   "forms": [
     "spea_annotated"
   ]

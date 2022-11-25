@@ -1,11 +1,11 @@
 {
-  "id": "nsrr_ahi_ap3u",
-  "display_name": "Apnea-Hypopnea Index : (Apneas and hypopneas with >= 3% oxygen desaturation) / hour of estimated sleep",
+  "id": "nsrr_rei_ap3n",
+  "display_name": "Respiratory Event Index : (Apneas or hypopneas with >= 3% oxygen desaturation) / hour of estimated sleep",
   "description": "Harmonized by the NSRR team.<br><br>Data collected with no EEGs. Refer to the source for detailed definition for respiratory events: :slpa54: at Visit 1",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
-    "ahi_ah5x3n_f1t4"
+    "rei_ah5x3n_f1t4"
   ],
   "commonly_used": true
 }

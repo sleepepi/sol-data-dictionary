@@ -16,7 +16,7 @@
   libname solb "\\rfawin\BWH-SLEEPEPI-SOL\nsrr-prep\_datasets";
   options nofmterr;
 
-  %let release = 0.7.1;
+  %let release = 0.7.2;
 
 
 /*
@@ -90,7 +90,8 @@ run;
     drop fseqno linenumber vers visit form slpa2 
   SLPA72 SLPA73 SLPA74 SLPA75 SLPA76 SLPA77 SLPA78 SLPA79
     SLPA80 SLPA81 SLPA82 SLPA83 SLPA84 SLPA85 SLPA86 SLPA87
-    SLPA88 SLPA89; /* drop apnea, central apnea only events*/
+    SLPA88 SLPA89 /* drop apnea, central apnea only events*/
+	SLPA105 SLPA106 SLPA107 SLPA108 SLPA109 SLPA110 SLPA27 SLPA29; /* drop duplicate QS variables*/
   run;
 
   data mhea_lad1_in;
@@ -270,15 +271,21 @@ data hchs_sol_harmonized;
 *not using;
 
 *polysomnography;
-*nsrr_ahi_ap3u;
+*nsrr_rei_ap3n;
 *use slpa54;
-  format nsrr_ahi_ap3u 8.2;
-  nsrr_ahi_ap3u = slpa54;
+  format nsrr_rei_ap3n 8.2;
+  nsrr_rei_ap3n = slpa54;
   
-*nsrr_ahi_ap4u;
+*nsrr_rei_ap4n;
 *use slpa63;
-  format nsrr_ahi_ap4u 8.2;
-  nsrr_ahi_ap4u = slpa63;
+  format nsrr_rei_ap4n 8.2;
+  nsrr_rei_ap4n = slpa63;
+
+*nsrr_ttlprdbd;
+*use slpa27;
+  format nsrr_ttlprdbd 8.2;
+  nsrr_ttlprdbd = slpa27;
+
   
   keep 
     pid
@@ -294,8 +301,9 @@ data hchs_sol_harmonized;
     nsrr_bp_diastolic
     nsrr_current_smoker
     nsrr_ever_smoker
-    nsrr_ahi_ap3u
-    nsrr_ahi_ap4u
+    nsrr_rei_ap3n
+    nsrr_rei_ap4n
+	nsrr_ttlprdbd
   ;
 run;
 
@@ -309,8 +317,9 @@ VAR   nsrr_age
     nsrr_bmi
   nsrr_bp_systolic
   nsrr_bp_diastolic
-  nsrr_ahi_ap3u
-  nsrr_ahi_ap4u
+  nsrr_rei_ap3n
+  nsrr_rei_ap4n
+  nsrr_ttlprdbd
     ;
 run;
 

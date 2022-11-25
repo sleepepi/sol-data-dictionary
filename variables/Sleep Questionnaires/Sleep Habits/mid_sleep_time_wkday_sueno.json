@@ -3,5 +3,8 @@
   "display_name": "Weekday average of bedtime and wakeup time, in hours",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "labels": [
+    "sleep_regularity"
+  ]
 }

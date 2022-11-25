@@ -1,0 +1,10 @@
+{
+  "id": "mhea25d1",
+  "display_name": "Apnea - CPAP/BPAP/Other (MHEA25D1)",
+  "description": "Have you been prescribed a CPAP or BIPAP machine, or a device to wear in your mouth to treat your sleep apnea?",
+  "type": "choices",
+  "domain": "noyes01",
+  "forms": [
+    "mhea_annotated"
+  ]
+}

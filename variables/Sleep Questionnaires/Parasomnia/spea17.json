@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "noyesdkqs",
+  "labels": [
+    "hchs_sleep_questionnaire_ancillary",
+    "rls_plms"
+  ],
   "forms": [
     "spea_annotated"
   ]

@@ -3,5 +3,8 @@
   "display_name": "Average sleep duration",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "labels": [
+    "sleep_duration"
+  ]
 }

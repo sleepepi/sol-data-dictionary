@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "freq4weeks",
   "labels": [
+    "hchs_sleep_questionnaire_ancillary",
     "insomnia",
     "whiirs",
     "whiirs_1fallasleep"

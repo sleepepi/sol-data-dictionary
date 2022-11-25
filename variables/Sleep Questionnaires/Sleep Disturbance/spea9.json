@@ -4,6 +4,10 @@
   "description": "",
   "type": "choices",
   "domain": "freq4weeks",
+  "labels": [
+    "hchs_sleep_questionnaire_ancillary",
+    "sleep_related_impairment"
+  ],
   "forms": [
     "spea_annotated"
   ]

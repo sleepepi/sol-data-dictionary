@@ -5,6 +5,7 @@
   "type": "choices",
   "domain": "typical_night_sleep",
   "labels": [
+    "hchs_sleep_questionnaire_ancillary",
     "sleep_quality",
     "whiirs",
     "whiirs_5quality"

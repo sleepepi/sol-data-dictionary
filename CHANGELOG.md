@@ -1,3 +1,12 @@
+## 0.7.2
+
+- Link PSG signal quality variables to annotated QS forms
+- Change all Apnea-Hypopnea Index (AHI) references to Respiratory Event Index (REI) to better match current sleep terminology
+- Add a hamonized sleep architecture variable
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\bwh-sleepepi-sol\nsrr-prep\_releases\0.7.2\`
+
+
 ## 0.7.1 (October 21, 2022)
 
 - Link variables to annotated forms

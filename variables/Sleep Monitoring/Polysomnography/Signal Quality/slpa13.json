@@ -1,0 +1,10 @@
+{
+  "id": "slpa13",
+  "display_name": "Total valid SpO2 recording period in supine position from type IV home sleep apnea test",
+  "description": "",
+  "type": "numeric",
+  "units": "hours",
+  "forms": [
+    "ares_qs_annotated"
+  ]
+}

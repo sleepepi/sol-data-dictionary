@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "epworth",
   "labels": [
-    "hchs_sleep_questionnaire",
+    "hchs_sleep_questionnaire_ancillary",
     "epworth",
     "ess_1sitread"
   ],

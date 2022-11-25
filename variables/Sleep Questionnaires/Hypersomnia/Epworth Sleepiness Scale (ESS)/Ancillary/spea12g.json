@@ -5,8 +5,8 @@
   "type": "choices",
   "domain": "epworth",
   "labels": [
-    "hchs_sleep_questionnaire",
-    "epwroth",
+    "hchs_sleep_questionnaire_ancillary",
+    "epworth",
     "ess_7afterlunch"
   ],
   "forms": [

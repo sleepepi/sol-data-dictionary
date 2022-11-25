@@ -4,6 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "noyes01",
+  "labels": [
+    "rls_plms"
+  ],
   "forms": [
     "mhea_annotated"
   ]

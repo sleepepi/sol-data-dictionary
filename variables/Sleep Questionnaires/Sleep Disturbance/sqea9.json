@@ -5,7 +5,7 @@
   "type": "choices",
   "domain": "satisfied",
   "labels": [
-    "hchs_sleep_questionnaire_II",
+    "hchs_sleep_questionnaire_II_ancillary",
     "sleep_satisfaction"
   ],
   "forms": [

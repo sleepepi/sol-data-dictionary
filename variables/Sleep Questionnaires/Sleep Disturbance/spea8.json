@@ -4,6 +4,11 @@
   "description": "",
   "type": "choices",
   "domain": "freq4weeks",
+  "labels": [
+    "hchs_sleep_questionnaire_ancillary",
+    "insomnia",
+    "insomnia_treatment"
+  ],
   "forms": [
     "spea_annotated"
   ]

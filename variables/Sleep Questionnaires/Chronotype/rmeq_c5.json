@@ -3,5 +3,8 @@
   "display_name": "5-level grouped Reduced Morningness Eveningness Questionnaire Raw Score",
   "description": "",
   "type": "choices",
-  "domain": "rmeq_c5"
+  "domain": "rmeq_c5",
+  "labels": [
+    "chronotype"
+  ]
 }

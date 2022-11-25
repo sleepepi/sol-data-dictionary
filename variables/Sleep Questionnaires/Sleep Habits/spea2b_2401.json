@@ -3,6 +3,10 @@
   "display_name": "Wakeup time WEEKEND (24-hour clock)",
   "description": "",
   "type": "time",
+  "labels": [
+    "hchs_sleep_questionnaire_ancillary",
+    "sleep_timing"
+  ],
   "forms": [
     "spea_annotated"
   ]

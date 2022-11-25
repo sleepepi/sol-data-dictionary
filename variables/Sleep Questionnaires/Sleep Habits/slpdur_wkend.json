@@ -3,5 +3,8 @@
   "display_name": "Weekend sleep duration (hours)",
   "description": "This is a numeric variable that calculates the self-reported sleep duration during weekend days.",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "labels": [
+    "sleep_duration"
+  ]
 }

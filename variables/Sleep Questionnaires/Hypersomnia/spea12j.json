@@ -5,8 +5,10 @@
   "type": "choices",
   "domain": "epworth",
   "labels": [
+    "hchs_sleep_questionnaire_ancillary",
     "ess_driving",
-    "epworth"
+    "epworth",
+    "subjective_sleepiness"
   ],
   "forms": [
     "spea_annotated"
