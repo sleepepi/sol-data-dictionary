@@ -16,7 +16,7 @@
   libname solb "\\rfawin\BWH-SLEEPEPI-SOL\nsrr-prep\_datasets";
   options nofmterr;
 
-  %let release = 0.7.2;
+  %let release = 0.7.2pre;
 
 
 /*
@@ -91,7 +91,7 @@ run;
   SLPA72 SLPA73 SLPA74 SLPA75 SLPA76 SLPA77 SLPA78 SLPA79
     SLPA80 SLPA81 SLPA82 SLPA83 SLPA84 SLPA85 SLPA86 SLPA87
     SLPA88 SLPA89 /* drop apnea, central apnea only events*/
-	SLPA105 SLPA106 SLPA107 SLPA108 SLPA109 SLPA110 SLPA27 SLPA29; /* drop duplicate QS variables*/
+	SLPA105 SLPA106 SLPA107 SLPA108 SLPA109 SLPA110 SLPA27 SLPA29 SLPA31; /* drop duplicate QS variables*/
   run;
 
   data mhea_lad1_in;
@@ -281,10 +281,10 @@ data hchs_sol_harmonized;
   format nsrr_rei_ap4n 8.2;
   nsrr_rei_ap4n = slpa63;
 
-*nsrr_ttlprdbd;
-*use slpa27;
-  format nsrr_ttlprdbd 8.2;
-  nsrr_ttlprdbd = slpa27;
+*nsrr_ttlprdbd_f1;
+*use slpa30;
+  format nsrr_ttlprdbd_f1 8.2;
+  nsrr_ttlprdbd_f1 = slpa30;
 
   
   keep 
@@ -303,7 +303,7 @@ data hchs_sol_harmonized;
     nsrr_ever_smoker
     nsrr_rei_ap3n
     nsrr_rei_ap4n
-	nsrr_ttlprdbd
+	nsrr_ttlprdbd_f1
   ;
 run;
 
@@ -319,7 +319,7 @@ VAR   nsrr_age
   nsrr_bp_diastolic
   nsrr_rei_ap3n
   nsrr_rei_ap4n
-  nsrr_ttlprdbd
+  nsrr_ttlprdbd_f1
     ;
 run;
 

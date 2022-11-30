@@ -1,7 +1,7 @@
 {
   "id": "slpa56",
   "display_name": "Respiratory Event Index (Supine): (Apneas with >= 3% oxygen desaturation + hypopneas with > 50% flow reduction and >= 3% oxygen desaturation) / hours of artifact-free estimated sleep in supine position from type IV home sleep apnea test",
-  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)  Any continuous periods of >=20 min with loss of respiratory channel was marked as wake and not included in the estimates. Please refer to :slpa9: for the valid estimated sleep duration used to calculate this index.",
+  "description": "Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)  Any continuous periods of >=20 min with loss of respiratory channel was marked as wake and not included in the estimates. Please refer to :slpa30: for the valid estimated sleep duration used to calculate this index.",
   "type": "numeric",
   "units": "events per hour",
   "labels": [
