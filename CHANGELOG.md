@@ -1,4 +1,4 @@
-## 0.7.2
+## 0.7.2 (December 8, 2022)
 
 - Link PSG signal quality variables to annotated QS forms
 - Change all Apnea-Hypopnea Index (AHI) references to Respiratory Event Index (REI) to better match current sleep terminology
