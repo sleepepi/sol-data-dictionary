@@ -3,6 +3,7 @@
   "display_name": "Standard deviation of the daily start time of in-bed or rest interval in main sleep over all reliable days from actigraphy",
   "description": "",
   "type": "time",
+  "units":"H:mm:ss",
   "labels": [
     "StdBptRs_im_wr_f2"
   ]

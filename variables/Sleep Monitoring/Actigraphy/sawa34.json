@@ -3,7 +3,7 @@
   "display_name": "Average daily sleep maintenance efficiency in main sleep on weekdays from actigraphy",
   "description": "This variable is similar to variable sawa109; however, sawa34 is derived from Actiware variable sawa24 before data optimization. ",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "AvgMefSp_im_w5_f2"
   ]

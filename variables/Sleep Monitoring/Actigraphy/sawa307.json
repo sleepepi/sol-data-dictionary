@@ -3,7 +3,7 @@
   "display_name": "Average daily number of naps of at least 15 minutes in length over all reliable days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "naps",
+  "units": "number of events",
   "labels": [
     "AvgNumNp_in_wr_npge15_f2"
   ]

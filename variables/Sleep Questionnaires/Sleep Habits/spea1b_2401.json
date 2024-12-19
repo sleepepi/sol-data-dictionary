@@ -3,6 +3,7 @@
   "display_name": "Bedtime WEEKEND (24-hour clock)",
   "description": "",
   "type": "time",
+  "units":"H:mm",
   "labels": [
     "hchs_sleep_questionnaire_ancillary",
     "sleep_timing"

@@ -2,5 +2,6 @@
   "id": "pred_alc",
   "display_name": "Alcohol - NCI predicted intake, servings/d (ALCOHOL)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units":"number of sevings per day"
 }

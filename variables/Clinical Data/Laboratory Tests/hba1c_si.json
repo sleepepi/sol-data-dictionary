@@ -3,5 +3,5 @@
   "display_name": "Glycosylated Hemoglobin (HbA1c) in SI units (mmol/mol), nearest integer",
   "description": "",
   "type": "integer",
-  "units": "mmol per mol"
+  "units": "millimoles per mole (mmol/mol)"
 }

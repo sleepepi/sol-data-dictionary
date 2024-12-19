@@ -3,7 +3,7 @@
   "display_name": "Average daily total sleep duration in main sleep and naps combined on workdays from actigraphy",
   "description": "Sleep duration is the interval between sleep onset and sleep offset time while asleep.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgDurSp_ib_ww_f2"
   ]

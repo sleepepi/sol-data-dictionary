@@ -3,7 +3,7 @@
   "display_name": "Average daily sleep maintenance efficiency in main sleep over all days from actigraphy",
   "description": "This variable is similar to the calculated variable sawa24; however, sawa24 is generated automatically by Actiware before data optimization.  ",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "AvgMefSp_im_w7_f2"
   ]

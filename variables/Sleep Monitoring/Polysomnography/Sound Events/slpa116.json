@@ -3,5 +3,5 @@
   "display_name": "Total time spent in loud snoring",
   "description": "",
   "type": "numeric",
-  "units": "minutes"
+  "units": "minutes (min)"
 }

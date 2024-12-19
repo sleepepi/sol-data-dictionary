@@ -3,6 +3,7 @@
   "display_name": "Standard deviation of daily sleep offset time on non-workdays from actigraphy",
   "description": "",
   "type": "time",
+  "units":"H:mm:ss",
   "labels": [
     "StdEptSp_im_wn_f2"
   ]

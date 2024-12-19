@@ -3,7 +3,7 @@
   "display_name": "Average oxygen saturation in non-supine position from type IV home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "avglvlsa_po_f1t4"
   ]

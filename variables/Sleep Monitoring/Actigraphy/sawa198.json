@@ -3,7 +3,7 @@
   "display_name": "Average daily duration of wake after sleep onset (WASO) on workdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgDurWs_im_ww_f2"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Average sleep duration per nap on non-workdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "PnpDurSp_in_wn_f2"
   ]

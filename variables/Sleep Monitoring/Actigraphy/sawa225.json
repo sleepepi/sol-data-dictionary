@@ -3,6 +3,7 @@
   "display_name": "Average daily end time of in-bed or rest interval in main sleep on workdays from actigraphy",
   "description": "",
   "type": "time",
+  "units":"H:mm:ss",
   "labels": [
     "AvgEptRs_im_ww_f2"
   ]

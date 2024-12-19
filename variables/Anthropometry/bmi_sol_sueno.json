@@ -3,5 +3,5 @@
   "display_name": "Body Mass Index at the Sueno clinic visit, using the SOL height",
   "description": "",
   "type": "numeric",
-  "units": "kilograms per meter squared"
+  "units": "kilograms per meter squared (kg/m2)"
 }

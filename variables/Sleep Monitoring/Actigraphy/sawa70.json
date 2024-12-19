@@ -3,7 +3,7 @@
   "display_name": "Average number of naps per day over all days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "naps per day",
+  "units": "number of events per day",
   "labels": [
     "PdyNumNp_ib_w7_f2"
   ]

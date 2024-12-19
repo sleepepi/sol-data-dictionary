@@ -3,7 +3,7 @@
   "display_name": "Total valid SpO2 recording period in non-supine position from type IV home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "forms": [
     "ares_qs_annotated"
   ]

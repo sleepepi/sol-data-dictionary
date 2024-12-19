@@ -3,6 +3,7 @@
   "display_name": "Total Number of Apneas and Hypopneas: Apneas with  >= 3% oxygen desaturation + hypopneas with > 50% flow reduction and >= 3% oxygen desaturation during artifact-free estimated sleep from type IV home sleep apnea test",
   "description": "Apnea and hypopnea events were not distinguished as separate event types during scoring. Both were classified as a respiratory event that required a 50% reduction in Nasal Flow signal for at least 10 seconds.<br><br>Estimated sleep duration, providing an approximation of total sleep duration (i.e. total sleep time) inferred from analysis of non-EEG channels [Zhao et al., 2017 (PMID:27707441)]( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5181603/)  Any continuous periods of >=20 min with loss of respiratory channel was marked as wake and not included in the estimates. ",
   "type": "numeric",
+  "units":"number of events",
   "labels": [
     "ttlnumah_ap3nhp5x3n_f1t4"
   ],

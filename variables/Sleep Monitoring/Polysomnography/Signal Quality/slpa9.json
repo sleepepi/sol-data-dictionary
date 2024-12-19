@@ -3,7 +3,7 @@
   "display_name": "Hours of valid recording time - Cannula",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "forms": [
     "ares_qs_annotated"
   ]

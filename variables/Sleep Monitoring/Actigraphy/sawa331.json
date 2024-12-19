@@ -3,6 +3,7 @@
   "display_name": "Average daily end time of rest period in main sleep over all days from sleep diary",
   "description": "This is the average time at which the participant self-reported going to bed across all days in the daily sleep log.",
   "type": "time",
+  "units":"H:mm",
   "labels": [
     "AvgEptRs_im_w7_f3"
   ]

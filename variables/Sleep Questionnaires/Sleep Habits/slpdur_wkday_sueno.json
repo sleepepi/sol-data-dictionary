@@ -3,7 +3,7 @@
   "display_name": "Weekday sleep duration",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "sleep_duration"
   ]

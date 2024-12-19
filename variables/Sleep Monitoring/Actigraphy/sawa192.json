@@ -3,7 +3,7 @@
   "display_name": "Standard deviation of rest period in main sleep on workdays from actigraphy",
   "description": "Rest period is the interval between the start and end of the rest interval, used in actigraphy.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "StdPrdRs_im_ww_f2"
   ]

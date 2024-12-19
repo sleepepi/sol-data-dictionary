@@ -3,7 +3,7 @@
   "display_name": "Standard deviation of daily sleep period on weekends from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "StdPrdSp_im_w2_f2"
   ]

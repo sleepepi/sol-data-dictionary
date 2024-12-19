@@ -3,5 +3,5 @@
   "display_name": "Mean Snore level (dB)",
   "description": "",
   "type": "numeric",
-  "units": "decibels"
+  "units": "decibels (dB)"
 }

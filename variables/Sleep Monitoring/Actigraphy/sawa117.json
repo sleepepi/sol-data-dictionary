@@ -3,7 +3,7 @@
   "display_name": "Average number of naps in 24 hours on weekdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "naps per weekday",
+  "units": "number of events per day",
   "labels": [
     "PdyNumNp_ib_w5_f2"
   ]

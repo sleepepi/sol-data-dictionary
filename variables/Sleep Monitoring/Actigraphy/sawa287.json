@@ -3,7 +3,7 @@
   "display_name": "Average daily duration of sleep period in main sleep over all reliable days from actigraphy",
   "description": "Sleep period is the interval between sleep onset and sleep offset time.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgPrdSp_im_wr_f2"
   ]

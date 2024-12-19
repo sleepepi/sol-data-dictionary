@@ -3,7 +3,7 @@
   "display_name": "Percent of days with naps from sleep diary",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "PctDayNp_in_w7_f3"
   ]

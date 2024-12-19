@@ -3,7 +3,7 @@
   "display_name": "Average daily duration of wake in bed on workdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgDurWk_im_ww_f2"
   ]

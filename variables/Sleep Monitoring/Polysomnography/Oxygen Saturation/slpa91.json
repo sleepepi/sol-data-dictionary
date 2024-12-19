@@ -3,7 +3,7 @@
   "display_name": "Minimum oxygen saturation from type IV home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "percent",
+  "units": "percent (%)",
   "labels": [
     "minllvlsa_f1t4"
   ]

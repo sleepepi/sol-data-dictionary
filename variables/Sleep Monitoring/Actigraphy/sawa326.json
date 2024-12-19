@@ -3,7 +3,7 @@
   "display_name": "Average time above lux threshold for blue light in 24 hours (including main rest intervals and naps) over all reliable days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgTalLb_ib_wr_f2"
   ]

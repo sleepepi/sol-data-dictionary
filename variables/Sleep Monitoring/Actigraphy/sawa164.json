@@ -3,7 +3,7 @@
   "display_name": "Average number of naps in 24 hours (including main rest intervals and naps) on weekends from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "naps",
+  "units": "number of events",
   "labels": [
     "AvgNumNp_ib_w2_f2"
   ]

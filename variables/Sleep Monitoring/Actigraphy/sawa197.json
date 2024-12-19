@@ -3,7 +3,7 @@
   "display_name": "Average daily sleep onset latency on workdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgLatSp_im_ww_f2"
   ]

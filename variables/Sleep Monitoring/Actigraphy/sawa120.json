@@ -3,7 +3,7 @@
   "display_name": "Average sleep duration per nap on weekdays from actigraphy",
   "description": "Sleep duration is the interval between sleep onset and sleep offset time while asleep.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "PnpDurSp_ib_w5_f2"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Average daily duration of wake after sleep offset (snooze time) on weekdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgDurSz_im_w5_f2"
   ]

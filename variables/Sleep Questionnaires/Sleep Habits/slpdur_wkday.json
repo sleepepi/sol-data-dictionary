@@ -3,7 +3,7 @@
   "display_name": "Weekday sleep duration (hours)",
   "description": "This is a numeric variable that calculates the self-reported sleep duration during weekdays.",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "sleep_duration"
   ]

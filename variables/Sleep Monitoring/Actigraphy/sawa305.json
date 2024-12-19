@@ -3,7 +3,7 @@
   "display_name": "Average daily number of naps in 24 hours (including main rest intervals and naps) over all reliable days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "naps",
+  "units": "number of events",
   "labels": [
     "PdyNumNp_ib_wr_f2"
   ]

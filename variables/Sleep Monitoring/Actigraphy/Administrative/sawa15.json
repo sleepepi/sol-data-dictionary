@@ -2,5 +2,6 @@
   "id": "sawa15",
   "display_name": "Data collection end time",
   "description": "",
-  "type": "time"
+  "type": "time",
+  "units":"H:mm"
 }

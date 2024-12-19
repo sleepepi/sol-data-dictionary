@@ -3,7 +3,7 @@
   "display_name": "Average daily number of naps of any sleep recorded on non-workdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "naps",
+  "units": "number of events",
   "labels": [
     "AvgNumNp_in_wn_npgt0_f2"
   ]

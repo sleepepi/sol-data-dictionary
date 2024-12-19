@@ -3,6 +3,7 @@
   "display_name": "Total number ofvalid days on weekends from actigraphy",
   "description": "",
   "type": "numeric",
+  "units": "valid days",
   "labels": [
     "TtlDayVa_ib_w2_f2"
   ]

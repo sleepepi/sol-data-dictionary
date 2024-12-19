@@ -3,7 +3,7 @@
   "display_name": "Average daily number of naps of at least 15 minutes in length on workdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "naps per day",
+  "units": "number of events per day",
   "labels": [
     "PdyNumNp_in_ww_npge15_f2"
   ]

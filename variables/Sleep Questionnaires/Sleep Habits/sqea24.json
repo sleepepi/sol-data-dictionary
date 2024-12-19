@@ -3,7 +3,7 @@
   "display_name": "Energy drinks on typical day",
   "description": "",
   "type": "integer",
-  "units": "servings",
+  "units": "number of servings per day",
   "labels": [
     "hchs_sleep_questionnaire_II_ancillary",
     "sleep_hygiene"

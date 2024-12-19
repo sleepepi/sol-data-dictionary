@@ -3,7 +3,7 @@
   "display_name": "Avearage sleep duration per nap of any sleep recorded over all reliable days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "PnpDurSp_in_wr_npgt0_f2"
   ]

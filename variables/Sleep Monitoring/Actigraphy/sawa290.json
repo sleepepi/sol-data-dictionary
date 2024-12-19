@@ -3,7 +3,7 @@
   "display_name": "Standard deviation of the daily sleep duration in main sleep over all reliable days from actigraphy",
   "description": "Sleep duration (i.e. total sleep time) is the interval between sleep onset and sleep offset time while asleep.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "StdDurSp_im_wr_f2"
   ]

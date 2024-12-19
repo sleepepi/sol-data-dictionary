@@ -3,7 +3,7 @@
   "display_name": "Total artifact free periods in supine position within the in-bed period from type IV home sleep apnea test",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "ttlprdrd_pb_f1t4"
   ]

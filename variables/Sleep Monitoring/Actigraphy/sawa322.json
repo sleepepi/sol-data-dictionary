@@ -3,6 +3,7 @@
   "display_name": "Standard deviation of the daily mid-point time of rest period in main sleep over all reliable days from actigraphy",
   "description": "Rest period is the interval between the start and end of the rest interval, used in actigraphy.",
   "type": "time",
+  "units":"H:mm:ss",
   "labels": [
     "StdMptRs_im_wr_f2"
   ]

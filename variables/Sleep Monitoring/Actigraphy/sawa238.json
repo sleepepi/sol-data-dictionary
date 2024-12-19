@@ -3,7 +3,7 @@
   "display_name": "Average daily duration of rest period in main sleep on non-workdays from actigraphy",
   "description": "Rest period is the interval between the start and end of the rest interval, used in actigraphy.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgPrdRs_im_wn_f2"
   ]

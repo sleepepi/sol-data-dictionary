@@ -3,7 +3,7 @@
   "display_name": "Total number of days with naps of at least 15 minutes in length on weekends from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "weekends",
+  "units": "days",
   "labels": [
     "TtlDayNp_ib_w2_npge15_f2"
   ]

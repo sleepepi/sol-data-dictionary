@@ -3,7 +3,7 @@
   "display_name": "Average sleep duration per nap across all days from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "PnpDurSp_in_w7_f2"
   ]

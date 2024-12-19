@@ -3,7 +3,7 @@
   "display_name": "Standard deviation of the daily sleep period in main sleep over all reliable days from actigraphy",
   "description": "Sleep period is the interval between sleep onset and sleep offset time.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "StdPrdSp_im_wr_f2"
   ]

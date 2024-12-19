@@ -3,5 +3,5 @@
   "display_name": "Percentage Interproximal Sites Positive for Periodontitis",
   "description": "This is an additional method of describing the extent of disease in the mouth.",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent (%)"
 }

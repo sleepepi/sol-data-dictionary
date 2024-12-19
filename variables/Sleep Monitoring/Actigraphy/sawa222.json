@@ -3,6 +3,7 @@
   "display_name": "Standard deviation of the daily sleep onset time on workdays from actigraphy",
   "description": "",
   "type": "time",
+  "units":"H:mm:ss",
   "labels": [
     "StdBptSp_im_ww_f2"
   ]

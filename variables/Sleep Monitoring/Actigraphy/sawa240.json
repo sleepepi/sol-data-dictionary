@@ -3,7 +3,7 @@
   "display_name": "Average daily sleep period on non-workdays from actigraphy",
   "description": "This is the average duration of time between sleep onset and sleep offset across all non-workday main rest intervals, in minutes.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "AvgPrdSp_im_wn_f2"
   ]

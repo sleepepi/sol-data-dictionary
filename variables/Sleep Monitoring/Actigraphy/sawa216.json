@@ -3,7 +3,7 @@
   "display_name": "Average sleep duration per nap of at least 15 minutes in length on workdays from actigraphy",
   "description": "Sleep duration is the interval between sleep onset and sleep offset time while asleep.",
   "type": "numeric",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "PnpDurSp_in_ww_npge15_f2"
   ]

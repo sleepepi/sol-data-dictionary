@@ -3,6 +3,7 @@
   "display_name": "Total number of valid days over all days from actigraphy",
   "description": "The number of valid 24 hour intervals that meet minimum quality criteria.",
   "type": "numeric",
+  "units":"valid days",
   "labels": [
     "TtlDayVa_ib_w7_f2"
   ]

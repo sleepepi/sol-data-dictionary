@@ -3,6 +3,7 @@
   "display_name": "Time Usually Wake Up: Non-Work/School Days (24 hrs)",
   "description": "",
   "type": "time",
+  "units":"H:mm",
   "labels": [
     "hchs_sleep_questionnaire",
     "sleep_timing"

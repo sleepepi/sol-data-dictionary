@@ -3,5 +3,5 @@
   "display_name": "Percent of time with Snoring level > 60 dB",
   "description": "",
   "type": "numeric",
-  "units": "percent"
+  "units": "percent (%)"
 }

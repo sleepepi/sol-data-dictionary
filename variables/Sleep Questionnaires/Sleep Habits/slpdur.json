@@ -3,7 +3,7 @@
   "display_name": "Average sleep duration (hours)",
   "description": "This is a numeric variable that calculates the average daily sleep duration during an entire week (five weekdays and two weekend days), using self-reported sleep data.",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "labels": [
     "sleep_duration"
   ]

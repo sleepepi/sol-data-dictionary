@@ -3,7 +3,7 @@
   "display_name": "Glasses/cans of soda on typical day",
   "description": "",
   "type": "integer",
-  "units": "servings",
+  "units": "number of servings per day",
   "labels": [
     "hchs_sleep_questionnaire_II_ancillary",
     "sleep_hygiene"

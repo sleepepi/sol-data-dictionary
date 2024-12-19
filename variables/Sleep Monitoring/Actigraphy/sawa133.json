@@ -3,6 +3,7 @@
   "display_name": "Average daily mid-point of in-bed or rest interval in main sleep on weekdays from actigraphy",
   "description": "",
   "type": "time",
+  "units":"H:mm:ss",
   "labels": [
     "AvgMptRs_im_w5_f2"
   ]
